@@ -1,0 +1,176 @@
+---
+title: "Asistencias a los Puntos Digitales"
+subtitle: "Trabajo Final Integrador"
+author: Valeria Aguirre, Alejandro Blasco, Fernanda López Franz, Pilar Thill
+date: "2023-10-20"
+output:
+  html_document:
+    theme: flatly
+    # highlight: zenburn
+    highlight: pygments
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+      number_sections: true
+    code_folding: hide
+---
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Google+Font+Name&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet" >
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
+</head>
+
+<style>
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: #016763;
+}
+body {
+  font-family: 'Libre Franklin', system-ui, 'Segoe UI', Roboto, Helvetica, 'Arial', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', 'Source Sans Pro', 'Lato', 'Helvetica Neue', sans-serif;
+}
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***UNaB***\
+*Diplomatura en Análisis de Datos para el Desarrollo de Políticas Públicas*\
+Universidad Nacional Guillermo Brown
+
+***Coordinador:***\
+Juan Domingo González
+
+
+# Objetivos Generales
+Referidos al propósito de la investigación, los Objetivos Generales son potenciales,  puede ser algo muy genérico como “Comprender la problemática del sector X ”
+
+# Objetivos Específicos   
+El objetivo específico refleja el resultado esperable en el plazo previsto para la realización del plan. 
+El objetivo general, al cual contribuye el objetivo específico, se orienta hacia resultados posibles de obtener en el largo plazo en la línea de investigación mediante trabajos futuros no incluidos en el plan.
+
+# Antecedentes 
+Indicar el estado de la situación, y en lo posible, trabajos similares en literatura especializada o casos de estudio similares que comparten elementos con el tema planteado.
+
+# Actividades y metodología
+Indicar si la factibilidad del trabajo propuesto, datos disponibles para hacer los análisis, acceso a software especial de análisis de datos y bibliografía. En este análisis, prestar especial atención al tiempo disponible para realizar el trabajo, teniendo en cuenta que es un plan acotado con fecha final aproximada 31-08-2023.
+*   Repositorio de datos GitHub: https://github.com/DiploDatosUNAB/UNaB-AdDyPP-TFI 
+*   Drive: 09-Proyecto Final 
+*   Instructivo: Plan de Trabajo - Instructivo.docx
+*   Colab: UNaB - AdDyPP - Trabajo Final Integrador.ipynb
+
+# Referencias
+Incluir libros, artículos científicos, sitios web, repositorios digitales de datos asociados al plan.  En lo posible, hacerlo siguiendo las normas bibliográficas académicas. Por ejemplo https://biblioguias.uma.es/citasybibliografia/ejemplosAPA
+
+## 0. Acciones Preliminares
+
+```{r variables}
+# Warnings de Librerías
+WARN_ACT <- FALSE
+PATH <- "datos/"
+puntos_arch <- "puntos_digitales.csv"
+```
+
+**Instalación condicional de librerías**
+
+Instala solos si detecta que falta instalarlas.
+```{r instalar}
+# instalación condicional de librerías (solo instala si faltan)
+# https://stackoverflow.com/questions/66869137/installing-r-packages-in-colab
+# https://stackoverflow.com/questions/63594521/install-a-r-package-permanently-in-google-colab
+instalar <- function(libreria) {
+  if (!requireNamespace(libreria, quietly = TRUE)) {
+    install.packages(libreria)
+  }
+}
+instalar("gt")
+instalar("gtExtras")
+# instalar("Hmisc")
+# instalar("purrr")
+# instalar("lattice")
+# instalar("ggplot2")
+# instalar("readr")
+# instalar("cluster")
+# instalar("dplyr")
+# instalar("stats")
+# instalar("stringr")
+# instalar("corrplot")
+# instalar("ergm") para medianas ponderadas. No utilizado
+# demora 30-45 segundos
+# instalar("psych")
+# demora demora 3-8 segundos
+# instalar("skimr")
+# demora 5-7 minutos
+# instalar("caret")
+# instalar("sf")
+```
+
+**Carga de librerías**
+```{r librerias}
+# Función de carga condicional de librerías (solo carga si están instaladas)
+cargar <- function(libreria, warns = WARN_ACT) {
+  if (requireNamespace(libreria, quietly = TRUE)) {
+    if(warns) {
+      library(libreria, character.only = TRUE)
+    } else{
+      suppressMessages(library(libreria, character.only = TRUE))
+    }
+    
+  }
+}
+
+# carga de librerías a utilizar
+cargar("readr")        # lectura de datos
+cargar("dplyr")        # manipulación de df
+cargar("gt")           # tablas
+cargar("gtExtras")     # tablas
+
+# cargar("lattice")      # graficación estadistica
+# cargar("ggplot2")      # graficación
+# cargar("cluster")      # clustering
+# cargar("skimr")        # estadísticas
+# cargar("stats")        # estadísticas
+# cargar("kableExtra") # tablas
+# cargar("psych")        # estadísticas
+# cargar("purrr")        # manejo de listas
+# cargar("IRdisplay")  # display de notebook
+# cargar("tidyverse")    # conjunto de paquetes tidy
+# cargar("stringr")      # cadenas de caracteres
+# cargar("corrplot")     # grafico de correlación
+# cargar("Hmisc")        # correlaciones
+# cargar("caret")        # entrenamiento
+# cargar("sf")           # datos geoespaciales
+# cargar("ergm")        # análisis estadísticos
+```
+
+
+## 1. Tablas
+
+### 1.1 Puntos Digitales
+
+#### 1.1.1 Listado de Puntos Digitales
+
+El Programa Punto Digital cuenta con dispositivos instalados a lo largo y ancho del territorio argentino. Su objetivo fundamental es la reducción de la brecha digital a los fines de contribuir a la mejora de la calidad de vida de las y los habitantes del país. Esta tabla contiene el listado de los puntos digitales.
+
+```{r carga_puntos}
+# Puntos digitales
+
+df <- read.csv(paste0(PATH, puntos_arch), sep = ",", encoding = "ISO-8859-1")
+
+sample_n(df, 5) |> 
+  dplyr::mutate(horarios = substr(horarios, 1, 20)) |>  # Truncar "horarios"
+  gt() |> 
+  tab_header(
+    title = "Puntos Digitales*",
+    subtitle = "* muestra"
+  ) |>
+  tab_options(table.width = "100%") |>
+  opt_stylize(style = 5, color = 'cyan')
+```
