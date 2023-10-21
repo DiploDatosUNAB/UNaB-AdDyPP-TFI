@@ -92,6 +92,10 @@ instalar <- function(libreria) {
 }
 instalar("gt")
 instalar("gtExtras")
+instalar("tmap")
+instalar("sf")
+instalar("leaflet")
+
 # instalar("Hmisc")
 # instalar("purrr")
 # instalar("lattice")
@@ -109,7 +113,6 @@ instalar("gtExtras")
 # instalar("skimr")
 # demora 5-7 minutos
 # instalar("caret")
-# instalar("sf")
 ```
 
 **Carga de librerías**
@@ -131,6 +134,9 @@ cargar("readr")        # lectura de datos
 cargar("dplyr")        # manipulación de df
 cargar("gt")           # tablas
 cargar("gtExtras")     # tablas
+cargar("tmap")         # mapas interactivos
+cargar("sf")           # datos geoespaciales
+cargar("leaflet")
 
 # cargar("lattice")      # graficación estadistica
 # cargar("ggplot2")      # graficación
@@ -146,7 +152,6 @@ cargar("gtExtras")     # tablas
 # cargar("corrplot")     # grafico de correlación
 # cargar("Hmisc")        # correlaciones
 # cargar("caret")        # entrenamiento
-# cargar("sf")           # datos geoespaciales
 # cargar("ergm")        # análisis estadísticos
 ```
 
@@ -162,9 +167,9 @@ El Programa Punto Digital cuenta con dispositivos instalados a lo largo y ancho 
 ```{r carga_puntos}
 # Puntos digitales
 
-df <- read.csv(paste0(PATH, puntos_arch), sep = ",", encoding = "ISO-8859-1")
+puntos <- read.csv(paste0(PATH, puntos_arch), sep = ",", encoding = "ISO-8859-1")
 
-sample_n(df, 5) |> 
+sample_n(puntos, 5) |> 
   dplyr::mutate(horarios = substr(horarios, 1, 20)) |>  # Truncar "horarios"
   gt() |> 
   tab_header(
@@ -173,4 +178,155 @@ sample_n(df, 5) |>
   ) |>
   tab_options(table.width = "100%") |>
   opt_stylize(style = 5, color = 'cyan')
+
+columnas <- c("id_pd", "nombre_pd", "direccion", "nombre_institucional",
+              "id_provincia", "id_departamento", "id_localidad",
+              "cod_bahra_localidad", "id_municipio", "provincia",
+              "departamento", "localidad", "municipio", "mail_institucional",
+              "latitud", "longitud", "horarios", "link_facebook", "estado")
+
 ```
+
+**Dimensiones**
+```{r dimensiones}
+# dimensiones
+cat("El DataFrame tiene", dim(puntos)[1], "observaciones y", dim(puntos)[2], "variables.")
+
+```
+
+**Medidas de tendencia central - Empleo AMBA**
+```{r bloque014b}
+# Descripción de Empleo AMBA sin desagregar
+summary(puntos)
+```
+
+
+**Mapa**
+```{r mapa_puntos}
+# Geolocalización de Puntos Digitales
+# https://rdrr.io/cran/tmap/man/tm_symbols.html
+# https://r-tmap.github.io/tmap-book/layers.html
+
+mostrar <- c("id_pd", "nombre_pd", "direccion", "provincia", "departamento",
+             "localidad", "municipio", "estado")
+
+# Capas
+capas <- c(GrayMap = "Esri.WorldGrayCanvas", StreetMap = "OpenStreetMap", TopoMap = "Esri.WorldTopoMap")
+
+# Geodataframe
+puntos_sf <- puntos |> 
+  select(2, 1, everything()) |>
+  st_as_sf(coords = c("longitud", "latitud"), crs = 4326)
+# Gráfico
+tmap_mode("view")
+tm_basemap(capas) +
+  tm_shape(puntos_sf, is.master = TRUE) +
+  # tm_markers(size = 0.5, popup.vars = mostrar) +
+  tm_dots(size = 0.1,  clustering = T, popup.vars = mostrar) + 
+  tm_layout(main.title = "Puntos Digitales", main.title.size = 0.7);
+
+```
+
+```{r}
+c(colnames(puntos))
+```
+
+
+
+
+**Diccionario**
+```{r diccionario}
+# diccionario de datos
+
+
+descripciones <- c(
+  "Identificador del Punto Digital",
+  "Nombre del Punto Digital",
+  "Dirección",
+  "Nombre Institucional",
+  "Identificador de la provincia",
+  "Identificador del departamento",
+  "Identificador de la localidad",
+  "Codigo BAHRA (Asentamientos Urbanos)",
+  "Identificador del municipio",
+  "Provincia",
+  "Departamento",
+  "Localidad",
+  "Municipio",
+  "Mail Institucional",
+  "Latitud",
+  "Longitud",
+  "Horarios",
+  "Link Facebook",
+  "Estado"
+)
+
+diccionario <- data.frame(
+  Clase = sapply(puntos, class),
+  Descripción = descripciones
+)
+
+diccionario <- tibble::rownames_to_column(diccionario, "Variable")
+
+diccionario |>   
+  gt(rowname_col = "Variable") |> 
+  tab_header(
+    title = "Diccionario de Datos",
+  ) |>
+  tab_options(table.width = "90%") |>
+  gt_theme_dot_matrix()
+```
+
+
+**Matriz de Correlación**
+```{r natriz, eval=FALSE, include=FALSE}
+# Matriz de correlación# 
+# https://blog.hasanbul.li/2018/01/14/exporting-correlation-plots/
+matriz_cor <- cor(puntos[, 6:16], use = "complete.obs")
+knitr::kable(matriz_cor, format = "html")
+# matriz_cor
+```
+
+
+**Gráfico de Correlación personalizado**
+```{r correlaciones, eval=FALSE, include=FALSE}
+# Gráfico de correlación
+# https://www.khstats.com/blog/corr-plots/
+# https://bookdown.org/ndphillips/YaRrr/saving-plots-to-a-file-with-pdf-jpeg-and-png.html
+# https://copyprogramming.com/howto/how-to-save-a-plot-created-by-corrplot-function-in-r
+
+# png(height=800, width=800, file="grafico_correlacion.png")
+corrplot(
+  matriz_cor,
+  method = "color",          # Colores para representar la correlación
+  type = "lower",            # Tipo de gráfico (triangular inferior)
+  tl.col = "black",          # Color variables
+  tl.srt = 45,               # Ángulo de rotación de las etiquetas
+  addCoef.col = "black",     # Color coeficientes
+  mar=c(1,1,1,1),            # Márgenes
+  tl.cex = 0.6,              # Tamaño de letra variables
+  number.cex = 0.55,         # Tamaño de letra coeficientes
+  cl.cex = 0.6               # Tamaño de letra leyenda
+  # diag = FALSE             # Diagonal
+  )
+# dev.off()
+# matriz_cor
+```
+
+### Links
+http://www.bahra.gob.ar/
+https://r-tmap.github.io/tmap-book/layers.html
+https://www.argentina.gob.ar/jefatura/innovacion-publica/servicios-y-pais-digital/punto-digital
+
+
+
+
+
+
+
+
+
+
+
+
+
