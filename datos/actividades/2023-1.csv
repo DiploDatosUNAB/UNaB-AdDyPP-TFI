@@ -1,0 +1,1032 @@
+nombre_punto_digital,eje,eje_id,hasta_11,hasta_11_femenino,hasta_11_masculino,hasta_11_x,de_12_a_20,de_12_a_20_femenino,de_12_a_20_masculino,de_12_a_20_x,de_21_a_65,de_21_a_65_femenino,de_21_a_65_masculino,de_21_a_65_x,desde_65,desde_65_femenino,desde_65_masculino,desde_65_x,Totales,provincia,categoria,subcategoria,cantidad_actividad
+"Berisso I","Trámites",22,0,0,0,0,90,50,36,4,328,170,150,8,0,0,0,0,418,"Buenos Aires","Trámites Nacionales","Validación de identidad",2
+"Cañuelas","Formación Laboral",13,0,0,0,0,7,2,5,0,10,3,7,0,0,0,0,0,17,"Buenos Aires","Inserción al mundo laboral","Armado de CV",1
+"Cañuelas","Trámites",22,0,0,0,0,71,44,27,0,342,216,126,0,57,36,21,0,470,"Buenos Aires","Trámites Municipales","MUNICIPIO",4
+"Cañuelas","Cultura y Entretenimiento",31,33,6,27,0,162,28,134,0,31,6,25,0,0,0,0,0,226,"Buenos Aires","Uso Libre","Navegación libre",2
+"Coronel Suárez I (Colonia Santa María)","Alfabetización Digital",10,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,4,"Buenos Aires","Tecnologías de la vida cotidiana","Uso del celular",1
+"Coronel Suárez I (Colonia Santa María)","Trámites",22,0,0,0,0,1,1,0,0,14,7,7,0,6,5,1,0,21,"Buenos Aires","Trámites Nacionales","Otros",2
+"Coronel Suárez I (Colonia Santa María)","Cultura y Entretenimiento",31,2,0,2,0,2,0,2,0,1,1,0,0,1,0,1,0,6,"Buenos Aires","Uso Libre","Navegación libre",1
+"Coronel Suarez II (CTC)","Educación",16,0,0,0,0,25,9,16,0,20,15,5,0,0,0,0,0,45,"Buenos Aires","Complementos de la educación formal","Otros",1
+"Coronel Suarez II (CTC)","Trámites",22,0,0,0,0,27,21,6,0,178,69,109,0,48,28,20,0,253,"Buenos Aires","Trámites Municipales","MUNICIPIO",4
+"Coronel Suarez II (CTC)","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,34,16,18,0,0,0,0,0,34,"Buenos Aires","Comunidad","Capacitación a agentes municipales",1
+"Dolores (CAJ)","Trámites",22,0,0,0,0,0,0,0,0,11,5,6,0,4,3,1,0,15,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"General La Madrid","Trámites",22,0,0,0,0,0,0,0,0,16,6,10,0,0,0,0,0,16,"Buenos Aires","Trámites Nacionales","MiArgentina",1
+"General La Madrid","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,11,7,4,0,0,0,0,0,11,"Buenos Aires","Comunidad","Evento / Reunión",1
+"General Las Heras","Formación Laboral",13,0,0,0,0,0,0,0,0,24,24,0,0,0,0,0,0,24,"Buenos Aires","Oficios manuales","Tejido, bordado, otros",1
+"General Las Heras","Educación",16,0,0,0,0,0,0,0,0,52,32,20,0,0,0,0,0,52,"Buenos Aires","Complementos de la educación formal","Argentina Programa (uso del PD para cursar)",2
+"General Las Heras","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,0,0,0,0,90,55,35,0,90,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",1
+"General Rodríguez","Trámites",22,0,0,0,0,20,10,10,0,420,200,200,20,100,50,50,0,540,"Buenos Aires","Trámites Nacionales","Potenciar Trabajo",1
+"La Matanza II (Villa Palito)","Trámites",22,0,0,0,0,8,3,5,0,23,10,13,0,0,0,0,0,31,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Laprida","Trámites",22,0,0,0,0,0,0,0,0,5,4,1,0,0,0,0,0,5,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Laprida","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,84,56,28,0,6,6,0,0,90,"Buenos Aires","Comunidad","Capacitación a agentes municipales",2
+"Luján","Trámites",22,0,0,0,0,46,23,23,0,74,42,32,0,0,0,0,0,120,"Buenos Aires","Trámites Nacionales","Potenciar Trabajo",2
+"Luján","Cultura y Entretenimiento",31,61,23,38,0,92,52,40,0,75,32,43,0,0,0,0,0,228,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",3
+"Mar del Plata I (Polideportivo Las Heras)","Salud",19,250,100,150,0,0,0,0,0,0,0,0,0,0,0,0,0,250,"Buenos Aires","Salud","Otros",1
+"Mar del Plata I (Polideportivo Las Heras)","Trámites",22,0,0,0,0,26,14,12,0,766,335,417,14,31,29,2,0,823,"Buenos Aires","Trámites Nacionales","Potenciar Trabajo",7
+"Mar del Plata I (Polideportivo Las Heras)","Cultura y Entretenimiento",31,70,30,40,0,0,0,0,0,0,0,0,0,0,0,0,0,70,"Buenos Aires","Actividad","Actividad con uso de consola de videojuegos",1
+"Marcos Paz I (CIC)","Alfabetización Digital",10,44,24,20,0,0,0,0,0,0,0,0,0,0,0,0,0,44,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Marcos Paz I (CIC)","Formación Laboral",13,31,5,26,0,20,0,20,0,0,0,0,0,0,0,0,0,51,"Buenos Aires","Oficios digitales","Robótica",1
+"Marcos Paz I (CIC)","Educación",16,21,13,8,0,18,5,13,0,0,0,0,0,0,0,0,0,39,"Buenos Aires","Complementos de la educación formal","Idiomas",1
+"Marcos Paz II (UMI)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Buenos Aires","Contenidos","",1
+"Marcos Paz II (UMI)","Alfabetización Digital",10,12,4,8,0,5,3,2,0,1,1,0,0,1,1,0,0,19,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Marcos Paz II (UMI)","Formación Laboral",13,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,"Buenos Aires","Oficios digitales","Robótica",1
+"Marcos Paz II (UMI)","Educación",16,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,6,"Buenos Aires","Complementos de la educación formal","Idiomas",1
+"General Alvarado I (Miramar)","Trámites",22,3,2,1,0,3,2,1,0,4,3,1,0,2,1,1,0,12,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Quilmes I (La Paz)","Trámites",22,0,0,0,0,0,0,0,0,83,44,39,0,4,2,2,0,87,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Villa Gesell","Trámites",22,0,0,0,0,70,37,33,0,279,135,144,0,0,0,0,0,349,"Buenos Aires","Trámites Nacionales","Validación de identidad",5
+"Azul","Trámites",22,31,15,16,0,35,16,18,1,108,56,46,6,439,49,390,0,613,"Buenos Aires","Trámites Nacionales","Validación de identidad",2
+"Lobería I","Trámites",22,0,0,0,0,0,0,0,0,12,7,5,0,2,2,0,0,14,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Morón II (Castelar)","Trámites",22,50,27,23,0,593,371,222,0,1453,822,631,0,317,189,128,0,2413,"Buenos Aires","Trámites Nacionales","AFIP",4
+"Las Flores I","Trámites",22,0,0,0,0,5,3,2,0,58,25,33,0,0,0,0,0,63,"Buenos Aires","Trámites Nacionales","Potenciar Trabajo",1
+"Zárate II (Lima Centro Cultural)","Alfabetización Digital",10,62,27,35,0,43,18,25,0,36,9,27,0,8,3,5,0,149,"Buenos Aires","Alfabetización Digital","Paquete de Office o LibreOffice",1
+"Zárate II (Lima Centro Cultural)","Trámites",22,0,0,0,0,65,22,43,0,129,55,74,0,167,69,98,0,361,"Buenos Aires","Trámites Nacionales","AFIP",3
+"Zárate II (Lima Centro Cultural)","Ciudadanía y DD",25,12,5,7,0,0,0,0,0,51,22,29,0,0,0,0,0,63,"Buenos Aires","Comunidad","Otros",1
+"Mar del Plata II (Inareps)","Alfabetización Digital",10,0,0,0,0,0,0,0,0,44,30,14,0,0,0,0,0,44,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Mar del Plata II (Inareps)","Formación Laboral",13,0,0,0,0,0,0,0,0,114,95,19,0,0,0,0,0,114,"Buenos Aires","Oficios digitales","Otras",4
+"Mar del Plata II (Inareps)","Salud",19,0,0,0,0,0,0,0,0,73,35,38,0,0,0,0,0,73,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",2
+"Mar del Plata II (Inareps)","Trámites",22,0,0,0,0,4,3,1,0,188,88,100,0,1,0,1,0,193,"Buenos Aires","Trámites Nacionales","Potenciar Trabajo",2
+"Punta Indio","Cultura y Entretenimiento",31,0,0,0,0,40,22,18,0,0,0,0,0,0,0,0,0,40,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",2
+"Tres Lomas","Salud",19,0,0,0,0,0,0,0,0,56,56,0,0,0,0,0,0,56,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Tres Lomas","Trámites",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Tres Lomas","Generos y Diversidades",28,0,0,0,0,9,2,7,0,13,3,10,0,0,0,0,0,22,"Buenos Aires","Nuevas masculinidades","",1
+"Tres Lomas","Cultura y Entretenimiento",31,9,5,4,0,41,9,32,0,37,10,27,0,16,11,5,0,103,"Buenos Aires","Actividad","Actividad con uso de consola de videojuegos",3
+"Pehuajó","Trámites",22,0,0,0,0,0,0,0,0,142,85,57,0,20,10,10,0,162,"Buenos Aires","Trámites Nacionales","Validación de identidad",2
+"Pehuajó","Generos y Diversidades",28,0,0,0,0,0,0,0,0,85,60,15,10,0,0,0,0,85,"Buenos Aires","Otros","",1
+"Pehuajó","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,45,30,15,0,0,0,0,0,45,"Buenos Aires","Uso Libre","Navegación libre",1
+"Pinamar II (Valeria del Mar)","Formación Laboral",13,0,0,0,0,0,0,0,0,15,15,0,0,0,0,0,0,15,"Buenos Aires","Oficios manuales","Tejido, bordado, otros",1
+"Pinamar II (Valeria del Mar)","Educación",16,0,0,0,0,0,0,0,0,196,144,52,0,0,0,0,0,196,"Buenos Aires","Complementos de la educación formal","Otros",3
+"Pinamar II (Valeria del Mar)","Salud",19,0,0,0,0,32,0,32,0,128,0,128,0,36,0,36,0,196,"Buenos Aires","Salud","Otros",1
+"Pinamar II (Valeria del Mar)","Generos y Diversidades",28,0,0,0,0,0,0,0,0,32,8,24,0,0,0,0,0,32,"Buenos Aires","Nuevas masculinidades","",1
+"La Plata II (JUS)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"Buenos Aires","Soporte","",1
+"Villa 21","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ciudad Autónoma de Buenos Aires","Contenidos","",1
+"Villa 21","Cultura y Entretenimiento",31,67,28,39,0,75,25,50,0,0,0,0,0,0,0,0,0,142,"Ciudad Autónoma de Buenos Aires","Actividad","Proyección de película (con debate)",3
+"Espacio de Memoria (Ex Esma)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Ciudad Autónoma de Buenos Aires","Soporte","",2
+"Espacio de Memoria (Ex Esma)","Educación",16,0,0,0,0,6,5,1,0,4,3,1,0,0,0,0,0,10,"Ciudad Autónoma de Buenos Aires","Complementos de la educación formal","Otros",3
+"Villa Devoto","Alfabetización Digital",10,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,"Ciudad Autónoma de Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Villa Devoto","Formación Laboral",13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ciudad Autónoma de Buenos Aires","Oficios digitales","Programación",2
+"Villa Devoto","Educación",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ciudad Autónoma de Buenos Aires","Complementos de la educación formal","Otros",1
+"Villa Devoto","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,30,30,0,0,0,0,0,0,30,"Ciudad Autónoma de Buenos Aires","Uso Libre","Navegación libre",2
+"Esquel","Alfabetización Digital",10,24,12,12,0,12,0,12,0,25,16,9,0,0,0,0,0,61,"Chubut","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Esquel","Educación",16,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,4,"Chubut","Complementos de la educación formal","Terminá la Secundaria",1
+"Esquel","Trámites",22,0,0,0,0,0,0,0,0,74,40,34,0,0,0,0,0,74,"Chubut","Trámites Nacionales","Validación de identidad",5
+"Esquel","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,9,6,3,0,0,0,0,0,9,"Chubut","Comunidad","Otros",1
+"Esquel","Cultura y Entretenimiento",31,47,7,40,0,3,0,3,0,0,0,0,0,0,0,0,0,50,"Chubut","Uso Libre","Navegación libre",1
+"Rawson (Chubut)","Alfabetización Digital",10,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,5,"Chubut","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Rawson (Chubut)","Trámites",22,0,0,0,0,2,1,1,0,5,4,1,0,0,0,0,0,7,"Chubut","Trámites Nacionales","MiArgentina",1
+"Río Mayo","Trámites",22,16,6,0,10,30,10,15,5,10,5,0,5,5,0,0,5,61,"Chubut","Trámites Nacionales","Validación de identidad",1
+"Gaiman","Trámites",22,0,0,0,0,7,4,3,0,21,12,9,0,3,1,2,0,31,"Chubut","Trámites Nacionales","Validación de identidad",1
+"Gaiman","Cultura y Entretenimiento",31,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,0,5,"Chubut","Uso Libre","Navegación libre",1
+"Castelli (Chaco)","Trámites",22,0,0,0,0,334,187,147,0,662,388,274,0,280,156,124,0,1276,"Chaco","Trámites Nacionales","PROGRESAR",14
+"Castelli (Chaco)","Ciudadanía y DD",25,20,12,8,0,15,9,6,0,132,49,83,0,28,16,12,0,195,"Chaco","Comunidad","Evento / Reunión",8
+"Castelli (Chaco)","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chaco","Uso Libre","Uso libre de la consola de videojuegos",2
+"Corzuela","Alfabetización Digital",10,0,0,0,0,10,6,4,0,26,23,3,0,1,0,1,0,37,"Chaco","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Corzuela","Formación Laboral",13,0,0,0,0,54,36,18,0,32,17,15,0,0,0,0,0,86,"Chaco","Oficios digitales","Otras",3
+"Corzuela","Educación",16,26,19,7,0,35,24,11,0,16,12,4,0,0,0,0,0,77,"Chaco","Complementos de la educación formal","Apoyo escolar",3
+"Corzuela","Trámites",22,63,35,28,0,384,258,126,0,490,323,167,0,176,116,60,0,1113,"Chaco","Trámites Nacionales","ANSES",2
+"Corzuela","Ciudadanía y DD",25,0,0,0,0,12,12,0,0,16,12,4,0,0,0,0,0,28,"Chaco","Comunidad","Otros",1
+"Puerto Tirol","Trámites",22,5,2,3,0,65,35,30,0,200,110,90,0,45,25,20,0,315,"Chaco","Trámites Nacionales","Otros",1
+"Quitilipi","Alfabetización Digital",10,180,72,108,0,96,32,64,0,219,90,120,9,0,0,0,0,495,"Chaco","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Quitilipi","Educación",16,0,0,0,0,44,32,12,0,20,12,8,0,0,0,0,0,64,"Chaco","Complementos de la educación formal","Otros",1
+"Quitilipi","Trámites",22,0,0,0,0,93,61,32,0,2297,1410,843,44,63,48,15,0,2453,"Chaco","Trámites Provinciales","Otros",6
+"Quitilipi","Cultura y Entretenimiento",31,593,359,234,0,932,410,522,0,81,65,12,4,12,12,0,0,1618,"Chaco","Uso Libre","Navegación libre",4
+"Laguna Blanca (Chaco)","Educación",16,272,116,156,0,368,136,164,68,220,96,124,0,0,0,0,0,860,"Chaco","Complementos de la educación formal","Apoyo escolar",1
+"Laguna Blanca (Chaco)","Trámites",22,441,181,260,0,812,344,432,36,920,424,484,12,398,182,216,0,2571,"Chaco","Trámites Municipales","MUNICIPIO",4
+"Laguna Blanca (Chaco)","Generos y Diversidades",28,112,48,64,0,256,128,104,24,230,136,94,0,0,0,0,0,598,"Chaco","Perspectiva de género","",1
+"Laguna Blanca (Chaco)","Cultura y Entretenimiento",31,226,102,124,0,476,174,224,78,150,64,86,0,0,0,0,0,852,"Chaco","Artes","Otros",1
+"Alto Alegre","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Córdoba","Soporte","",1
+"Alto Alegre","Educación",16,21,9,12,0,20,7,13,0,0,0,0,0,0,0,0,0,41,"Córdoba","Complementos de la educación formal","Apoyo escolar",1
+"Alto Alegre","Trámites",22,0,0,0,0,56,22,34,0,206,116,90,0,76,32,44,0,338,"Córdoba","Trámites Nacionales","ANSES",4
+"Alto Alegre","Cultura y Entretenimiento",31,71,39,32,0,111,55,56,0,113,78,35,0,16,16,0,0,311,"Córdoba","Actividad","Proyección de película (con debate)",5
+"Colonia Bismarck","Alfabetización Digital",10,0,0,0,0,3,0,3,0,50,25,25,0,7,5,2,0,60,"Córdoba","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Colonia Bismarck","Formación Laboral",13,115,65,50,0,31,19,12,0,54,54,0,0,8,8,0,0,208,"Córdoba","Oficios digitales","Otras",1
+"Colonia Bismarck","Salud",19,58,58,0,0,36,36,0,0,96,96,0,0,24,24,0,0,214,"Córdoba","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Colonia Bismarck","Trámites",22,0,0,0,0,57,41,16,0,263,144,119,0,71,42,29,0,391,"Córdoba","Trámites Nacionales","Otros",8
+"Colonia Bismarck","Cultura y Entretenimiento",31,49,14,35,0,17,9,8,0,12,6,6,0,0,0,0,0,78,"Córdoba","Uso Libre","Navegación libre",2
+"Las Acequias","Educación",16,0,0,0,0,0,0,0,0,18,15,3,0,2,2,0,0,20,"Córdoba","Complementos de la educación formal","Otros",1
+"Las Acequias","Salud",19,0,0,0,0,7,7,0,0,10,10,0,0,0,0,0,0,17,"Córdoba","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Las Acequias","Cultura y Entretenimiento",31,36,18,18,0,25,15,10,0,14,5,9,0,0,0,0,0,75,"Córdoba","Uso Libre","Navegación libre",2
+"Leones","Formación Laboral",13,11,6,5,0,16,8,8,0,4,2,2,0,0,0,0,0,31,"Córdoba","Oficios digitales","Otras",1
+"Leones","Trámites",22,0,0,0,0,8,3,5,0,17,9,8,0,16,10,6,0,41,"Córdoba","Trámites Nacionales","Otros",1
+"Monte Maíz","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Córdoba","Comunicación","",1
+"Morrison","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Córdoba","Soporte","",1
+"Noetinger","Trámites",22,0,0,0,0,32,19,13,0,87,58,29,0,9,4,5,0,128,"Córdoba","Trámites Nacionales","MiArgentina",4
+"Villa del Totoral","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Córdoba","Soporte","",2
+"Villa del Totoral","Alfabetización Digital",10,44,33,11,0,166,76,90,0,109,62,47,0,52,25,27,0,371,"Córdoba","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Villa del Totoral","Trámites",22,0,0,0,0,24,15,9,0,150,91,59,0,35,23,12,0,209,"Córdoba","Trámites Nacionales","Segmentación Energética",3
+"Villa del Totoral","Cultura y Entretenimiento",31,69,37,32,0,59,24,35,0,60,40,20,0,35,15,20,0,223,"Córdoba","Actividad","Proyección de película (con debate)",1
+"San Marcos Sierra","Trámites",22,0,0,0,0,8,5,3,0,14,9,5,0,2,0,2,0,24,"Córdoba","Trámites Provinciales","RENTAS - ARBA (Similares)",2
+"Cavanagh","Salud",19,9,6,3,0,0,0,0,0,12,6,6,0,7,4,3,0,28,"Córdoba","Salud","Otros",2
+"Cavanagh","Trámites",22,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,5,"Córdoba","Trámites Municipales","MUNICIPIO",1
+"Idiázabal","Alfabetización Digital",10,28,12,16,0,0,0,0,0,0,0,0,0,0,0,0,0,28,"Córdoba","Alfabetización Digital","Programación para niñxs",1
+"Idiázabal","Trámites",22,0,0,0,0,10,10,0,0,94,30,64,0,147,71,76,0,251,"Córdoba","Trámites Municipales","MUNICIPIO",3
+"Idiázabal","Cultura y Entretenimiento",31,344,175,169,0,226,115,111,0,72,46,26,0,110,72,38,0,752,"Córdoba","Uso Libre","Navegación libre",3
+"San Antonio de Arredondo","Trámites",22,63,28,35,0,125,74,51,0,207,121,86,0,134,63,71,0,529,"Córdoba","Trámites Nacionales","Validación de identidad",2
+"San Antonio de Arredondo","Ciudadanía y DD",25,0,0,0,0,205,71,134,0,242,103,139,0,110,48,62,0,557,"Córdoba","Comunidad","Seguridad vial",1
+"San Antonio de Arredondo","Cultura y Entretenimiento",31,37,9,28,0,132,79,53,0,204,117,87,0,140,76,64,0,513,"Córdoba","Uso Libre","Navegación libre",1
+"Villa María","Trámites",22,0,0,0,0,0,0,0,0,36,18,14,4,0,0,0,0,36,"Córdoba","Trámites Nacionales","Validación de identidad",3
+"Villa María","Cultura y Entretenimiento",31,569,357,212,0,1078,553,525,0,127,62,65,0,30,18,12,0,1804,"Córdoba","Uso Libre","Navegación libre",5
+"Corrientes Capital I (CIC 1)","Alfabetización Digital",10,0,0,0,0,0,0,0,0,18,10,8,0,5,5,0,0,23,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Corrientes Capital I (CIC 1)","Salud",19,0,0,0,0,0,0,0,0,20,18,2,0,35,30,5,0,55,"Corrientes","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Corrientes Capital I (CIC 1)","Trámites",22,0,0,0,0,88,55,28,5,172,90,78,4,50,23,27,0,310,"Corrientes","Trámites Nacionales","ANSES",3
+"Corrientes Capital I (CIC 1)","Cultura y Entretenimiento",31,161,84,77,0,103,57,46,0,151,100,51,0,60,38,22,0,475,"Corrientes","Uso Libre","Uso libre del espacio de microcine",5
+"Monte Caseros","Educación",16,14,5,9,0,8,3,5,0,0,0,0,0,0,0,0,0,22,"Corrientes","Complementos de la educación formal","Otros",1
+"Monte Caseros","Trámites",22,0,0,0,0,3,3,0,0,15,10,5,0,6,4,2,0,24,"Corrientes","Trámites Nacionales","ANSES",1
+"Monte Caseros","Cultura y Entretenimiento",31,19,8,11,0,5,3,2,0,0,0,0,0,0,0,0,0,24,"Corrientes","Actividad","Proyección de película (con debate)",1
+"Huillapima II (Los Ángeles)","Alfabetización Digital",10,5,2,3,0,21,12,9,0,24,10,14,0,0,0,0,0,50,"Catamarca","Tecnologías de la vida cotidiana","Uso del celular",6
+"Huillapima II (Los Ángeles)","Trámites",22,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,4,"Catamarca","Trámites Provinciales","Otros",3
+"Huillapima II (Los Ángeles)","Cultura y Entretenimiento",31,1,0,1,0,0,0,0,0,6,2,4,0,0,0,0,0,7,"Catamarca","Uso Libre","Uso libre del espacio de microcine",2
+"Huillapima","Cultura y Entretenimiento",31,41,17,24,0,61,29,32,0,78,38,40,0,59,27,32,0,239,"Catamarca","Uso Libre","Uso libre de la consola de videojuegos",1
+"San Fernando del Valle II (SEPAVE)","Alfabetización Digital",10,259,154,105,0,210,126,84,0,0,0,0,0,0,0,0,0,469,"Catamarca","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Tinogasta I","Cultura y Entretenimiento",31,13,5,8,0,0,0,0,0,28,21,7,0,2,2,0,0,43,"Catamarca","Artes","Tejido",4
+"Chajarí","Trámites",22,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,3,"Entre Ríos","Trámites Nacionales","Otros",1
+"Chajarí","Cultura y Entretenimiento",31,15,3,12,0,35,3,32,0,0,0,0,0,0,0,0,0,50,"Entre Ríos","Uso Libre","Uso libre del espacio de microcine",1
+"Concepción del Uruguay","Alfabetización Digital",10,0,0,0,0,5,4,1,0,2,2,0,0,0,0,0,0,7,"Entre Ríos","Tecnologías de la vida cotidiana","Armado de perfil en redes sociales",1
+"Concepción del Uruguay","Educación",16,14,8,4,2,0,0,0,0,0,0,0,0,0,0,0,0,14,"Entre Ríos","Complementos de la educación formal","Otros",1
+"Concepción del Uruguay","Trámites",22,0,0,0,0,100,37,63,0,144,69,70,5,35,3,28,4,279,"Entre Ríos","Trámites Nacionales","MiArgentina",3
+"Concepción del Uruguay","Cultura y Entretenimiento",31,60,38,22,0,15,12,3,0,0,0,0,0,0,0,0,0,75,"Entre Ríos","Uso Libre","Uso libre de la consola de videojuegos",2
+"La Paz (Entre Ríos)","Trámites",22,0,0,0,0,1,0,1,0,58,15,43,0,0,0,0,0,59,"Entre Ríos","Trámites Nacionales","Validación de identidad",2
+"La Paz (Entre Ríos)","Cultura y Entretenimiento",31,243,91,152,0,18,0,18,0,13,7,6,0,22,14,8,0,296,"Entre Ríos","Uso Libre","Navegación libre",3
+"Nogoyá","Educación",16,0,0,0,0,2,2,0,0,17,10,7,0,6,5,1,0,25,"Entre Ríos","Complementos de la educación formal","Otros",1
+"Nogoyá","Salud",19,0,0,0,0,39,24,15,0,99,44,55,0,1,1,0,0,139,"Entre Ríos","Salud","Otros",3
+"Concordia I","Alfabetización Digital",10,0,0,0,0,0,0,0,0,16,10,6,0,10,6,4,0,26,"Entre Ríos","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Concordia I","Formación Laboral",13,0,0,0,0,0,0,0,0,59,32,27,0,26,14,12,0,85,"Entre Ríos","Oficios manuales","Otras",2
+"Concordia I","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,99,52,47,0,71,40,31,0,170,"Entre Ríos","Artes digitales","Fotografía",4
+"Ciudad de Formosa I (Casa del Estudiante)","Educación",16,0,0,0,0,107,52,55,0,194,105,89,0,0,0,0,0,301,"Formosa","Complementos de la educación formal","Apoyo escolar",4
+"Ciudad de Formosa I (Casa del Estudiante)","Trámites",22,0,0,0,0,0,0,0,0,21,9,12,0,0,0,0,0,21,"Formosa","Trámites Nacionales","AFIP",3
+"Ciudad de Formosa I (Casa del Estudiante)","Cultura y Entretenimiento",31,0,0,0,0,281,139,142,0,545,308,236,1,0,0,0,0,826,"Formosa","Artes","Otros",3
+"Herradura","Formación Laboral",13,0,0,0,0,6,2,4,0,5,3,2,0,0,0,0,0,11,"Formosa","Inserción al mundo laboral","Armado de CV",1
+"Herradura","Trámites",22,0,0,0,0,8,5,3,0,10,6,4,0,0,0,0,0,18,"Formosa","Trámites Nacionales","PROGRESAR",1
+"Herradura","Cultura y Entretenimiento",31,13,7,6,0,17,8,9,0,18,8,10,0,6,5,1,0,54,"Formosa","Uso Libre","Uso libre del espacio de microcine",2
+"Laishi","Cultura y Entretenimiento",31,69,38,31,0,76,38,38,0,36,20,16,0,2,2,0,0,183,"Formosa","Uso Libre","Navegación libre",3
+"Palo Santo","Trámites",22,0,0,0,0,27,14,13,0,113,97,16,0,12,7,5,0,152,"Formosa","Trámites Provinciales","RENTAS - ARBA (Similares)",2
+"Palo Santo","Ciudadanía y DD",25,0,0,0,0,4,2,2,0,5,3,2,0,2,1,1,0,11,"Formosa","Comunidad","Otros",1
+"Palo Santo","Cultura y Entretenimiento",31,17,9,8,0,26,7,19,0,13,6,7,0,10,4,6,0,66,"Formosa","Uso Libre","Navegación libre",1
+"Perin","Alfabetización Digital",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Formosa","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Perin","Formación Laboral",13,0,0,0,0,15,5,5,5,8,2,1,5,9,2,2,5,32,"Formosa","Oficios manuales","Agricultura Orgánica",1
+"Perin","Salud",19,26,10,15,1,26,15,10,1,35,20,14,1,11,5,5,1,98,"Formosa","Salud","Gestión y prevención COVID",1
+"Perin","Cultura y Entretenimiento",31,54,24,24,6,75,32,37,6,70,31,33,6,30,12,12,6,229,"Formosa","Uso Libre","Uso libre del espacio de microcine",3
+"Pirané","Cultura y Entretenimiento",31,136,68,68,0,84,32,52,0,96,32,64,0,0,0,0,0,316,"Formosa","Actividad","Proyección de película (con debate)",2
+"Tres Lagunas","Formación Laboral",13,0,0,0,0,0,0,0,0,100,50,50,0,0,0,0,0,100,"Formosa","Oficios manuales","Agricultura Orgánica",1
+"Tres Lagunas","Educación",16,0,0,0,0,14,7,7,0,14,7,7,0,0,0,0,0,28,"Formosa","Complementos de la educación formal","Otros",1
+"Tres Lagunas","Trámites",22,0,0,0,0,0,0,0,0,50,25,25,0,50,25,25,0,100,"Formosa","Trámites Municipales","MUNICIPIO",1
+"Tres Lagunas","Ciudadanía y DD",25,30,15,15,0,30,15,15,0,46,23,23,0,0,0,0,0,106,"Formosa","Comunidad","Capacitación a agentes municipales",2
+"Tres Lagunas","Cultura y Entretenimiento",31,160,80,80,0,236,170,66,0,135,120,15,0,30,15,15,0,561,"Formosa","Artes","Otros",3
+"Clorinda","Educación",16,256,120,136,0,0,0,0,0,0,0,0,0,0,0,0,0,256,"Formosa","Complementos de la educación formal","Otros",2
+"Clorinda","Trámites",22,0,0,0,0,25,20,5,0,43,25,18,0,39,17,22,0,107,"Formosa","Trámites Nacionales","Validación de identidad",1
+"Clorinda","Cultura y Entretenimiento",31,335,230,105,0,320,220,100,0,65,40,20,5,90,60,30,0,810,"Formosa","Actividad","Actividad con uso de consola de videojuegos",3
+"Calilegua","Formación Laboral",13,0,0,0,0,3,2,1,0,20,11,9,0,0,0,0,0,23,"Jujuy","Oficios digitales","Programación",1
+"El Carmen","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,10,6,4,0,0,0,0,0,10,"Jujuy","Soporte","",2
+"Huacalera","Formación Laboral",13,0,0,0,0,11,8,3,0,4,4,0,0,0,0,0,0,15,"Jujuy","Oficios manuales","Peluquería",1
+"Huacalera","Ciudadanía y DD",25,35,20,15,0,72,40,32,0,58,28,30,0,7,3,4,0,172,"Jujuy","Comunidad","Evento / Reunión",3
+"Huacalera","Generos y Diversidades",28,0,0,0,0,5,5,0,0,8,8,0,0,0,0,0,0,13,"Jujuy","Prevención de violencias","",1
+"Huacalera","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,13,9,4,0,7,4,3,0,20,"Jujuy","Actividad","Actividad con uso de consola de videojuegos",1
+"Palpalá I","Alfabetización Digital",10,0,0,0,0,25,12,13,0,31,16,15,0,0,0,0,0,56,"Jujuy","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Palpalá I","Formación Laboral",13,0,0,0,0,44,24,20,0,57,26,31,0,0,0,0,0,101,"Jujuy","Oficios digitales","Reparación de PC",2
+"Palpalá I","Cultura y Entretenimiento",31,257,137,120,0,45,26,19,0,0,0,0,0,0,0,0,0,302,"Jujuy","Artes digitales","Otros",2
+"Palpalá II (San José)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Jujuy","Comunicación","",1
+"Palpalá II (San José)","Trámites",22,3,2,1,0,198,114,84,0,218,122,96,0,60,35,25,0,479,"Jujuy","Trámites Nacionales","ANSES",3
+"Palpalá II (San José)","Ciudadanía y DD",25,0,0,0,0,8,6,2,0,16,8,8,0,0,0,0,0,24,"Jujuy","Comunidad","Capacitación a agentes municipales",1
+"Palpalá II (San José)","Cultura y Entretenimiento",31,0,0,0,0,18,10,8,0,11,6,5,0,2,2,0,0,31,"Jujuy","Uso Libre","Navegación libre",1
+"Palpalá II (San José)","Capacitaciones PPD",34,24,14,10,0,24,14,10,0,0,0,0,0,0,0,0,0,48,"Jujuy","Contenidos","",1
+"Perico","Alfabetización Digital",10,7,3,4,0,11,7,4,0,8,7,1,0,0,0,0,0,26,"Jujuy","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Perico","Trámites",22,0,0,0,0,20,20,0,0,27,20,7,0,0,0,0,0,47,"Jujuy","Trámites Nacionales","MiArgentina",1
+"Perico","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,11,11,0,0,0,0,0,0,11,"Jujuy","Comunidad","Evento / Reunión",2
+"Perico","Cultura y Entretenimiento",31,33,17,16,0,4,1,3,0,6,1,5,0,0,0,0,0,43,"Jujuy","Artes","Otros",2
+"San Salvador de Jujuy I (Orígenes)","Formación Laboral",13,0,0,0,0,63,31,32,0,26,17,9,0,0,0,0,0,89,"Jujuy","Oficios digitales","Ventas por Internet",2
+"San Salvador de Jujuy I (Orígenes)","Trámites",22,0,0,0,0,49,23,21,5,77,42,29,6,0,0,0,0,126,"Jujuy","Trámites Nacionales","MiArgentina",1
+"San Salvador de Jujuy I (Orígenes)","Generos y Diversidades",28,0,0,0,0,11,6,5,0,30,21,9,0,0,0,0,0,41,"Jujuy","Otros","",1
+"Rodeito","Trámites",22,0,0,0,0,17,11,6,0,25,12,13,0,0,0,0,0,42,"Jujuy","Trámites Nacionales","MiArgentina",1
+"Caimancito","Trámites",22,21,13,8,0,13,8,5,0,3,2,1,0,0,0,0,0,37,"Jujuy","Trámites Nacionales","Potenciar Trabajo",1
+"Chamical","Trámites",22,0,0,0,0,3,2,1,0,9,6,3,0,2,1,1,0,14,"La Rioja","Trámites Nacionales","ANSES",1
+"Chamical","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,13,6,7,0,1,0,1,0,14,"La Rioja","Uso Libre","Navegación libre",1
+"Santa Rosa (Mendoza)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Mendoza","Soporte","",1
+"Santa Rosa (Mendoza)","Alfabetización Digital",10,0,0,0,0,2,2,0,0,14,14,0,0,0,0,0,0,16,"Mendoza","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Santa Rosa (Mendoza)","Educación",16,7,4,3,0,16,8,8,0,11,5,6,0,0,0,0,0,34,"Mendoza","Complementos de la educación formal","Otros",1
+"Santa Rosa (Mendoza)","Trámites",22,0,0,0,0,7,3,4,0,12,6,6,0,2,2,0,0,21,"Mendoza","Trámites Nacionales","ANSES",1
+"Malargüe","Trámites",22,0,0,0,0,0,0,0,0,27,18,8,1,0,0,0,0,27,"Mendoza","Trámites Nacionales","Validación de identidad",3
+"Malargüe","Cultura y Entretenimiento",31,374,187,187,0,355,162,193,0,20,12,8,0,0,0,0,0,749,"Mendoza","Actividad","Proyección de película (con debate)",4
+"Capiovi","Alfabetización Digital",10,24,9,15,0,0,0,0,0,0,0,0,0,0,0,0,0,24,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Capiovi","Trámites",22,0,0,0,0,16,11,5,0,40,29,11,0,15,13,2,0,71,"Misiones","Trámites Nacionales","ANSES",1
+"Capiovi","Cultura y Entretenimiento",31,35,16,19,0,45,34,11,0,0,0,0,0,0,0,0,0,80,"Misiones","Artes","Música",2
+"Eldorado","Cultura y Entretenimiento",31,41,25,16,0,55,31,24,0,20,12,8,0,0,0,0,0,116,"Misiones","Artes","Danza",2
+"Posadas","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"Misiones","Contenidos","",1
+"Posadas","Cultura y Entretenimiento",31,0,0,0,0,270,120,150,0,0,0,0,0,0,0,0,0,270,"Misiones","Uso Libre","Uso libre del espacio de microcine",1
+"Puerto Piray","Educación",16,50,15,10,25,80,25,15,40,70,25,10,35,30,5,10,15,230,"Misiones","Complementos de la educación formal","Otros",1
+"Puerto Piray","Cultura y Entretenimiento",31,50,10,15,25,114,40,17,57,78,25,14,39,20,6,4,10,262,"Misiones","Artes digitales","Ilustración Digital",2
+"San Vicente I (Misiones)","Alfabetización Digital",10,8,4,4,0,27,16,11,0,0,0,0,0,0,0,0,0,35,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Vicente I (Misiones)","Formación Laboral",13,0,0,0,0,0,0,0,0,12,5,7,0,0,0,0,0,12,"Misiones","Oficios digitales","Otras",1
+"San Vicente I (Misiones)","Trámites",22,0,0,0,0,39,27,12,0,216,146,70,0,55,32,23,0,310,"Misiones","Trámites Municipales","MUNICIPIO",14
+"San Vicente I (Misiones)","Cultura y Entretenimiento",31,10,0,10,0,29,13,16,0,27,20,7,0,0,0,0,0,66,"Misiones","Artes digitales","Fotografía",3
+"Manzano Amargo","Trámites",22,0,0,0,0,0,0,0,0,14,6,8,0,0,0,0,0,14,"Neuquén","Trámites Nacionales","Validación de identidad",1
+"Loncopué","Formación Laboral",13,0,0,0,0,0,0,0,0,32,27,5,0,0,0,0,0,32,"Neuquén","Oficios manuales","Manipulación de alimentos",1
+"Loncopué","Cultura y Entretenimiento",31,1,1,0,0,10,10,0,0,4,3,1,0,0,0,0,0,15,"Neuquén","Artes digitales","Fotografía",1
+"San Martín de los Andes","Alfabetización Digital",10,20,8,12,0,40,14,26,0,114,58,56,0,121,70,51,0,295,"Neuquén","Tecnologías de la vida cotidiana","Uso del celular",2
+"San Martín de los Andes","Formación Laboral",13,0,0,0,0,4,0,4,0,17,8,9,0,0,0,0,0,21,"Neuquén","Inserción al mundo laboral","Armado de CV",1
+"San Martín de los Andes","Educación",16,37,20,17,0,119,79,38,2,51,19,32,0,38,21,17,0,245,"Neuquén","Complementos de la educación formal","Apoyo escolar",3
+"San Martín de los Andes","Salud",19,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"Neuquén","Salud","Gestión y prevención COVID",1
+"San Martín de los Andes","Ciudadanía y DD",25,14,9,5,0,17,15,2,0,0,0,0,0,0,0,0,0,31,"Neuquén","Comunidad","Ciudadanía y Derechos Humanos",1
+"General Roca","Formación Laboral",13,0,0,0,0,0,0,0,0,12,12,0,0,0,0,0,0,12,"Río Negro","Oficios manuales","Tejido, bordado, otros",1
+"General Roca","Trámites",22,0,0,0,0,38,22,16,0,111,64,47,0,5,3,2,0,154,"Río Negro","Trámites Nacionales","Validación de identidad",1
+"Clodomira","Formación Laboral",13,0,0,0,0,27,12,15,0,22,20,2,0,0,0,0,0,49,"Santiago del Estero","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"Clodomira","Trámites",22,0,0,0,0,45,25,20,0,40,30,10,0,25,20,5,0,110,"Santiago del Estero","Trámites Nacionales","ANSES",1
+"Clodomira","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Santiago del Estero","Comunidad","Otros",2
+"Campo Gallo I","Trámites",22,0,0,0,0,0,0,0,0,16,12,4,0,0,0,0,0,16,"Santiago del Estero","Trámites Nacionales","Potenciar Trabajo",1
+"Campo Gallo I","Cultura y Entretenimiento",31,98,50,48,0,0,0,0,0,4,4,0,0,0,0,0,0,102,"Santiago del Estero","Uso Libre","Uso libre de la consola de videojuegos",2
+"Cañada de Gómez","Trámites",22,0,0,0,0,2,2,0,0,49,23,26,0,4,0,4,0,55,"Santa Fe","Trámites Nacionales","Validación de identidad",2
+"Ceres","Formación Laboral",13,0,0,0,0,0,0,0,0,60,32,28,0,0,0,0,0,60,"Santa Fe","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"Ceres","Educación",16,608,285,323,0,672,302,370,0,0,0,0,0,0,0,0,0,1280,"Santa Fe","Complementos de la educación formal","Otros",1
+"Ceres","Trámites",22,0,0,0,0,20,8,12,0,93,50,43,0,142,67,75,0,255,"Santa Fe","Trámites Nacionales","Otros",1
+"Comuna Emilia","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,12,12,0,0,8,7,1,0,20,"Santa Fe","Artes","Otros",1
+"El Trébol","Formación Laboral",13,0,0,0,0,39,24,15,0,29,12,17,0,0,0,0,0,68,"Santa Fe","Inserción al mundo laboral","Armado de CV",1
+"El Trébol","Educación",16,0,0,0,0,26,22,4,0,38,21,17,0,16,5,1,10,80,"Santa Fe","Complementos de la educación formal","Videoconferencias formativas",3
+"El Trébol","Trámites",22,0,0,0,0,0,0,0,0,662,314,348,0,121,78,43,0,783,"Santa Fe","Trámites Nacionales","Otros",3
+"El Trébol","Ciudadanía y DD",25,0,0,0,0,64,24,40,0,27,10,17,0,23,3,20,0,114,"Santa Fe","Comunidad","Otros",1
+"Granadero Baigorria I","Formación Laboral",13,0,0,0,0,5,3,2,0,22,12,10,0,0,0,0,0,27,"Santa Fe","Inserción al mundo laboral","Armado de CV",1
+"Granadero Baigorria I","Trámites",22,5,3,2,0,20,10,10,0,69,35,34,0,29,21,8,0,123,"Santa Fe","Trámites Nacionales","Otros",5
+"Granadero Baigorria I","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,15,12,3,0,0,0,0,0,15,"Santa Fe","Comunidad","Otros",1
+"Granadero Baigorria II","Alfabetización Digital",10,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Granadero Baigorria II","Formación Laboral",13,0,0,0,0,0,0,0,0,1,0,1,0,7,3,4,0,8,"Santa Fe","Inserción al mundo laboral","Armado de CV",1
+"Granadero Baigorria II","Trámites",22,0,0,0,0,0,0,0,0,149,64,85,0,0,0,0,0,149,"Santa Fe","Trámites Nacionales","Potenciar Trabajo",1
+"Las Parejas","Cultura y Entretenimiento",31,60,50,10,0,50,30,20,0,130,80,50,0,10,10,0,0,250,"Santa Fe","Uso Libre","Navegación libre",1
+"Llambi Campbell","Trámites",22,0,0,0,0,0,0,0,0,59,33,26,0,0,0,0,0,59,"Santa Fe","Trámites Nacionales","ANSES",2
+"Malabrigo","Trámites",22,0,0,0,0,25,15,10,0,27,10,17,0,0,0,0,0,52,"Santa Fe","Trámites Nacionales","Validación de identidad",2
+"Puerto General San Martín","Formación Laboral",13,0,0,0,0,47,15,32,0,79,26,53,0,0,0,0,0,126,"Santa Fe","Inserción al mundo laboral","Armado de CV",1
+"Puerto General San Martín","Trámites",22,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Santa Fe","Trámites Nacionales","Validación de identidad",1
+"Puerto General San Martín","Ciudadanía y DD",25,0,0,0,0,80,36,44,0,187,77,110,0,9,2,7,0,276,"Santa Fe","Comunidad","Seguridad vial",3
+"Roldán","Alfabetización Digital",10,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,5,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Roldán","Formación Laboral",13,0,0,0,0,14,4,10,0,25,10,15,0,0,0,0,0,39,"Santa Fe","Inserción al mundo laboral","Armado de CV",1
+"Roldán","Educación",16,0,0,0,0,8,5,3,0,13,5,8,0,0,0,0,0,21,"Santa Fe","Complementos de la educación formal","Otros",1
+"Roldán","Trámites",22,0,0,0,0,7,5,2,0,8,3,5,0,0,0,0,0,15,"Santa Fe","Trámites Nacionales","MiArgentina",1
+"Santa Rosa de Calchines","Trámites",22,0,0,0,0,83,51,32,0,229,125,104,0,27,21,6,0,339,"Santa Fe","Trámites Nacionales","ANSES",4
+"Sauce Viejo","Trámites",22,14,8,6,0,22,13,9,0,142,59,83,0,12,4,8,0,190,"Santa Fe","Trámites Municipales","MUNICIPIO",2
+"Sauce Viejo","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,9,4,5,0,0,0,0,0,9,"Santa Fe","Comunidad","Evento / Reunión",1
+"Rosario III (Asociación Nazareth)","Educación",16,0,0,0,0,11,2,9,0,20,2,18,0,2,1,1,0,33,"Santa Fe","Complementos de la educación formal","Otros",1
+"Rosario III (Asociación Nazareth)","Salud",19,0,0,0,0,19,4,15,0,37,3,34,0,3,2,1,0,59,"Santa Fe","Salud","Gestión y prevención COVID",2
+"Rosario III (Asociación Nazareth)","Cultura y Entretenimiento",31,2,0,2,0,41,8,33,0,79,8,71,0,7,2,5,0,129,"Santa Fe","Artes","Otros",4
+"Villa Gobernador Gálvez","Cultura y Entretenimiento",31,0,0,0,0,60,30,30,0,0,0,0,0,0,0,0,0,60,"Santa Fe","Artes","Literatura",1
+"Ciudad de Santa Fe I (CAJ)","Alfabetización Digital",10,0,0,0,0,24,10,14,0,38,15,23,0,1,0,1,0,63,"Santa Fe","Tecnologías de la vida cotidiana","Uso del celular",1
+"Ciudad de Santa Fe I (CAJ)","Formación Laboral",13,0,0,0,0,72,38,33,1,126,67,59,0,0,0,0,0,198,"Santa Fe","Inserción al mundo laboral","Armado de CV",1
+"Ciudad de Santa Fe I (CAJ)","Educación",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Santa Fe","Complementos de la educación formal","Otros",1
+"Ciudad de Santa Fe I (CAJ)","Trámites",22,0,0,0,0,177,102,75,0,409,223,185,1,70,38,32,0,656,"Santa Fe","Trámites Nacionales","Otros",4
+"Ciudad de Santa Fe I (CAJ)","Cultura y Entretenimiento",31,0,0,0,0,14,6,8,0,221,193,27,1,17,16,1,0,252,"Santa Fe","Artes","Otros",3
+"25 de Mayo (San Juan)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"San Juan","Contenidos","",1
+"25 de Mayo (San Juan)","Trámites",22,0,0,0,0,107,62,41,4,93,43,47,3,22,10,12,0,222,"San Juan","Trámites Nacionales","Potenciar Trabajo",2
+"25 de Mayo (San Juan)","Ciudadanía y DD",25,450,200,250,0,83,35,48,0,46,20,26,0,0,0,0,0,579,"San Juan","Comunidad","Evento / Reunión",1
+"Chimbas","Capacitaciones PPD",34,0,0,0,0,1,0,0,1,2,2,0,0,0,0,0,0,3,"San Juan","Soporte","",2
+"Chimbas","Alfabetización Digital",10,16,15,1,0,0,0,0,0,27,24,3,0,17,16,1,0,60,"San Juan","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Chimbas","Trámites",22,0,0,0,0,0,0,0,0,51,39,12,0,52,39,13,0,103,"San Juan","Trámites Nacionales","Otros",3
+"Chimbas","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,21,18,3,0,2,2,0,0,23,"San Juan","Comunidad","Otros",1
+"Media Agua","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"San Juan","Contenidos","",1
+"Media Agua","Trámites",22,0,0,0,0,0,0,0,0,77,50,27,0,0,0,0,0,77,"San Juan","Trámites Nacionales","Potenciar Trabajo",1
+"Rawson II (Médano de Oro, San Juan)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"San Juan","Contenidos","",1
+"Rawson II (Médano de Oro, San Juan)","Formación Laboral",13,0,0,0,0,8,8,0,0,6,6,0,0,2,2,0,0,16,"San Juan","Oficios manuales","Otras",1
+"Rawson II (Médano de Oro, San Juan)","Salud",19,0,0,0,0,0,0,0,0,11,11,0,0,6,6,0,0,17,"San Juan","Salud","Otros",1
+"Rawson II (Médano de Oro, San Juan)","Trámites",22,0,0,0,0,0,0,0,0,27,20,7,0,0,0,0,0,27,"San Juan","Trámites Nacionales","Validación de identidad",1
+"Rawson II (Médano de Oro, San Juan)","Cultura y Entretenimiento",31,47,20,27,0,11,6,5,0,6,2,4,0,2,0,2,0,66,"San Juan","Artes","Música",2
+"Ciudad de Salta I (Ente de Desarrollo Económico)","Educación",16,0,0,0,0,16,9,7,0,279,182,97,0,7,0,7,0,302,"Salta","Complementos de la educación formal","Otros",4
+"Ciudad de Salta III (CIC Santa Cecilia)","Trámites",22,0,0,0,0,55,38,17,0,108,70,38,0,70,37,33,0,233,"Salta","Trámites Nacionales","ANSES",6
+"Ciudad de Salta III (CIC Santa Cecilia)","Cultura y Entretenimiento",31,282,177,105,0,0,0,0,0,0,0,0,0,0,0,0,0,282,"Salta","Uso Libre","Navegación libre",1
+"Ciudad de Salta IV (CIC Constitución)","Formación Laboral",13,0,0,0,0,0,0,0,0,6,4,2,0,0,0,0,0,6,"Salta","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"Ciudad de Salta IV (CIC Constitución)","Trámites",22,0,0,0,0,4,0,0,4,1072,647,402,23,3,1,2,0,1079,"Salta","Trámites Nacionales","MiArgentina",3
+"Ciudad de Salta V (Penal de Castañares)","Formación Laboral",13,0,0,0,0,89,0,89,0,0,0,0,0,0,0,0,0,89,"Salta","Oficios digitales","Otras",2
+"Ciudad de Salta V (Penal de Castañares)","Educación",16,0,0,0,0,347,0,347,0,0,0,0,0,0,0,0,0,347,"Salta","Complementos de la educación formal","Otros",7
+"Ciudad de Salta V (Penal de Castañares)","Salud",19,0,0,0,0,23,0,23,0,0,0,0,0,0,0,0,0,23,"Salta","Salud","Otros",3
+"Ciudad de Salta V (Penal de Castañares)","Trámites",22,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,5,"Salta","Trámites Provinciales","Otros",1
+"Ciudad de Salta V (Penal de Castañares)","Cultura y Entretenimiento",31,0,0,0,0,136,0,136,0,0,0,0,0,0,0,0,0,136,"Salta","Artes","Pintura",5
+"Pichanal","Salud",19,0,0,0,0,160,50,110,0,170,50,120,0,0,0,0,0,330,"Salta","Salud","Otros",1
+"Pichanal","Trámites",22,0,0,0,0,140,80,60,0,945,680,265,0,58,25,33,0,1143,"Salta","Trámites Nacionales","Otros",5
+"Pichanal","Cultura y Entretenimiento",31,245,75,170,0,470,90,380,0,0,0,0,0,0,0,0,0,715,"Salta","Uso Libre","Navegación libre",2
+"Puerto San Julián","Alfabetización Digital",10,0,0,0,0,1,1,0,0,5,5,0,0,0,0,0,0,6,"Santa Cruz","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Puerto San Julián","Cultura y Entretenimiento",31,55,25,30,0,24,12,12,0,55,20,35,0,2,2,0,0,136,"Santa Cruz","Actividad","Proyección de película (con debate)",1
+"Río Turbio","Trámites",22,0,0,0,0,7,4,3,0,5,4,1,0,0,0,0,0,12,"Santa Cruz","Trámites Nacionales","Validación de identidad",1
+"Río Turbio","Cultura y Entretenimiento",31,5,2,3,0,14,6,8,0,0,0,0,0,0,0,0,0,19,"Santa Cruz","Uso Libre","Navegación libre",1
+"Río Gallegos I (Kunfi Quirós)","Alfabetización Digital",10,0,0,0,0,0,0,0,0,8,2,6,0,0,0,0,0,8,"Santa Cruz","Alfabetización Digital","Paquete de Office o LibreOffice",1
+"Río Gallegos I (Kunfi Quirós)","Trámites",22,0,0,0,0,8,5,3,0,240,140,100,0,0,0,0,0,248,"Santa Cruz","Trámites Nacionales","Potenciar Trabajo",2
+"Río Gallegos I (Kunfi Quirós)","Cultura y Entretenimiento",31,0,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,13,"Santa Cruz","Artes","Danza",1
+"Gregores","Cultura y Entretenimiento",31,12,10,2,0,0,0,0,0,14,10,4,0,0,0,0,0,26,"Santa Cruz","Artes","Otros",2
+"Ushuaia","Alfabetización Digital",10,0,0,0,0,16,4,12,0,16,10,6,0,0,0,0,0,32,"Tierra del Fuego","Alfabetización Digital","Paquete de Office o LibreOffice",1
+"Ushuaia","Trámites",22,0,0,0,0,0,0,0,0,7,5,2,0,12,8,4,0,19,"Tierra del Fuego","Trámites Nacionales","Validación de identidad",1
+"Ushuaia","Cultura y Entretenimiento",31,24,16,8,0,68,23,45,0,26,7,19,0,0,0,0,0,118,"Tierra del Fuego","Actividad","Proyección de película (con debate)",2
+"San Miguel de Tucumán II (Casa de la Ciudad)","Trámites",22,0,0,0,0,0,0,0,0,1500,750,750,0,0,0,0,0,1500,"Tucumán","Trámites Nacionales","Potenciar Trabajo",1
+"San Miguel de Tucumán I (Ente Cultural)","Trámites",22,0,0,0,0,0,0,0,0,190,120,70,0,150,110,40,0,340,"Tucumán","Trámites Nacionales","MiArgentina",1
+"Famaillá","Alfabetización Digital",10,0,0,0,0,52,26,26,0,60,30,30,0,40,20,20,0,152,"Tucumán","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Famaillá","Trámites",22,0,0,0,0,25,15,10,0,44,27,17,0,30,10,20,0,99,"Tucumán","Trámites Nacionales","Validación de identidad",2
+"Famaillá","Cultura y Entretenimiento",31,36,18,18,0,22,10,12,0,36,18,18,0,0,0,0,0,94,"Tucumán","Uso Libre","Navegación libre",1
+"La Cocha","Educación",16,250,126,124,0,40,35,5,0,0,0,0,0,0,0,0,0,290,"Tucumán","Complementos de la educación formal","Videoconferencias formativas",6
+"La Cocha","Trámites",22,0,0,0,0,65,35,30,0,155,80,75,0,35,20,15,0,255,"Tucumán","Trámites Nacionales","ANSES",1
+"Monteros I","Educación",16,1440,840,600,0,120,120,0,0,0,0,0,0,0,0,0,0,1560,"Tucumán","Complementos de la educación formal","Otros",1
+"Monteros I","Trámites",22,0,0,0,0,0,0,0,0,150,90,60,0,0,0,0,0,150,"Tucumán","Trámites Nacionales","Validación de identidad",1
+"Monteros II (CIC)","Formación Laboral",13,160,80,80,0,0,0,0,0,0,0,0,0,0,0,0,0,160,"Tucumán","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"Monteros II (CIC)","Cultura y Entretenimiento",31,700,400,300,0,0,0,0,0,0,0,0,0,0,0,0,0,700,"Tucumán","Uso Libre","Uso libre del espacio de microcine",1
+"Yerba Buena","Educación",16,1624,969,655,0,260,133,127,0,0,0,0,0,0,0,0,0,1884,"Tucumán","Complementos de la educación formal","Otros",2
+"Yerba Buena","Trámites",22,0,0,0,0,457,260,197,0,3630,2189,1437,4,564,166,398,0,4651,"Tucumán","Trámites Nacionales","Otros",3
+"San Miguel de Tucumán IV (Universidad Nacional de Tucumán)","Educación",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tucumán","Complementos de la educación formal","Apoyo escolar",1
+"San Miguel de Tucumán V (Ingenio Cultural)","Cultura y Entretenimiento",31,140,79,61,0,26,14,12,0,81,66,15,0,43,31,12,0,290,"Tucumán","Actividad","Proyección de película (con debate)",4
+"Pergamino","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Buenos Aires","Soporte","",2
+"Pergamino","Alfabetización Digital",10,0,0,0,0,80,49,31,0,0,0,0,0,0,0,0,0,80,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Pergamino","Formación Laboral",13,0,0,0,0,2,2,0,0,12,11,1,0,0,0,0,0,14,"Buenos Aires","Inserción al mundo laboral","Armado de CV",3
+"Pergamino","Trámites",22,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,17,"Buenos Aires","Trámites Nacionales","Otros",2
+"Pergamino","Cultura y Entretenimiento",31,0,0,0,0,89,54,35,0,0,0,0,0,0,0,0,0,89,"Buenos Aires","Artes","Pintura",2
+"Pergamino","Capacitaciones PPD",34,0,0,0,0,45,30,15,0,0,0,0,0,0,0,0,0,45,"Buenos Aires","Comunicación","",1
+"Neuquén","Educación",16,0,0,0,0,0,0,0,0,1850,1086,764,0,1,1,0,0,1851,"Neuquén","Complementos de la educación formal","Terminá la Secundaria",2
+"Neuquén","Trámites",22,0,0,0,0,11,5,6,0,856,424,432,0,12,7,5,0,879,"Neuquén","Trámites Nacionales","Validación de identidad",4
+"Neuquén","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,43,42,1,0,0,0,0,0,43,"Neuquén","Comunidad","Capacitación a agentes municipales",3
+"Neuquén","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,5,"Neuquén","Uso Libre","Navegación libre",1
+"Bariloche I","Trámites",22,0,0,0,0,20,10,10,0,52,26,26,0,20,10,10,0,92,"Río Negro","Trámites Nacionales","Validación de identidad",1
+"Lanús III (Velódromo)","Alfabetización Digital",10,0,0,0,0,41,25,16,0,256,124,132,0,0,0,0,0,297,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Lanús III (Velódromo)","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Buenos Aires","Artes","Otros",1
+"Los Cocos","Trámites",22,0,0,0,0,27,16,8,3,195,85,96,14,25,13,11,1,247,"Córdoba","Trámites Nacionales","Validación de identidad",1
+"Los Cocos","Cultura y Entretenimiento",31,383,196,187,0,459,242,182,35,354,217,122,15,76,52,23,1,1272,"Córdoba","Actividad","Proyección de película (con debate)",3
+"Los Cocos","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,115,65,41,9,7,6,1,0,122,"Córdoba","Comunicación","",1
+"San Salvador de Jujuy III (ISSP)","Formación Laboral",13,0,0,0,0,0,0,0,0,2465,1635,830,0,0,0,0,0,2465,"Jujuy","Oficios digitales","Otras",2
+"San Salvador de Jujuy III (ISSP)","Educación",16,0,0,0,0,170,100,70,0,620,368,252,0,0,0,0,0,790,"Jujuy","Complementos de la educación formal","Otros",2
+"Monte Leña","Trámites",22,8,4,4,0,6,0,6,0,24,15,9,0,10,4,6,0,48,"Córdoba","Trámites Nacionales","Otros",1
+"Monte Leña","Cultura y Entretenimiento",31,164,51,113,0,75,45,30,0,5,3,2,0,0,0,0,0,244,"Córdoba","Uso Libre","Navegación libre",1
+"San Salvador de Jujuy IV (Faro del Saber)","Formación Laboral",13,20,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,20,"Jujuy","Oficios digitales","Robótica",1
+"San Salvador de Jujuy IV (Faro del Saber)","Trámites",22,0,0,0,0,0,0,0,0,200,90,110,0,0,0,0,0,200,"Jujuy","Trámites Nacionales","Validación de identidad",2
+"San Salvador de Jujuy IV (Faro del Saber)","Cultura y Entretenimiento",31,100,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,100,"Jujuy","Actividad","Proyección de película (con debate)",2
+"Jesús María","Formación Laboral",13,0,0,0,0,38,18,20,0,96,46,50,0,0,0,0,0,134,"Córdoba","Oficios digitales","Otras",2
+"Jesús María","Trámites",22,0,0,0,0,38,18,20,0,70,30,40,0,122,60,62,0,230,"Córdoba","Trámites Municipales","MUNICIPIO",1
+"Luján de Cuyo I (Biblioteca)","Cultura y Entretenimiento",31,40,20,20,0,90,56,34,0,116,74,42,0,28,18,10,0,274,"Mendoza","Artes","Otros",4
+"Sauce de Luna","Trámites",22,0,0,0,0,36,20,16,0,24,6,18,0,35,23,12,0,95,"Entre Ríos","Trámites Nacionales","Otros",1
+"Basavilbaso","Trámites",22,0,0,0,0,3,3,0,0,23,11,12,0,5,3,2,0,31,"Entre Ríos","Trámites Nacionales","PROGRESAR",4
+"Basavilbaso","Cultura y Entretenimiento",31,47,16,31,0,41,9,32,0,15,8,7,0,0,0,0,0,103,"Entre Ríos","Uso Libre","Uso libre de la consola de videojuegos",4
+"Puerto Esperanza","Formación Laboral",13,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,2,"Misiones","Inserción al mundo laboral","Armado de CV",1
+"Puerto Esperanza","Educación",16,2,0,2,0,2,0,2,0,22,19,3,0,0,0,0,0,26,"Misiones","Complementos de la educación formal","Otros",2
+"Puerto Esperanza","Trámites",22,0,0,0,0,42,23,19,0,48,30,18,0,0,0,0,0,90,"Misiones","Trámites Municipales","MUNICIPIO",6
+"Puerto Esperanza","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"Misiones","Uso Libre","Navegación libre",1
+"Río Hondo I","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,10,2,8,0,0,0,0,0,10,"Santiago del Estero","Soporte","",2
+"Río Hondo I","Alfabetización Digital",10,0,0,0,0,0,0,0,0,112,86,26,0,36,26,10,0,148,"Santiago del Estero","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Río Hondo I","Educación",16,0,0,0,0,0,0,0,0,11,5,6,0,0,0,0,0,11,"Santiago del Estero","Complementos de la educación formal","Otros",2
+"Río Hondo I","Trámites",22,0,0,0,0,0,0,0,0,377,264,113,0,86,72,14,0,463,"Santiago del Estero","Trámites Nacionales","AFIP",4
+"Río Hondo I","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,160,50,110,0,11,6,5,0,171,"Santiago del Estero","Uso Libre","Navegación libre",1
+"Coronel Suárez III (Huanguelen)","Trámites",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Buenos Aires","Trámites Nacionales","Otros",2
+"Junin II","Salud",19,5,3,2,0,35,26,9,0,30,25,5,0,13,11,2,0,83,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",2
+"Junin II","Trámites",22,0,0,0,0,0,0,0,0,35,30,5,0,0,0,0,0,35,"Buenos Aires","Trámites Municipales","MUNICIPIO",1
+"Junin II","Cultura y Entretenimiento",31,323,138,185,0,204,84,120,0,63,48,15,0,27,22,5,0,617,"Buenos Aires","Uso Libre","Navegación libre",3
+"Pinamar I","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,30,10,20,0,0,0,0,0,30,"Buenos Aires","Uso Libre","Navegación libre",1
+"9 de Julio (San Juan)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"San Juan","Soporte","",1
+"9 de Julio (San Juan)","Trámites",22,7,3,4,0,189,94,95,0,431,236,195,0,339,172,167,0,966,"San Juan","Trámites Nacionales","ANSES",12
+"Bahía Blanca II (Cerri)","Trámites",22,0,0,0,0,0,0,0,0,35,10,25,0,5,0,5,0,40,"Buenos Aires","Trámites Nacionales","Potenciar Trabajo",1
+"Bahía Blanca II (Cerri)","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,17,10,7,0,4,1,3,0,21,"Buenos Aires","Comunidad","Otros",1
+"Pilar (Buenos Aires)","Salud",19,0,0,0,0,5,1,4,0,28,15,13,0,0,0,0,0,33,"Buenos Aires","Salud","Otros",1
+"Pilar (Buenos Aires)","Trámites",22,0,0,0,0,2,1,1,0,178,106,72,0,0,0,0,0,180,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"San Pedro","Alfabetización Digital",10,156,61,89,6,0,0,0,0,0,0,0,0,0,0,0,0,156,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"San Pedro","Educación",16,261,156,105,0,273,123,148,2,272,143,125,4,65,41,24,0,871,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",1
+"San Pedro","Trámites",22,0,0,0,0,593,289,296,8,1086,573,499,14,493,270,222,1,2172,"Buenos Aires","Trámites Nacionales","AFIP",5
+"San Pedro","Cultura y Entretenimiento",31,587,261,320,6,476,202,264,10,295,154,137,4,108,50,55,3,1466,"Buenos Aires","Uso Libre","Navegación libre",3
+"Trenque Lauquen","Trámites",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Buenos Aires","Trámites Nacionales","MiArgentina",1
+"Trenque Lauquen","Cultura y Entretenimiento",31,58,23,35,0,27,5,22,0,0,0,0,0,0,0,0,0,85,"Buenos Aires","Artes digitales","Otros",2
+"Rivadavia (San Juan)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,6,3,3,0,0,0,0,0,6,"San Juan","Contenidos","",1
+"Rivadavia (San Juan)","Educación",16,39,19,20,0,326,152,174,0,85,46,39,0,0,0,0,0,450,"San Juan","Complementos de la educación formal","Apoyo escolar",3
+"Rivadavia (San Juan)","Trámites",22,0,0,0,0,11,7,4,0,41,25,16,0,48,30,18,0,100,"San Juan","Trámites Nacionales","Otros",2
+"Rivadavia (San Juan)","Cultura y Entretenimiento",31,613,327,286,0,243,135,108,0,89,52,37,0,33,17,16,0,978,"San Juan","Artes","Teatro",2
+"Ciudad de Córdoba II (Parque Educativo Zona Sur)","Alfabetización Digital",10,168,64,104,0,0,0,0,0,0,0,0,0,0,0,0,0,168,"Córdoba","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Ciudad de Córdoba II (Parque Educativo Zona Sur)","Trámites",22,0,0,0,0,5,2,3,0,230,155,75,0,0,0,0,0,235,"Córdoba","Trámites Nacionales","Validación de identidad",1
+"General Viamonte","Formación Laboral",13,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Buenos Aires","Inserción al mundo laboral","Armado de CV",1
+"General Viamonte","Trámites",22,0,0,0,0,0,0,0,0,11,10,1,0,0,0,0,0,11,"Buenos Aires","Trámites Municipales","MUNICIPIO",4
+"General Viamonte","Cultura y Entretenimiento",31,40,20,20,0,55,25,30,0,104,47,57,0,15,5,10,0,214,"Buenos Aires","Actividad","Proyección de película (con debate)",2
+"San Isidro","Salud",19,13,10,3,0,13,10,3,0,13,10,3,0,40,30,10,0,79,"Buenos Aires","Salud","Otros",1
+"San Isidro","Trámites",22,0,0,0,0,40,25,15,0,60,40,20,0,30,20,10,0,130,"Buenos Aires","Trámites Nacionales","MiArgentina",1
+"San Carlos I (Chilecito, Mendoza)","Alfabetización Digital",10,11,6,5,0,5,2,3,0,0,0,0,0,0,0,0,0,16,"Mendoza","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Carlos I (Chilecito, Mendoza)","Educación",16,5,3,2,0,2,1,1,0,0,0,0,0,0,0,0,0,7,"Mendoza","Complementos de la educación formal","Idiomas",1
+"San Carlos I (Chilecito, Mendoza)","Trámites",22,0,0,0,0,0,0,0,0,3,2,1,0,1,0,1,0,4,"Mendoza","Trámites Nacionales","Validación de identidad",1
+"Guaymallén","Trámites",22,0,0,0,0,15,15,0,0,350,250,100,0,25,20,5,0,390,"Mendoza","Trámites Nacionales","Validación de identidad",1
+"General Belgrano","Alfabetización Digital",10,0,0,0,0,0,0,0,0,10,7,3,0,5,3,2,0,15,"Buenos Aires","Tecnologías de la vida cotidiana","Uso del celular",1
+"General Belgrano","Formación Laboral",13,0,0,0,0,4,3,1,0,10,4,6,0,0,0,0,0,14,"Buenos Aires","Inserción al mundo laboral","Armado de CV",1
+"General Belgrano","Salud",19,0,0,0,0,0,0,0,0,3,2,1,0,5,4,1,0,8,"Buenos Aires","Salud","Apps Obra Social",1
+"General Belgrano","Trámites",22,0,0,0,0,19,11,8,0,53,22,30,1,2,1,1,0,74,"Buenos Aires","Trámites Municipales","MUNICIPIO",4
+"Chascomús","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Buenos Aires","Soporte","",1
+"La Matanza IV (La Juanita)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Buenos Aires","Soporte","",1
+"Lanús IV (NIDO Jardín)","Formación Laboral",13,0,0,0,0,1,0,1,0,24,19,5,0,0,0,0,0,25,"Buenos Aires","Oficios digitales","Otras",2
+"Lanús IV (NIDO Jardín)","Trámites",22,0,0,0,0,286,148,138,0,455,225,230,0,19,9,10,0,760,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"La Paz (Mendoza)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mendoza","Soporte","",2
+"Humahuaca I","Trámites",22,0,0,0,0,104,47,57,0,94,46,48,0,33,14,19,0,231,"Jujuy","Trámites Nacionales","MiArgentina",2
+"Susques","Educación",16,0,0,0,0,9,1,8,0,15,2,13,0,1,0,1,0,25,"Jujuy","Complementos de la educación formal","Otros",1
+"Susques","Trámites",22,0,0,0,0,4,3,1,0,18,8,10,0,0,0,0,0,22,"Jujuy","Trámites Nacionales","ANSES",1
+"Susques","Cultura y Entretenimiento",31,0,0,0,0,10,6,4,0,14,3,11,0,2,0,2,0,26,"Jujuy","Actividad","Actividad con uso de consola de videojuegos",1
+"Quimilí","Trámites",22,0,0,0,0,16,11,5,0,91,55,36,0,0,0,0,0,107,"Santiago del Estero","Trámites Nacionales","Potenciar Trabajo",2
+"El Soberbio","Trámites",22,0,0,0,0,231,96,135,0,3500,1000,2500,0,517,194,323,0,4248,"Misiones","Trámites Provinciales","Otros",1
+"El Soberbio","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,111,75,36,0,0,0,0,0,111,"Misiones","Comunidad","Otros",1
+"General Lavalle","Trámites",22,0,0,0,0,9,9,0,0,12,11,1,0,0,0,0,0,21,"Buenos Aires","Trámites Nacionales","Potenciar Trabajo",2
+"Cipolletti","Trámites",22,0,0,0,0,27,11,16,0,25,14,11,0,10,3,7,0,62,"Río Negro","Trámites Nacionales","Validación de identidad",1
+"El Carril","Alfabetización Digital",10,0,0,0,0,90,30,60,0,120,60,60,0,0,0,0,0,210,"Salta","Alfabetización Digital","Alfabetización Digital Inicial",1
+"El Carril","Cultura y Entretenimiento",31,100,40,60,0,266,16,250,0,305,30,245,30,0,0,0,0,671,"Salta","Uso Libre","Navegación libre",1
+"Viedma I","Formación Laboral",13,0,0,0,0,53,10,43,0,50,2,48,0,0,0,0,0,103,"Río Negro","Oficios digitales","Impresión y Diseño 3D",7
+"General Fernández Oro","Trámites",22,0,0,0,0,0,0,0,0,11,9,2,0,3,3,0,0,14,"Río Negro","Trámites Nacionales","Validación de identidad",1
+"Comuna Luis Palacios","Educación",16,114,69,45,0,30,12,18,0,0,0,0,0,0,0,0,0,144,"Santa Fe","Complementos de la educación formal","Otros",1
+"Comuna Luis Palacios","Trámites",22,60,38,22,0,12,7,5,0,30,18,12,0,7,5,2,0,109,"Santa Fe","Trámites Municipales","MUNICIPIO",1
+"Comuna Luis Palacios","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,115,95,19,1,32,31,1,0,147,"Santa Fe","Artes","Otros",2
+"Puan I","Alfabetización Digital",10,0,0,0,0,0,0,0,0,54,24,30,0,54,27,27,0,108,"Buenos Aires","Tecnologías de la vida cotidiana","Uso del celular",2
+"Puan I","Trámites",22,0,0,0,0,25,16,9,0,96,55,41,0,53,30,23,0,174,"Buenos Aires","Trámites Nacionales","Validación de identidad",4
+"Puan I","Ciudadanía y DD",25,0,0,0,0,3,0,3,0,126,94,32,0,22,12,10,0,151,"Buenos Aires","Comunidad","Capacitación a agentes municipales",2
+"Puan I","Cultura y Entretenimiento",31,49,22,27,0,144,65,79,0,127,72,55,0,65,41,24,0,385,"Buenos Aires","Artes","Literatura",8
+"Coronel Pringles","Educación",16,4,3,1,0,2,1,1,0,3,3,0,0,0,0,0,0,9,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",1
+"Coronel Pringles","Trámites",22,0,0,0,0,1,0,1,0,3,1,2,0,3,2,1,0,7,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Coronel Pringles","Cultura y Entretenimiento",31,1,1,0,0,10,5,4,1,10,5,5,0,1,1,0,0,22,"Buenos Aires","Artes digitales","Otros",2
+"San Agustín","Formación Laboral",13,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,5,"Santa Fe","Oficios digitales","Diseño gráfico",1
+"San Agustín","Salud",19,0,0,0,0,0,0,0,0,8,6,2,0,1,1,0,0,9,"Santa Fe","Salud","Gestión y prevención COVID",1
+"San Agustín","Cultura y Entretenimiento",31,38,20,18,0,26,10,16,0,0,0,0,0,0,0,0,0,64,"Santa Fe","Actividad","Proyección de película (con debate)",1
+"Baradero","Trámites",22,0,0,0,0,3,2,0,1,54,50,4,0,71,63,6,2,128,"Buenos Aires","Trámites Municipales","MUNICIPIO",5
+"San Fernando del Valle III (Punto Joven)","Alfabetización Digital",10,512,292,220,0,532,240,292,0,0,0,0,0,0,0,0,0,1044,"Catamarca","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Costa Sacate","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,2,"Córdoba","Soporte","",2
+"Costa Sacate","Trámites",22,0,0,0,0,52,26,26,0,44,25,19,0,57,32,25,0,153,"Córdoba","Trámites Nacionales","ANSES",2
+"Costa Sacate","Cultura y Entretenimiento",31,62,35,27,0,49,26,23,0,31,17,14,0,0,0,0,0,142,"Córdoba","Uso Libre","Uso libre del espacio de microcine",3
+"Palma Sola","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Jujuy","Soporte","",2
+"Palma Sola","Trámites",22,0,0,0,0,170,150,20,0,197,169,26,2,40,25,15,0,407,"Jujuy","Trámites Nacionales","ANSES",1
+"Famatina I","Trámites",22,0,0,0,0,16,7,9,0,26,6,20,0,0,0,0,0,42,"La Rioja","Trámites Municipales","MUNICIPIO",1
+"Rufino","Alfabetización Digital",10,0,0,0,0,0,0,0,0,14,4,10,0,0,0,0,0,14,"Santa Fe","Alfabetización Digital","Paquete de Office o LibreOffice",2
+"Rufino","Trámites",22,0,0,0,0,0,0,0,0,66,5,61,0,0,0,0,0,66,"Santa Fe","Trámites Municipales","MUNICIPIO",9
+"San Vicente (Santa Fe)","Formación Laboral",13,0,0,0,0,3,1,2,0,30,18,12,0,0,0,0,0,33,"Santa Fe","Oficios manuales","Otras",2
+"San Vicente (Santa Fe)","Trámites",22,0,0,0,0,13,6,7,0,92,49,43,0,79,42,37,0,184,"Santa Fe","Trámites Nacionales","PAMI",6
+"San Vicente (Santa Fe)","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,12,4,8,0,0,0,0,0,12,"Santa Fe","Comunidad","Evento / Reunión",1
+"Lanteri","Cultura y Entretenimiento",31,33,26,7,0,22,17,5,0,41,32,9,0,8,5,3,0,104,"Santa Fe","Actividad","Punto Carnaval",1
+"Cayastá","Educación",16,0,0,0,0,0,0,0,0,10,7,3,0,0,0,0,0,10,"Santa Fe","Complementos de la educación formal","FINES",1
+"Cayastá","Salud",19,0,0,0,0,0,0,0,0,15,7,8,0,0,0,0,0,15,"Santa Fe","Salud","Otros",1
+"Cayastá","Trámites",22,0,0,0,0,1,0,1,0,22,6,16,0,1,0,1,0,24,"Santa Fe","Trámites Nacionales","Potenciar Trabajo",2
+"San Justo","Trámites",22,0,0,0,0,26,15,11,0,15,7,8,0,2,1,1,0,43,"Santa Fe","Trámites Nacionales","Otros",1
+"San Justo","Cultura y Entretenimiento",31,0,0,0,0,22,10,12,0,4,2,2,0,0,0,0,0,26,"Santa Fe","Uso Libre","Navegación libre",1
+"Laguna Paiva","Educación",16,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,3,"Santa Fe","Complementos de la educación formal","FINES",1
+"Laguna Paiva","Trámites",22,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,3,"Santa Fe","Trámites Nacionales","Validación de identidad",4
+"Laguna Paiva","Cultura y Entretenimiento",31,122,53,69,0,0,0,0,0,0,0,0,0,0,0,0,0,122,"Santa Fe","Uso Libre","Navegación libre",3
+"Hernando","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Córdoba","Contenidos","",1
+"Estación Juárez Celman","Trámites",22,0,0,0,0,135,70,65,0,95,55,40,0,25,10,15,0,255,"Córdoba","Trámites Nacionales","Validación de identidad",2
+"Estación Juárez Celman","Ciudadanía y DD",25,0,0,0,0,5,5,0,0,90,60,30,0,20,10,10,0,115,"Córdoba","Comunidad","Evento / Reunión",2
+"Río Primero","Educación",16,0,0,0,0,0,0,0,0,14,5,9,0,0,0,0,0,14,"Córdoba","Complementos de la educación formal","Idiomas",2
+"Río Primero","Trámites",22,21,18,3,0,19,12,7,0,187,130,57,0,41,30,11,0,268,"Córdoba","Trámites Nacionales","Otros",11
+"Monte Cristo","Trámites",22,0,0,0,0,19,11,7,1,682,428,250,4,117,72,45,0,818,"Córdoba","Trámites Nacionales","Otros",2
+"Monte Cristo","Cultura y Entretenimiento",31,142,84,58,0,76,31,45,0,55,29,26,0,0,0,0,0,273,"Córdoba","Artes","Otros",7
+"Valle Hermoso","Trámites",22,0,0,0,0,0,0,0,0,41,24,17,0,17,10,7,0,58,"Córdoba","Trámites Nacionales","Validación de identidad",2
+"Valle Hermoso","Cultura y Entretenimiento",31,59,30,29,0,33,15,18,0,13,7,6,0,2,0,2,0,107,"Córdoba","Uso Libre","Navegación libre",3
+"Colonia Carlos Pellegrini","Trámites",22,0,0,0,0,13,3,10,0,24,12,12,0,6,3,3,0,43,"Corrientes","Trámites Nacionales","ANSES",4
+"Colonia Carlos Pellegrini","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,8,4,4,0,0,0,0,0,8,"Corrientes","Comunidad","Evento / Reunión",1
+"Colonia Carlos Pellegrini","Cultura y Entretenimiento",31,32,16,16,0,28,10,18,0,35,14,21,0,3,0,3,0,98,"Corrientes","Actividad","Proyección de película (con debate)",3
+"Riachuelo","Alfabetización Digital",10,0,0,0,0,19,19,0,0,84,51,33,0,23,12,11,0,126,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Riachuelo","Formación Laboral",13,0,0,0,0,41,39,2,0,0,0,0,0,0,0,0,0,41,"Corrientes","Oficios manuales","Tejido, bordado, otros",1
+"Riachuelo","Educación",16,99,56,43,0,127,68,59,0,10,0,10,0,0,0,0,0,236,"Corrientes","Complementos de la educación formal","Otros",1
+"Riachuelo","Cultura y Entretenimiento",31,49,21,28,0,50,27,23,0,2,0,2,0,0,0,0,0,101,"Corrientes","Artes digitales","Deportes electrónicos",2
+"Arroyito","Trámites",22,238,180,58,0,163,96,67,0,480,286,193,1,1089,647,442,0,1970,"Córdoba","Trámites Nacionales","Segmentación Energética",10
+"Arroyito","Cultura y Entretenimiento",31,6,3,3,0,65,30,35,0,35,25,10,0,0,0,0,0,106,"Córdoba","Uso Libre","Uso libre de la consola de videojuegos",2
+"Villa San Isidro","Trámites",22,0,0,0,0,23,16,7,0,156,105,51,0,48,32,16,0,227,"Córdoba","Trámites Nacionales","Validación de identidad",10
+"Villa San Isidro","Cultura y Entretenimiento",31,152,84,68,0,10,7,3,0,0,0,0,0,0,0,0,0,162,"Córdoba","Actividad","Actividad con uso de consola de videojuegos",2
+"Ramallo","Alfabetización Digital",10,0,0,0,0,29,21,8,0,12,8,4,0,4,2,2,0,45,"Buenos Aires","Alfabetización Digital","Uso de correo electrónico",1
+"Ramallo","Formación Laboral",13,0,0,0,0,29,21,8,0,12,8,4,0,4,2,2,0,45,"Buenos Aires","Oficios manuales","Electricidad",1
+"Ramallo","Trámites",22,0,0,0,0,22,14,8,0,33,16,17,0,3,2,1,0,58,"Buenos Aires","Trámites Nacionales","MiArgentina",1
+"General Villegas I","Trámites",22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"General Villegas I","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,35,30,5,0,0,0,0,0,35,"Buenos Aires","Comunidad","Otros",2
+"General Villegas I","Cultura y Entretenimiento",31,7,2,5,0,1,0,1,0,58,37,21,0,2,2,0,0,68,"Buenos Aires","Artes digitales","Edición de videos",4
+"San Miguel del Monte","Alfabetización Digital",10,8,6,2,0,2,1,1,0,0,0,0,0,0,0,0,0,10,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Las Flores II","Trámites",22,0,0,0,0,1,0,1,0,7,4,3,0,1,0,1,0,9,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Sacanta","Trámites",22,0,0,0,0,3,2,1,0,33,24,9,0,2,2,0,0,38,"Córdoba","Trámites Provinciales","Otros",2
+"Sacanta","Cultura y Entretenimiento",31,9,7,2,0,13,9,4,0,3,2,1,0,0,0,0,0,25,"Córdoba","Uso Libre","Navegación libre",1
+"Laborde","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Córdoba","Contenidos","",1
+"Laborde","Educación",16,21,9,12,0,35,16,19,0,0,0,0,0,0,0,0,0,56,"Córdoba","Complementos de la educación formal","Apoyo escolar",1
+"Laborde","Salud",19,0,0,0,0,25,15,10,0,35,22,13,0,5,3,2,0,65,"Córdoba","Salud","Otros",1
+"Laborde","Trámites",22,0,0,0,0,78,51,27,0,192,117,75,0,194,123,71,0,464,"Córdoba","Trámites Provinciales","Otros",4
+"Laborde","Cultura y Entretenimiento",31,204,113,91,0,115,67,48,0,276,146,130,0,52,36,16,0,647,"Córdoba","Uso Libre","Uso libre del espacio de microcine",4
+"Leandro N. Alem I (Vedia)","Cultura y Entretenimiento",31,17,0,17,0,32,3,29,0,0,0,0,0,0,0,0,0,49,"Buenos Aires","Uso Libre","Navegación libre",1
+"Bella Vista (Tucumán)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Tucumán","Soporte","",1
+"Justiniano Posse","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Córdoba","Soporte","",1
+"San Fernando del Valle IV","Alfabetización Digital",10,52,29,23,0,28,11,17,0,0,0,0,0,0,0,0,0,80,"Catamarca","Alfabetización Digital","Alfabetización Digital Inicial",2
+"San Fernando del Valle IV","Formación Laboral",13,46,25,21,0,134,15,119,0,0,0,0,0,0,0,0,0,180,"Catamarca","Oficios digitales","Proyecto Impresion 3D Punto Digital 2022",2
+"San Fernando del Valle IV","Trámites",22,28,16,12,0,12,4,8,0,0,0,0,0,0,0,0,0,40,"Catamarca","Trámites Nacionales","Potenciar Trabajo",1
+"Viale","Cultura y Entretenimiento",31,62,35,27,0,91,38,53,0,0,0,0,0,0,0,0,0,153,"Entre Ríos","Uso Libre","Navegación libre",1
+"Cintra","Salud",19,0,0,0,0,20,10,10,0,20,10,10,0,0,0,0,0,40,"Córdoba","Salud","Primeros Auxilios",1
+"Cintra","Trámites",22,0,0,0,0,0,0,0,0,45,30,15,0,60,35,25,0,105,"Córdoba","Trámites Nacionales","ANSES",1
+"Cintra","Cultura y Entretenimiento",31,40,25,15,0,105,55,50,0,150,85,65,0,55,25,30,0,350,"Córdoba","Artes","Teatro",3
+"Cintra","Capacitaciones PPD",34,0,0,0,0,20,10,10,0,45,20,25,0,5,5,0,0,70,"Córdoba","Contenidos","",1
+"La Costa (Buenos Aires)","Trámites",22,0,0,0,0,6,4,2,0,13,6,7,0,5,3,2,0,24,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Navarro","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"Buenos Aires","Contenidos","",3
+"Navarro","Alfabetización Digital",10,0,0,0,0,0,0,0,0,60,48,12,0,0,0,0,0,60,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Navarro","Formación Laboral",13,0,0,0,0,0,0,0,0,42,15,27,0,0,0,0,0,42,"Buenos Aires","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"La Quiaca I","Trámites",22,0,0,0,0,3,3,0,0,47,33,14,0,0,0,0,0,50,"Jujuy","Trámites Nacionales","MiArgentina",1
+"La Quiaca I","Ciudadanía y DD",25,0,0,0,0,3,3,0,0,56,31,25,0,0,0,0,0,59,"Jujuy","Comunidad","Evento / Reunión",3
+"La Quiaca I","Generos y Diversidades",28,0,0,0,0,0,0,0,0,165,102,63,0,0,0,0,0,165,"Jujuy","Otros","",1
+"La Quiaca I","Cultura y Entretenimiento",31,30,8,22,0,18,2,16,0,19,10,9,0,0,0,0,0,67,"Jujuy","Uso Libre","Navegación libre",3
+"Anguil","Capacitaciones PPD",34,0,0,0,0,6,4,0,2,6,4,0,2,0,0,0,0,12,"La Pampa","Soporte","",2
+"Anguil","Ciudadanía y DD",25,0,0,0,0,158,42,37,79,180,50,40,90,0,0,0,0,338,"La Pampa","Comunidad","Seguridad vial",1
+"Laboulaye","Alfabetización Digital",10,0,0,0,0,19,10,9,0,8,5,3,0,0,0,0,0,27,"Córdoba","Alfabetización Digital","Paquete de Office o LibreOffice",1
+"Laboulaye","Formación Laboral",13,0,0,0,0,5,0,5,0,16,0,16,0,5,0,5,0,26,"Córdoba","Oficios digitales","Impresión y Diseño 3D",1
+"Laboulaye","Educación",16,0,0,0,0,0,0,0,0,9,8,1,0,0,0,0,0,9,"Córdoba","Complementos de la educación formal","Otros",1
+"Laboulaye","Salud",19,0,0,0,0,0,0,0,0,4,4,0,0,12,8,4,0,16,"Córdoba","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Laboulaye","Trámites",22,0,0,0,0,0,0,0,0,48,38,10,0,6,3,3,0,54,"Córdoba","Trámites Nacionales","PAMI",13
+"Laboulaye","Cultura y Entretenimiento",31,72,25,47,0,24,8,16,0,0,0,0,0,0,0,0,0,96,"Córdoba","Artes","Otros",5
+"Inriville","Trámites",22,0,0,0,0,3,1,2,0,13,8,5,0,18,7,11,0,34,"Córdoba","Trámites Nacionales","Otros",2
+"Inriville","Cultura y Entretenimiento",31,4,1,3,0,11,3,8,0,4,2,2,0,1,1,0,0,20,"Córdoba","Uso Libre","Navegación libre",2
+"Huinca Renancó","Trámites",22,0,0,0,0,0,0,0,0,6,4,2,0,6,6,0,0,12,"Córdoba","Trámites Nacionales","Otros",2
+"Huinca Renancó","Cultura y Entretenimiento",31,11,5,6,0,49,22,27,0,8,6,2,0,2,2,0,0,70,"Córdoba","Uso Libre","Navegación libre",3
+"Paraná II","Cultura y Entretenimiento",31,20,16,4,0,8,6,2,0,9,8,1,0,2,2,0,0,39,"Entre Ríos","Actividad","Proyección de película (con debate)",1
+"San Javier (Misiones)","Educación",16,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,7,"Misiones","Complementos de la educación formal","Otros",1
+"San Javier (Misiones)","Trámites",22,0,0,0,0,29,15,14,0,80,44,36,0,0,0,0,0,109,"Misiones","Trámites Nacionales","Validación de identidad",4
+"San Javier (Misiones)","Cultura y Entretenimiento",31,800,400,400,0,600,300,300,0,400,200,200,0,200,100,100,0,2000,"Misiones","Actividad","Proyección de película (con debate)",1
+"Cote-Lai","Educación",16,0,0,0,0,7,4,3,0,74,44,28,2,0,0,0,0,81,"Chaco","Complementos de la educación formal","Otros",5
+"Cote-Lai","Trámites",22,38,21,17,0,116,49,67,0,225,103,122,0,45,15,30,0,424,"Chaco","Trámites Nacionales","MiArgentina",10
+"Cote-Lai","Cultura y Entretenimiento",31,232,101,131,0,40,18,22,0,13,6,7,0,0,0,0,0,285,"Chaco","Actividad","Actividad con uso de consola de videojuegos",3
+"Caraguatay","Educación",16,33,19,14,0,44,19,25,0,90,54,36,0,3,0,3,0,170,"Misiones","Complementos de la educación formal","Apoyo escolar",2
+"Caraguatay","Trámites",22,0,0,0,0,12,11,1,0,161,105,56,0,0,0,0,0,173,"Misiones","Trámites Nacionales","Validación de identidad",3
+"Caraguatay","Cultura y Entretenimiento",31,120,77,43,0,84,38,46,0,22,12,10,0,0,0,0,0,226,"Misiones","Uso Libre","Navegación libre",2
+"Salto Encantado","Educación",16,75,54,21,0,219,156,63,0,0,0,0,0,0,0,0,0,294,"Misiones","Complementos de la educación formal","Apoyo escolar",2
+"Salto Encantado","Trámites",22,0,0,0,0,96,73,23,0,740,450,288,2,61,38,23,0,897,"Misiones","Trámites Nacionales","Validación de identidad",4
+"Salto Encantado","Cultura y Entretenimiento",31,149,74,75,0,160,82,78,0,20,11,9,0,1,0,1,0,330,"Misiones","Uso Libre","Navegación libre",3
+"Estancia Vieja","Salud",19,0,0,0,0,7,3,4,0,20,10,10,0,0,0,0,0,27,"Córdoba","Salud","Otros",2
+"Estancia Vieja","Trámites",22,0,0,0,0,0,0,0,0,131,84,47,0,12,7,5,0,143,"Córdoba","Trámites Municipales","MUNICIPIO",4
+"Estancia Vieja","Cultura y Entretenimiento",31,24,11,13,0,10,6,4,0,3,3,0,0,0,0,0,0,37,"Córdoba","Actividad","Proyección de película (con debate)",1
+"Villa de Soto","Cultura y Entretenimiento",31,45,25,20,0,27,10,17,0,17,5,12,0,0,0,0,0,89,"Córdoba","Uso Libre","Navegación libre",1
+"Ticino","Formación Laboral",13,0,0,0,0,8,0,8,0,94,2,92,0,0,0,0,0,102,"Córdoba","Oficios manuales","Electricidad",1
+"Ticino","Educación",16,0,0,0,0,4,4,0,0,1,1,0,0,0,0,0,0,5,"Córdoba","Complementos de la educación formal","Otros",1
+"Ticino","Trámites",22,0,0,0,0,27,16,9,2,74,39,32,3,52,28,22,2,153,"Córdoba","Trámites Provinciales","Otros",4
+"Ticino","Ciudadanía y DD",25,0,0,0,0,16,7,8,1,27,12,13,2,0,0,0,0,43,"Córdoba","Comunidad","Seguridad vial",1
+"Ticino","Cultura y Entretenimiento",31,76,25,49,2,63,25,31,7,18,15,2,1,5,5,0,0,162,"Córdoba","Actividad","Proyección de película (con debate)",3
+"San Andrés de Giles II","Alfabetización Digital",10,0,0,0,0,0,0,0,0,4,4,0,0,19,12,7,0,23,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Andrés de Giles II","Educación",16,0,0,0,0,0,0,0,0,4,4,0,0,3,3,0,0,7,"Buenos Aires","Complementos de la educación formal","FINES",2
+"San Andrés de Giles II","Trámites",22,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,2,"Buenos Aires","Trámites Nacionales","Otros",1
+"Villa Paranacito","Cultura y Entretenimiento",31,50,6,44,0,28,0,28,0,0,0,0,0,0,0,0,0,78,"Entre Ríos","Uso Libre","Navegación libre",3
+"San Miguel","Formación Laboral",13,316,120,196,0,232,48,184,0,0,0,0,0,0,0,0,0,548,"Buenos Aires","Oficios digitales","Robótica",6
+"San Miguel","Trámites",22,0,0,0,0,0,0,0,0,704,378,326,0,0,0,0,0,704,"Buenos Aires","Trámites Nacionales","MiArgentina",2
+"San Miguel","Cultura y Entretenimiento",31,27,14,13,0,0,0,0,0,0,0,0,0,0,0,0,0,27,"Buenos Aires","Actividad","Proyección de película (con debate)",1
+"Suipacha (Buenos Aires)","Educación",16,0,0,0,0,9,4,5,0,9,5,4,0,0,0,0,0,18,"Buenos Aires","Complementos de la educación formal","Talleres País Digital",2
+"Suipacha (Buenos Aires)","Cultura y Entretenimiento",31,36,15,21,0,58,28,30,0,0,0,0,0,0,0,0,0,94,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",2
+"Lobos","Trámites",22,0,0,0,0,187,60,127,0,400,165,235,0,156,27,129,0,743,"Buenos Aires","Trámites Nacionales","MiArgentina",7
+"Lobos","Ciudadanía y DD",25,0,0,0,0,99,56,43,0,12,10,2,0,0,0,0,0,111,"Buenos Aires","Comunidad","Seguridad vial",1
+"José de San Martín","Trámites",22,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,"Chubut","Trámites Nacionales","Validación de identidad",1
+"José de San Martín","Cultura y Entretenimiento",31,16,5,11,0,8,3,5,0,3,2,1,0,2,1,1,0,29,"Chubut","Uso Libre","Uso libre de la consola de videojuegos",3
+"Lincoln","Trámites",22,0,0,0,0,33,19,14,0,175,95,80,0,225,120,105,0,433,"Buenos Aires","Trámites Nacionales","Otros",3
+"San Martín (Mendoza)","Formación Laboral",13,0,0,0,0,113,59,54,0,216,89,127,0,0,0,0,0,329,"Mendoza","Oficios digitales","Impresión y Diseño 3D",4
+"San Martín (Mendoza)","Trámites",22,0,0,0,0,458,168,278,12,1022,455,561,6,0,0,0,0,1480,"Mendoza","Trámites Nacionales","Potenciar Trabajo",2
+"San Martín (Mendoza)","Ciudadanía y DD",25,0,0,0,0,29,12,17,0,93,42,51,0,0,0,0,0,122,"Mendoza","Comunidad","Seguridad vial",1
+"San Martín (Mendoza)","Generos y Diversidades",28,0,0,0,0,12,12,0,0,132,121,11,0,0,0,0,0,144,"Mendoza","Prevención de violencias","",1
+"San Martín (Mendoza)","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,129,92,37,0,0,0,0,0,129,"Mendoza","Artes","Otros",1
+"Carlos Casares","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Buenos Aires","Soporte","",2
+"Carlos Casares","Formación Laboral",13,0,0,0,0,25,15,10,0,10,5,5,0,0,0,0,0,35,"Buenos Aires","Inserción al mundo laboral","Armado de CV",1
+"Carlos Casares","Trámites",22,0,0,0,0,0,0,0,0,30,20,10,0,0,0,0,0,30,"Buenos Aires","Trámites Nacionales","AFIP",1
+"Carlos Casares","Cultura y Entretenimiento",31,40,25,15,0,0,0,0,0,0,0,0,0,0,0,0,0,40,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",1
+"Bragado","Alfabetización Digital",10,0,0,0,0,0,0,0,0,7,7,0,0,4,4,0,0,11,"Buenos Aires","Tecnologías de la vida cotidiana","Uso del celular",1
+"Bragado","Formación Laboral",13,0,0,0,0,2,2,0,0,4,3,1,0,0,0,0,0,6,"Buenos Aires","Inserción al mundo laboral","Armado de CV",1
+"Bragado","Salud",19,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,2,"Buenos Aires","Salud","Apps Obra Social",1
+"Bragado","Trámites",22,0,0,0,0,35,19,16,0,70,43,27,0,37,23,14,0,142,"Buenos Aires","Trámites Municipales","MUNICIPIO",11
+"Adolfo Alsina","Formación Laboral",13,0,0,0,0,0,0,0,0,12,8,4,0,0,0,0,0,12,"Buenos Aires","Oficios digitales","Programación",1
+"Adolfo Alsina","Trámites",22,0,0,0,0,0,0,0,0,67,31,36,0,2,1,1,0,69,"Buenos Aires","Trámites Nacionales","MiArgentina",5
+"Adolfo Alsina","Cultura y Entretenimiento",31,88,23,65,0,18,6,12,0,44,44,0,0,0,0,0,0,150,"Buenos Aires","Uso Libre","Navegación libre",2
+"Luján de Cuyo CDF","Ciudadanía y DD",25,0,0,0,0,64,21,43,0,62,10,52,0,0,0,0,0,126,"Mendoza","Comunidad","Evento / Reunión",1
+"Luján de Cuyo CDF","Cultura y Entretenimiento",31,0,0,0,0,49,19,30,0,47,12,35,0,0,0,0,0,96,"Mendoza","Uso Libre","Navegación libre",1
+"San Vicente (Buenos Aires)","Trámites",22,0,0,0,0,21,12,9,0,580,265,315,0,5,0,5,0,606,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Las Rosas","Trámites",22,0,0,0,0,1000,600,400,0,1700,1000,700,0,1700,800,900,0,4400,"Santa Fe","Trámites Nacionales","ANSES",1
+"Las Rosas","Cultura y Entretenimiento",31,15,9,6,0,10,8,2,0,18,8,10,0,8,3,5,0,51,"Santa Fe","Actividad","Proyección de película (con debate)",1
+"La Punta","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"San Luis","Contenidos","",1
+"La Punta","Trámites",22,0,0,0,0,6,4,2,0,19,11,8,0,7,3,4,0,32,"San Luis","Trámites Nacionales","Validación de identidad",1
+"Unión (San Luis)","Cultura y Entretenimiento",31,77,37,40,0,77,35,42,0,28,10,18,0,0,0,0,0,182,"San Luis","Uso Libre","Navegación libre",2
+"Vicente López","Trámites",22,3,2,1,0,50,22,28,0,55,29,25,1,58,27,31,0,166,"Buenos Aires","Trámites Nacionales","Certificado de Discapacidad",3
+"Jocoli","Alfabetización Digital",10,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,"Mendoza","Alfabetización Digital","Programación para niñxs",1
+"Jocoli","Salud",19,1,1,0,0,3,2,1,0,39,32,7,0,1,1,0,0,44,"Mendoza","Salud","Primeros Auxilios",2
+"Jocoli","Trámites",22,0,0,0,0,21,15,6,0,103,84,19,0,9,8,1,0,133,"Mendoza","Trámites Nacionales","Validación de identidad",8
+"Jocoli","Cultura y Entretenimiento",31,22,14,8,0,5,5,0,0,21,20,1,0,0,0,0,0,48,"Mendoza","Artes","Tejido",5
+"Santa Lucía (San Juan)","Alfabetización Digital",10,32,7,25,0,51,12,39,0,10,3,7,0,0,0,0,0,93,"San Juan","Alfabetización Digital","Programación para niñxs",1
+"Santa Lucía (San Juan)","Trámites",22,685,351,334,0,5744,2721,3015,8,3085,1390,1690,5,1547,847,700,0,11061,"San Juan","Trámites Nacionales","Otros",5
+"Santa Lucía (San Juan)","Cultura y Entretenimiento",31,65,37,28,0,70,28,42,0,22,14,8,0,11,8,3,0,168,"San Juan","Actividad","Proyección de película (con debate)",1
+"Andalgalá","Trámites",22,30,15,15,0,100,45,55,0,135,65,70,0,0,0,0,0,265,"Catamarca","Trámites Nacionales","Potenciar Trabajo",1
+"Santa Rosa de Conlara","Trámites",22,0,0,0,0,2,2,0,0,36,22,14,0,82,44,38,0,120,"San Luis","Trámites Nacionales","Validación de identidad",2
+"Las Heras (Mendoza)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mendoza","Soporte","",1
+"Las Heras (Mendoza)","Trámites",22,0,0,0,0,0,0,0,0,78,46,30,2,0,0,0,0,78,"Mendoza","Trámites Nacionales","MiArgentina",1
+"Malvinas Argentinas (Córdoba)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Córdoba","Contenidos","",1
+"Malvinas Argentinas (Córdoba)","Trámites",22,0,0,0,0,0,0,0,0,288,166,121,1,7,7,0,0,295,"Córdoba","Trámites Nacionales","MiArgentina",3
+"Malvinas Argentinas (Córdoba)","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,180,80,100,0,0,0,0,0,180,"Córdoba","Uso Libre","Navegación libre",2
+"San Pedro de Jujuy","Alfabetización Digital",10,0,0,0,0,0,0,0,0,40,15,25,0,0,0,0,0,40,"Jujuy","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Pedro de Jujuy","Trámites",22,0,0,0,0,0,0,0,0,290,165,125,0,0,0,0,0,290,"Jujuy","Trámites Nacionales","ANSES",2
+"Libertador General San Martín (Jujuy)","Alfabetización Digital",10,12,7,5,0,75,37,38,0,0,0,0,0,0,0,0,0,87,"Jujuy","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Santa Ana (Misiones)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Misiones","Contenidos","",1
+"Santa Ana (Misiones)","Alfabetización Digital",10,50,32,18,0,35,26,9,0,0,0,0,0,0,0,0,0,85,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Santa Ana (Misiones)","Educación",16,0,0,0,0,9,9,0,0,81,25,56,0,0,0,0,0,90,"Misiones","Complementos de la educación formal","Otros",1
+"Santa Ana (Misiones)","Trámites",22,0,0,0,0,8,8,0,0,431,326,105,0,3,2,1,0,442,"Misiones","Trámites Nacionales","MiArgentina",2
+"Oberá","Formación Laboral",13,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"Misiones","Inserción al mundo laboral","Armado de CV",1
+"Oberá","Trámites",22,0,0,0,0,63,35,28,0,35,25,10,0,7,7,0,0,105,"Misiones","Trámites Nacionales","MiArgentina",4
+"Colonia Wanda","Trámites",22,0,0,0,0,27,15,12,0,295,157,138,0,41,29,12,0,363,"Misiones","Trámites Nacionales","MiArgentina",6
+"San Miguel de Tucumán VI (Vial 3)","Cultura y Entretenimiento",31,46,16,30,0,12,7,5,0,8,5,3,0,0,0,0,0,66,"Tucumán","Uso Libre","Navegación libre",1
+"Firmat","Alfabetización Digital",10,0,0,0,0,0,0,0,0,6,5,1,0,26,18,8,0,32,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Firmat","Trámites",22,0,0,0,0,9,6,3,0,8,5,3,0,27,19,8,0,44,"Santa Fe","Trámites Nacionales","MiArgentina",1
+"Maipú","Trámites",22,0,0,0,0,0,0,0,0,8,4,4,0,0,0,0,0,8,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Ayacucho","Trámites",22,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,2,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Mar Chiquita I","Trámites",22,0,0,0,0,0,0,0,0,12,10,2,0,0,0,0,0,12,"Buenos Aires","Trámites Nacionales","Validación de identidad",2
+"Mar Chiquita I","Generos y Diversidades",28,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,5,"Buenos Aires","Prevención de violencias","",1
+"Mar Chiquita I","Cultura y Entretenimiento",31,0,0,0,0,57,20,37,0,75,40,35,0,0,0,0,0,132,"Buenos Aires","Uso Libre","Navegación libre",2
+"Fray Luis Beltrán","Salud",19,0,0,0,0,7,5,2,0,43,24,19,0,32,14,18,0,82,"Santa Fe","Salud","Gestión y prevención COVID",1
+"Fray Luis Beltrán","Trámites",22,8,5,3,0,13,6,7,0,60,28,32,0,16,7,9,0,97,"Santa Fe","Trámites Nacionales","Otros",2
+"Fray Luis Beltrán","Cultura y Entretenimiento",31,35,11,24,0,46,28,17,1,56,22,31,3,22,14,8,0,159,"Santa Fe","Uso Libre","Navegación libre",1
+"San Cosme (Corrientes)","Alfabetización Digital",10,0,0,0,0,0,0,0,0,19,8,11,0,24,11,13,0,43,"Corrientes","Alfabetización Digital","Paquete de Office o LibreOffice",1
+"San Cosme (Corrientes)","Formación Laboral",13,13,8,5,0,6,2,4,0,31,17,14,0,27,12,15,0,77,"Corrientes","Oficios digitales","Otras",1
+"San Cosme (Corrientes)","Trámites",22,0,0,0,0,0,0,0,0,15,7,8,0,20,8,12,0,35,"Corrientes","Trámites Nacionales","Otros",1
+"San Cosme (Corrientes)","Cultura y Entretenimiento",31,6,0,6,0,4,0,4,0,0,0,0,0,0,0,0,0,10,"Corrientes","Uso Libre","Uso libre de la consola de videojuegos",1
+"Ituzaingó (Corrientes)","Trámites",22,0,0,0,0,36,24,12,0,13,8,4,1,0,0,0,0,49,"Corrientes","Trámites Provinciales","Otros",2
+"Ituzaingó (Corrientes)","Cultura y Entretenimiento",31,26,11,15,0,22,13,9,0,33,12,19,2,1,0,1,0,82,"Corrientes","Uso Libre","Uso libre de la consola de videojuegos",1
+"San Blas de los Sauces","Trámites",22,0,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,6,"La Rioja","Trámites Nacionales","Validación de identidad",1
+"San Blas de los Sauces","Ciudadanía y DD",25,17,8,9,0,18,16,2,0,133,72,61,0,21,11,10,0,189,"La Rioja","Comunidad","Evento / Reunión",2
+"San Blas de los Sauces","Cultura y Entretenimiento",31,27,0,27,0,21,0,21,0,6,3,3,0,2,2,0,0,56,"La Rioja","Uso Libre","Uso libre de la consola de videojuegos",2
+"Mercedes (Buenos Aires)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"Buenos Aires","Soporte","",3
+"Mercedes (Buenos Aires)","Educación",16,0,0,0,0,16,10,6,0,22,14,8,0,0,0,0,0,38,"Buenos Aires","Complementos de la educación formal","FINES",1
+"Mercedes (Buenos Aires)","Trámites",22,0,0,0,0,691,498,193,0,1339,685,654,0,293,179,114,0,2323,"Buenos Aires","Trámites Nacionales","ANSES",5
+"Mercedes (Buenos Aires)","Cultura y Entretenimiento",31,350,200,150,0,190,115,75,0,27,17,10,0,0,0,0,0,567,"Buenos Aires","Actividad","El mundial 2022 en tu PD",2
+"Mercedes (Buenos Aires)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,3,"Buenos Aires","Soporte","",2
+"Avellaneda (Santa Fe)","Trámites",22,0,0,0,0,27,15,12,0,140,75,65,0,4,1,3,0,171,"Santa Fe","Trámites Nacionales","Otros",1
+"Guaviraví","Trámites",22,0,0,0,0,16,13,3,0,65,42,23,0,12,9,3,0,93,"Corrientes","Trámites Nacionales","ANSES",2
+"Guaviraví","Cultura y Entretenimiento",31,0,0,0,0,13,8,5,0,47,32,15,0,0,0,0,0,60,"Corrientes","Uso Libre","Navegación libre",1
+"San Benito","Trámites",22,0,0,0,0,0,0,0,0,14,11,3,0,0,0,0,0,14,"Entre Ríos","Trámites Nacionales","Validación de identidad",1
+"San Benito","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,6,"Entre Ríos","Comunidad","Seguridad vial",1
+"San Carlos (Salta)","Educación",16,297,133,164,0,369,169,200,0,326,170,156,0,2,2,0,0,994,"Salta","Complementos de la educación formal","Otros",4
+"San Carlos (Salta)","Trámites",22,10,6,4,0,136,67,64,5,162,79,81,2,39,27,12,0,347,"Salta","Trámites Nacionales","ANSES",2
+"San Carlos (Salta)","Ciudadanía y DD",25,0,0,0,0,78,37,41,0,88,41,47,0,0,0,0,0,166,"Salta","Comunidad","Capacitación a agentes municipales",1
+"San Carlos (Salta)","Cultura y Entretenimiento",31,66,29,37,0,99,47,52,0,106,49,57,0,9,4,5,0,280,"Salta","Uso Libre","Navegación libre",1
+"Pozo de Piedra","Salud",19,0,0,0,0,7,7,0,0,25,10,15,0,0,0,0,0,32,"Catamarca","Salud","Primeros Auxilios",1
+"Pozo de Piedra","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,27,20,7,0,0,0,0,0,27,"Catamarca","Comunidad","Evento / Reunión",1
+"Pozo de Piedra","Cultura y Entretenimiento",31,55,30,25,0,0,0,0,0,17,11,6,0,0,0,0,0,72,"Catamarca","Actividad","Proyección de película (con debate)",2
+"Ramona","Ciudadanía y DD",25,84,48,36,0,96,63,33,0,94,49,45,0,29,17,12,0,303,"Santa Fe","Comunidad","Evento / Reunión",1
+"Ramona","Cultura y Entretenimiento",31,242,126,116,0,98,44,54,0,24,18,6,0,0,0,0,0,364,"Santa Fe","Actividad","Proyección de película (con debate)",2
+"Salliqueló","Trámites",22,0,0,0,0,0,0,0,0,13,8,5,0,11,8,3,0,24,"Buenos Aires","Trámites Nacionales","Otros",4
+"Salliqueló","Ciudadanía y DD",25,0,0,0,0,7,4,3,0,22,9,13,0,0,0,0,0,29,"Buenos Aires","Comunidad","Evento / Reunión",1
+"Salliqueló","Cultura y Entretenimiento",31,0,0,0,0,14,7,7,0,0,0,0,0,0,0,0,0,14,"Buenos Aires","Actividad","Proyección de película (con debate)",2
+"El Sombrero","Alfabetización Digital",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",1
+"El Sombrero","Trámites",22,0,0,0,0,1,1,0,0,4,3,1,0,0,0,0,0,5,"Corrientes","Trámites Nacionales","Otros",1
+"El Sombrero","Ciudadanía y DD",25,0,0,0,0,14,0,14,0,2,0,2,0,0,0,0,0,16,"Corrientes","Comunidad","Evento / Reunión",1
+"El Sombrero","Cultura y Entretenimiento",31,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,"Corrientes","Uso Libre","Uso libre del espacio de microcine",3
+"El Maitén","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"Chubut","Soporte","",2
+"El Maitén","Alfabetización Digital",10,0,0,0,0,0,0,0,0,14,14,0,0,0,0,0,0,14,"Chubut","Alfabetización Digital","Alfabetización Digital Inicial",1
+"El Maitén","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,30,15,15,0,4,0,4,0,34,"Chubut","Comunidad","Otros",3
+"El Maitén","Generos y Diversidades",28,0,0,0,0,0,0,0,0,3,2,0,1,0,0,0,0,3,"Chubut","Prevención de violencias","",1
+"Trelew","Alfabetización Digital",10,19,7,12,0,26,5,21,0,9,0,9,0,0,0,0,0,54,"Chubut","Alfabetización Digital","Programación para niñxs",1
+"Trelew","Trámites",22,0,0,0,0,12,7,4,1,118,62,55,1,33,11,22,0,163,"Chubut","Trámites Nacionales","Validación de identidad",4
+"Trelew","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,37,12,25,0,0,0,0,0,37,"Chubut","Comunidad","Capacitación a agentes municipales",1
+"Santa Ana de los Guacaras","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corrientes","Comunicación","",1
+"Santa Ana de los Guacaras","Trámites",22,0,0,0,0,2,2,0,0,44,30,14,0,0,0,0,0,46,"Corrientes","Trámites Nacionales","ANSES",1
+"Santa Ana de los Guacaras","Ciudadanía y DD",25,413,217,196,0,192,72,120,0,268,174,94,0,62,34,28,0,935,"Corrientes","Comunidad","Evento / Reunión",3
+"Tandil II (Casa de la Juventud)","Alfabetización Digital",10,12,2,10,0,58,24,31,3,69,31,38,0,21,14,7,0,160,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Tandil II (Casa de la Juventud)","Educación",16,0,0,0,0,17,10,7,0,11,4,7,0,0,0,0,0,28,"Buenos Aires","Complementos de la educación formal","Otros",1
+"Tandil II (Casa de la Juventud)","Trámites",22,0,0,0,0,27,12,14,1,41,30,11,0,28,18,10,0,96,"Buenos Aires","Trámites Nacionales","Otros",1
+"Tandil II (Casa de la Juventud)","Cultura y Entretenimiento",31,2446,1219,1227,0,136,69,63,4,73,40,33,0,19,11,8,0,2674,"Buenos Aires","Artes","Murga",3
+"Comuna Bouquet","Alfabetización Digital",10,0,0,0,0,16,7,9,0,20,12,8,0,0,0,0,0,36,"Santa Fe","Alfabetización Digital","Uso de correo electrónico",1
+"Comuna Bouquet","Educación",16,0,0,0,0,32,14,18,0,0,0,0,0,0,0,0,0,32,"Santa Fe","Complementos de la educación formal","Apoyo escolar",2
+"Comuna Bouquet","Salud",19,0,0,0,0,0,0,0,0,8,5,3,0,1,1,0,0,9,"Santa Fe","Salud","Otros",1
+"Comuna Bouquet","Trámites",22,0,0,0,0,20,11,9,0,24,14,10,0,20,13,7,0,64,"Santa Fe","Trámites Nacionales","ANSES",6
+"Comuna Bouquet","Ciudadanía y DD",25,0,0,0,0,7,3,4,0,19,8,11,0,5,2,3,0,31,"Santa Fe","Comunidad","Seguridad vial",1
+"Ubajay","Cultura y Entretenimiento",31,35,18,17,0,13,5,8,0,15,10,5,0,0,0,0,0,63,"Entre Ríos","Actividad","Proyección de película (con debate)",1
+"San Salvador","Formación Laboral",13,0,0,0,0,0,0,0,0,226,190,36,0,0,0,0,0,226,"Entre Ríos","Oficios manuales","Manipulación de alimentos",1
+"Villa Clara","Formación Laboral",13,0,0,0,0,0,0,0,0,67,36,31,0,0,0,0,0,67,"Entre Ríos","Oficios manuales","Otras",2
+"Marcos Paz III (Centro)","Alfabetización Digital",10,70,22,48,0,30,18,12,0,20,16,4,0,0,0,0,0,120,"Buenos Aires","Alfabetización Digital","Paquete de Office o LibreOffice",3
+"Marcos Paz III (Centro)","Formación Laboral",13,10,2,8,0,28,12,16,0,11,8,3,0,0,0,0,0,49,"Buenos Aires","Oficios digitales","Otras",2
+"Marcos Paz III (Centro)","Educación",16,36,17,19,0,4,4,0,0,0,0,0,0,0,0,0,0,40,"Buenos Aires","Complementos de la educación formal","Idiomas",1
+"Marcos Paz III (Centro)","Cultura y Entretenimiento",31,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"Buenos Aires","Actividad","Proyección de película (con debate)",2
+"Puerto Ibicuy","Alfabetización Digital",10,200,160,40,0,0,0,0,0,0,0,0,0,0,0,0,0,200,"Entre Ríos","Alfabetización Digital","Paquete de Office o LibreOffice",1
+"Puerto Ibicuy","Formación Laboral",13,0,0,0,0,0,0,0,0,52,48,4,0,0,0,0,0,52,"Entre Ríos","Inserción al mundo laboral","Armado de CV",1
+"Puerto Ibicuy","Trámites",22,8,5,3,0,15,10,5,0,102,60,42,0,0,0,0,0,125,"Entre Ríos","Trámites Nacionales","MiArgentina",3
+"Puerto Ibicuy","Cultura y Entretenimiento",31,97,51,46,0,11,5,6,0,5,5,0,0,0,0,0,0,113,"Entre Ríos","Uso Libre","Navegación libre",2
+"Arrecifes II (Juventud)","Alfabetización Digital",10,0,0,0,0,2,2,0,0,13,5,8,0,13,8,5,0,28,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Arrecifes II (Juventud)","Trámites",22,0,0,0,0,0,0,0,0,28,11,17,0,0,0,0,0,28,"Buenos Aires","Trámites Nacionales","MiArgentina",1
+"San José I (Catamarca)","Educación",16,19,7,12,0,10,4,6,0,16,9,7,0,0,0,0,0,45,"Catamarca","Complementos de la educación formal","FINES",2
+"San José I (Catamarca)","Cultura y Entretenimiento",31,30,16,14,0,33,14,19,0,0,0,0,0,0,0,0,0,63,"Catamarca","Uso Libre","Uso libre de la consola de videojuegos",1
+"Anchorena","Cultura y Entretenimiento",31,20,8,12,0,6,4,2,0,0,0,0,0,0,0,0,0,26,"San Luis","Uso Libre","Uso libre de la consola de videojuegos",1
+"El Jardín","Alfabetización Digital",10,40,32,8,0,64,40,24,0,0,0,0,0,0,0,0,0,104,"Salta","Alfabetización Digital","Alfabetización Digital Inicial",1
+"El Jardín","Educación",16,0,0,0,0,16,12,4,0,24,6,18,0,0,0,0,0,40,"Salta","Complementos de la educación formal","Otros",1
+"El Jardín","Cultura y Entretenimiento",31,30,24,6,0,48,30,18,0,0,0,0,0,0,0,0,0,78,"Salta","Uso Libre","Uso libre del espacio de microcine",1
+"Orán","Formación Laboral",13,0,0,0,0,0,0,0,0,60,24,36,0,0,0,0,0,60,"Salta","Oficios manuales","Peluquería",2
+"Orán","Educación",16,0,0,0,0,60,27,33,0,180,90,90,0,0,0,0,0,240,"Salta","Complementos de la educación formal","Terminá la Secundaria",1
+"Orán","Salud",19,0,0,0,0,0,0,0,0,30,30,0,0,0,0,0,0,30,"Salta","Salud","Primeros Auxilios",1
+"Los Toldos","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Salta","Contenidos","",1
+"Cachi","Ciudadanía y DD",25,0,0,0,0,34,23,11,0,124,53,71,0,3,0,3,0,161,"Salta","Comunidad","Seguridad vial",1
+"Cachi","Cultura y Entretenimiento",31,0,0,0,0,59,27,32,0,99,38,61,0,3,1,2,0,161,"Salta","Uso Libre","Navegación libre",2
+"Apolinario Saravia","Educación",16,0,0,0,0,3380,2590,790,0,1440,1010,430,0,0,0,0,0,4820,"Salta","Complementos de la educación formal","Otros",1
+"El Galpón","Cultura y Entretenimiento",31,2,0,2,0,7,2,5,0,17,3,14,0,0,0,0,0,26,"Salta","Uso Libre","Navegación libre",1
+"Campo Santo","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,4,"Salta","Soporte","",2
+"Campo Santo","Cultura y Entretenimiento",31,25,15,10,0,38,20,18,0,23,8,15,0,0,0,0,0,86,"Salta","Uso Libre","Navegación libre",1
+"Villa Eloísa","Trámites",22,0,0,0,0,4,4,0,0,70,50,20,0,8,8,0,0,82,"Santa Fe","Trámites Nacionales","ANSES",1
+"Ballivián","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Salta","Soporte","",1
+"Ballivián","Trámites",22,0,0,0,0,0,0,0,0,36,17,19,0,0,0,0,0,36,"Salta","Trámites Nacionales","MiArgentina",1
+"Valcheta","Trámites",22,0,0,0,0,0,0,0,0,17,14,3,0,0,0,0,0,17,"Río Negro","Trámites Nacionales","Validación de identidad",1
+"Itatí","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,2,"Corrientes","Soporte","",3
+"Itatí","Cultura y Entretenimiento",31,234,93,141,0,0,0,0,0,132,66,66,0,0,0,0,0,366,"Corrientes","Uso Libre","Navegación libre",3
+"San Jerónimo","Alfabetización Digital",10,109,17,92,0,9,0,9,0,0,0,0,0,0,0,0,0,118,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Jerónimo","Formación Laboral",13,0,0,0,0,1,0,1,0,14,8,6,0,0,0,0,0,15,"Santa Fe","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"San Jerónimo","Trámites",22,0,0,0,0,5,2,3,0,49,18,31,0,2,0,2,0,56,"Santa Fe","Trámites Nacionales","Validación de identidad",5
+"Puesto del Marqués","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Jujuy","Soporte","",2
+"Puesto del Marqués","Salud",19,10,4,6,0,13,7,6,0,7,3,4,0,0,0,0,0,30,"Jujuy","Salud","Otros",1
+"Vaqueros","Salud",19,0,0,0,0,23,17,6,0,80,45,35,0,13,6,7,0,116,"Salta","Salud","Otros",2
+"Vaqueros","Cultura y Entretenimiento",31,44,25,19,0,22,12,10,0,19,10,9,0,1,1,0,0,86,"Salta","Actividad","Proyección de película (con debate)",1
+"Ciudad de Córdoba V (Parque Educativo Zona Este)","Trámites",22,0,0,0,0,10,3,7,0,900,360,500,40,0,0,0,0,910,"Córdoba","Trámites Nacionales","Potenciar Trabajo",2
+"Maquinchao","Trámites",22,0,0,0,0,0,0,0,0,69,36,33,0,11,5,6,0,80,"Río Negro","Trámites Nacionales","ANSES",2
+"Maquinchao","Ciudadanía y DD",25,7,0,7,0,2,0,2,0,0,0,0,0,0,0,0,0,9,"Río Negro","Comunidad","Otros",1
+"Maquinchao","Cultura y Entretenimiento",31,10,2,8,0,1,0,1,0,5,4,1,0,0,0,0,0,16,"Río Negro","Uso Libre","Navegación libre",1
+"Fiambalá","Trámites",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Catamarca","Trámites Nacionales","PROGRESAR",2
+"Fiambalá","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,50,20,30,0,0,0,0,0,50,"Catamarca","Uso Libre","Navegación libre",1
+"Puesto Viejo","Educación",16,24,13,11,0,0,0,0,0,0,0,0,0,0,0,0,0,24,"Jujuy","Complementos de la educación formal","Otros",1
+"San José II (El Desmonte)","Educación",16,26,12,14,0,25,13,12,0,28,20,8,0,0,0,0,0,79,"Catamarca","Complementos de la educación formal","FINES",2
+"San José II (El Desmonte)","Cultura y Entretenimiento",31,35,18,16,1,11,2,9,0,12,6,6,0,0,0,0,0,58,"Catamarca","Uso Libre","Navegación libre",1
+"Famatina II (Pituil)","Educación",16,0,0,0,0,1,0,1,0,4,1,3,0,1,0,1,0,6,"La Rioja","Complementos de la educación formal","Otros",1
+"Famatina II (Pituil)","Trámites",22,0,0,0,0,22,14,8,0,127,110,17,0,9,3,6,0,158,"La Rioja","Trámites Nacionales","Validación de identidad",2
+"Villa Elisa","Trámites",22,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Entre Ríos","Trámites Nacionales","Validación de identidad",1
+"Villa Elisa","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Entre Ríos","Comunidad","Otros",1
+"Villa Elisa","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,10,"Entre Ríos","Artes","Danza",1
+"Villa Carlos Paz","Educación",16,0,0,0,0,65,34,28,3,47,25,20,2,0,0,0,0,112,"Córdoba","Complementos de la educación formal","Otros",1
+"Villa Carlos Paz","Trámites",22,0,0,0,0,51,20,30,1,33,15,18,0,39,20,19,0,123,"Córdoba","Trámites Nacionales","Otros",1
+"Villa Carlos Paz","Ciudadanía y DD",25,50,21,29,0,52,18,34,0,39,16,23,0,0,0,0,0,141,"Córdoba","Comunidad","Otros",2
+"Villa Carlos Paz","Cultura y Entretenimiento",31,8,4,4,0,84,50,34,0,45,23,22,0,0,0,0,0,137,"Córdoba","Artes","Música",3
+"Las Playas","Trámites",22,0,0,0,0,24,15,9,0,40,23,17,0,0,0,0,0,64,"Córdoba","Trámites Provinciales","Otros",1
+"Las Playas","Cultura y Entretenimiento",31,78,37,41,0,82,43,39,0,27,16,11,0,0,0,0,0,187,"Córdoba","Artes","Otros",1
+"Los Cóndores","Educación",16,80,35,45,0,70,23,47,0,0,0,0,0,0,0,0,0,150,"Córdoba","Complementos de la educación formal","Otros",1
+"Santa María de Punilla","Formación Laboral",13,0,0,0,0,4,1,3,0,17,12,5,0,0,0,0,0,21,"Córdoba","Inserción al mundo laboral","Armado de CV",1
+"Santa María de Punilla","Trámites",22,0,0,0,0,17,4,12,1,91,50,41,0,59,21,38,0,167,"Córdoba","Trámites Nacionales","MiArgentina",4
+"Santa María de Punilla","Cultura y Entretenimiento",31,7,0,7,0,12,3,9,0,82,47,35,0,14,8,6,0,115,"Córdoba","Uso Libre","Navegación libre",2
+"Silvio Pellico","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Córdoba","Soporte","",2
+"Silvio Pellico","Trámites",22,0,0,0,0,0,0,0,0,6,5,1,0,1,1,0,0,7,"Córdoba","Trámites Nacionales","Otros",1
+"Silvio Pellico","Cultura y Entretenimiento",31,14,5,9,0,4,4,0,0,18,17,1,0,2,2,0,0,38,"Córdoba","Uso Libre","Navegación libre",6
+"Nono","Cultura y Entretenimiento",31,358,183,175,0,410,204,203,3,190,95,89,6,9,6,3,0,967,"Córdoba","Actividad","Actividad con uso de consola de videojuegos",2
+"Balnearia","Trámites",22,30,23,7,0,19,14,5,0,320,186,134,0,37,25,12,0,406,"Córdoba","Trámites Municipales","MUNICIPIO",1
+"Balnearia","Cultura y Entretenimiento",31,116,54,62,0,37,26,11,0,44,35,9,0,4,4,0,0,201,"Córdoba","Uso Libre","Uso libre del espacio de microcine",1
+"Marull","Trámites",22,0,0,0,0,0,0,0,0,17,12,5,0,8,2,6,0,25,"Córdoba","Trámites Nacionales","ANSES",2
+"Marull","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,46,30,16,0,6,4,2,0,52,"Córdoba","Comunidad","Evento / Reunión",1
+"Marull","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Córdoba","Uso Libre","Navegación libre",1
+"Ciudad de Santa Fe II (Mediateca)","Formación Laboral",13,8,6,2,0,3,2,1,0,12,8,4,0,2,2,0,0,25,"Santa Fe","Oficios digitales","Otras",3
+"Ciudad de Santa Fe II (Mediateca)","Trámites",22,0,0,0,0,5,4,1,0,57,40,17,0,22,15,7,0,84,"Santa Fe","Trámites Nacionales","Validación de identidad",2
+"Ciudad de Santa Fe II (Mediateca)","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,8,5,3,0,2,2,0,0,10,"Santa Fe","Artes","Otros",1
+"Itá Ibaté","Trámites",22,101,51,50,0,5,2,3,0,168,99,69,0,13,7,6,0,287,"Corrientes","Trámites Nacionales","ANSES",17
+"Itá Ibaté","Cultura y Entretenimiento",31,379,157,222,0,0,0,0,0,0,0,0,0,0,0,0,0,379,"Corrientes","Uso Libre","Uso libre de la consola de videojuegos",11
+"Almafuerte","Educación",16,15,5,10,0,0,0,0,0,14,12,2,0,0,0,0,0,29,"Misiones","Complementos de la educación formal","Apoyo escolar",2
+"Almafuerte","Trámites",22,0,0,0,0,0,0,0,0,100,50,50,0,0,0,0,0,100,"Misiones","Trámites Nacionales","MiArgentina",3
+"Almafuerte","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,20,10,10,0,0,0,0,0,20,"Misiones","Comunidad","Otros",1
+"La Quiaca III (CIC)","Trámites",22,0,0,0,0,0,0,0,0,5,4,1,0,0,0,0,0,5,"Jujuy","Trámites Nacionales","MiArgentina",1
+"La Quiaca III (CIC)","Cultura y Entretenimiento",31,183,74,109,0,105,19,86,0,23,15,8,0,0,0,0,0,311,"Jujuy","Uso Libre","Navegación libre",4
+"San Fernando del Valle V","Alfabetización Digital",10,370,80,90,200,230,20,10,200,0,0,0,0,0,0,0,0,600,"Catamarca","Alfabetización Digital","Alfabetización Digital Inicial",5
+"Dina Huapi","Alfabetización Digital",10,80,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,80,"Río Negro","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Gobernador Costa","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"Chubut","Soporte","",3
+"Sierra Grande","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Río Negro","Contenidos","",1
+"Sierra Grande","Educación",16,0,0,0,0,56,32,24,0,79,44,35,0,0,0,0,0,135,"Río Negro","Complementos de la educación formal","Otros",1
+"Sierra Grande","Cultura y Entretenimiento",31,85,39,46,0,66,31,35,0,25,20,5,0,0,0,0,0,176,"Río Negro","Artes digitales","Otros",2
+"Caucete","Alfabetización Digital",10,4,4,0,0,0,0,0,0,30,20,10,0,0,0,0,0,34,"San Juan","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Caucete","Trámites",22,2,1,1,0,11,7,4,0,76,49,27,0,3,3,0,0,92,"San Juan","Trámites Nacionales","Validación de identidad",2
+"Caucete","Cultura y Entretenimiento",31,346,183,163,0,224,129,95,0,231,180,51,0,0,0,0,0,801,"San Juan","Actividad","Proyección de película (con debate)",2
+"Caucete","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"San Juan","Vinculación","",1
+"Piedras Blancas / Entre Ríos","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"Entre Ríos","Soporte","",3
+"Pilar (Santa Fe)","Formación Laboral",13,0,0,0,0,25,18,7,0,25,23,2,0,20,7,13,0,70,"Santa Fe","Inserción al mundo laboral","Armado de CV",1
+"Pilar (Santa Fe)","Trámites",22,0,0,0,0,22,8,14,0,54,39,15,0,21,12,9,0,97,"Santa Fe","Trámites Nacionales","MiArgentina",2
+"San Javier (Santa Fe)","Educación",16,0,0,0,0,45,21,24,0,48,27,21,0,14,5,9,0,107,"Santa Fe","Complementos de la educación formal","Otros",1
+"San Javier (Santa Fe)","Trámites",22,0,0,0,0,104,45,56,3,77,43,34,0,57,23,34,0,238,"Santa Fe","Trámites Municipales","MUNICIPIO",1
+"San Javier (Santa Fe)","Ciudadanía y DD",25,0,0,0,0,78,35,43,0,51,24,27,0,62,31,31,0,191,"Santa Fe","Comunidad","Capacitación a agentes municipales",2
+"El Chañar","Trámites",22,0,0,0,0,0,0,0,0,8,7,1,0,0,0,0,0,8,"Tucumán","Trámites Nacionales","Validación de identidad",1
+"El Chañar","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,58,31,27,0,0,0,0,0,58,"Tucumán","Comunidad","Capacitación a agentes municipales",1
+"Corrientes Capital II (CIC 2)","Capacitaciones PPD",34,0,0,0,0,1,1,0,0,5,3,2,0,1,1,0,0,7,"Corrientes","Comunicación","",1
+"Corrientes Capital II (CIC 2)","Cultura y Entretenimiento",31,27,9,18,0,8,4,4,0,0,0,0,0,0,0,0,0,35,"Corrientes","Actividad","Proyección de película (con debate)",3
+"Cañada Rosquín","Alfabetización Digital",10,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Cañada Rosquín","Trámites",22,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,5,"Santa Fe","Trámites Nacionales","MiArgentina",1
+"Cañada Rosquín","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,22,19,3,0,2,2,0,0,24,"Santa Fe","Artes","Música",1
+"Río Hondo II","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,5,"Santiago del Estero","Contenidos","",1
+"Río Hondo II","Alfabetización Digital",10,0,0,0,0,0,0,0,0,96,88,8,0,1,0,1,0,97,"Santiago del Estero","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Río Hondo II","Educación",16,0,0,0,0,0,0,0,0,27,19,8,0,0,0,0,0,27,"Santiago del Estero","Complementos de la educación formal","Terminá la Secundaria",3
+"Río Hondo II","Trámites",22,0,0,0,0,0,0,0,0,263,189,74,0,37,19,18,0,300,"Santiago del Estero","Trámites Nacionales","AFIP",4
+"Río Hondo II","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,184,134,50,0,3,0,3,0,187,"Santiago del Estero","Uso Libre","Navegación libre",1
+"9 de Julio II/ San Juan","Capacitaciones PPD",34,0,0,0,0,2,1,1,0,1,1,0,0,0,0,0,0,3,"San Juan","Soporte","",2
+"9 de Julio II/ San Juan","Trámites",22,2,0,2,0,62,28,34,0,240,109,131,0,168,70,98,0,472,"San Juan","Trámites Nacionales","ANSES",12
+"Campana","Alfabetización Digital",10,0,0,0,0,11,3,6,2,32,20,11,1,36,18,14,4,79,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Campana","Trámites",22,0,0,0,0,0,0,0,0,187,115,70,2,120,75,45,0,307,"Buenos Aires","Trámites Nacionales","Validación de identidad",3
+"Campana","Generos y Diversidades",28,0,0,0,0,0,0,0,0,47,30,17,0,9,3,6,0,56,"Buenos Aires","Otros","",1
+"Campana","Cultura y Entretenimiento",31,0,0,0,0,13,10,3,0,76,57,19,0,29,22,7,0,118,"Buenos Aires","Artes","Literatura",5
+"Campana","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,14,10,4,0,8,6,2,0,22,"Buenos Aires","Contenidos","",1
+"Rumi Punco","Trámites",22,0,0,0,0,18,13,5,0,48,33,15,0,6,5,1,0,72,"Tucumán","Trámites Municipales","MUNICIPIO",3
+"Rumi Punco","Cultura y Entretenimiento",31,43,30,13,0,22,13,9,0,0,0,0,0,0,0,0,0,65,"Tucumán","Artes","Otros",1
+"Rosales","Alfabetización Digital",10,0,0,0,0,45,23,20,2,39,21,18,0,58,32,26,0,142,"Buenos Aires","Tecnologías de la vida cotidiana","Home banking",1
+"Rosales","Trámites",22,0,0,0,0,49,28,16,5,63,35,26,2,68,29,39,0,180,"Buenos Aires","Trámites Municipales","MUNICIPIO",1
+"Rosales","Cultura y Entretenimiento",31,16,8,8,0,26,18,8,0,38,26,12,0,44,25,19,0,124,"Buenos Aires","Artes","Danza",1
+"1-11-14 (Consejo)","Educación",16,830,510,320,0,260,120,140,0,0,0,0,0,0,0,0,0,1090,"Ciudad Autónoma de Buenos Aires","Complementos de la educación formal","Otros",2
+"1-11-14 (Consejo)","Cultura y Entretenimiento",31,820,500,320,0,260,120,140,0,0,0,0,0,0,0,0,0,1080,"Ciudad Autónoma de Buenos Aires","Uso Libre","Navegación libre",2
+"La Esperanza","Cultura y Entretenimiento",31,7,3,4,0,3,2,1,0,0,0,0,0,0,0,0,0,10,"Jujuy","Actividad","Actividad con uso de consola de videojuegos",1
+"El Piquete","Cultura y Entretenimiento",31,1,1,0,0,8,7,1,0,11,8,2,1,0,0,0,0,20,"Jujuy","Artes","Danza",1
+"Pilar II (Derqui)","Alfabetización Digital",10,0,0,0,0,80,44,36,0,0,0,0,0,0,0,0,0,80,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Pilar II (Derqui)","Formación Laboral",13,0,0,0,0,151,58,93,0,0,0,0,0,0,0,0,0,151,"Buenos Aires","Oficios manuales","Otras",2
+"Pilar II (Derqui)","Trámites",22,0,0,0,0,3,1,2,0,171,99,72,0,0,0,0,0,174,"Buenos Aires","Trámites Nacionales","Validación de identidad",3
+"Pilar II (Derqui)","Ciudadanía y DD",25,22,8,14,0,25,8,17,0,2356,1587,769,0,0,0,0,0,2403,"Buenos Aires","Comunidad","Otros",4
+"Pilar II (Derqui)","Cultura y Entretenimiento",31,0,0,0,0,473,233,240,0,0,0,0,0,0,0,0,0,473,"Buenos Aires","Artes","Otros",6
+"Ameghino","Alfabetización Digital",10,0,0,0,0,0,0,0,0,16,12,4,0,0,0,0,0,16,"Buenos Aires","Tecnologías de la vida cotidiana","Gestión de sitio WEB",1
+"Ameghino","Trámites",22,0,0,0,0,0,0,0,0,16,3,13,0,8,7,1,0,24,"Buenos Aires","Trámites Provinciales","RENTAS - ARBA (Similares)",3
+"Morón IV (CEC Carlos Gardel)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Buenos Aires","Contenidos","",1
+"Morón IV (CEC Carlos Gardel)","Trámites",22,0,0,0,0,4,0,4,0,162,98,64,0,0,0,0,0,166,"Buenos Aires","Trámites Nacionales","Validación de identidad",3
+"Rojas (Buenos Aires)","Trámites",22,1,0,1,0,0,0,0,0,10,6,4,0,0,0,0,0,11,"Buenos Aires","Trámites Nacionales","MiArgentina",1
+"Rojas (Buenos Aires)","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,190,50,140,0,10,10,0,0,200,"Buenos Aires","Comunidad","Convivencia en Edificios",2
+"General Villegas II","Formación Laboral",13,0,0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,8,"Buenos Aires","Oficios digitales","Marketing Digital",1
+"General Villegas II","Ciudadanía y DD",25,20,12,8,0,6,4,2,0,5,4,1,0,0,0,0,0,31,"Buenos Aires","Comunidad","Evento / Reunión",1
+"General Villegas II","Cultura y Entretenimiento",31,13,7,6,0,0,0,0,0,2,2,0,0,0,0,0,0,15,"Buenos Aires","Uso Libre","Uso libre de la consola de videojuegos",2
+"Guaminí","Trámites",22,0,0,0,0,0,0,0,0,15,8,7,0,0,0,0,0,15,"Buenos Aires","Trámites Nacionales","MiArgentina",3
+"Guaminí","Cultura y Entretenimiento",31,5,3,2,0,442,265,177,0,66,63,3,0,0,0,0,0,513,"Buenos Aires","Uso Libre","Navegación libre",2
+"Guardia Mitre","Formación Laboral",13,0,0,0,0,0,0,0,0,30,10,20,0,0,0,0,0,30,"Río Negro","Oficios manuales","Albañilería",1
+"Guardia Mitre","Cultura y Entretenimiento",31,23,13,10,0,43,25,18,0,0,0,0,0,0,0,0,0,66,"Río Negro","Artes","Otros",2
+"Pico Truncado II (NIDO)","Trámites",22,0,0,0,0,0,0,0,0,15,0,15,0,6,0,6,0,21,"Santa Cruz","Trámites Nacionales","Validación de identidad",1
+"La Cautiva","Trámites",22,0,0,0,0,0,0,0,0,28,17,11,0,12,9,3,0,40,"Córdoba","Trámites Provinciales","RENTAS - ARBA (Similares)",1
+"La Cautiva","Cultura y Entretenimiento",31,18,8,10,0,17,11,6,0,4,4,0,0,16,12,4,0,55,"Córdoba","Actividad","Actividad con uso de consola de videojuegos",2
+"La Higuera","Trámites",22,0,0,0,0,60,20,40,0,47,17,30,0,25,10,15,0,132,"Córdoba","Trámites Nacionales","MiArgentina",2
+"La Higuera","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,7,5,2,0,0,0,0,0,7,"Córdoba","Uso Libre","Navegación libre",1
+"San Nicolás de los Arroyos II (CEC)","Educación",16,60,30,30,0,60,30,30,0,20,0,20,0,0,0,0,0,140,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",5
+"San Nicolás de los Arroyos II (CEC)","Salud",19,40,20,20,0,100,50,50,0,100,50,50,0,18,15,3,0,258,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",4
+"San Nicolás de los Arroyos II (CEC)","Trámites",22,0,0,0,0,0,0,0,0,110,40,70,0,3,0,3,0,113,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"San Nicolás de los Arroyos II (CEC)","Ciudadanía y DD",25,0,0,0,0,40,30,10,0,60,50,10,0,0,0,0,0,100,"Buenos Aires","Comunidad","Otros",1
+"San Nicolás de los Arroyos II (CEC)","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Buenos Aires","Artes","Otros",1
+"Curuzú Cuatiá II","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,"Corrientes","Soporte","",3
+"Curuzú Cuatiá II","Alfabetización Digital",10,0,0,0,0,0,0,0,0,65,50,15,0,0,0,0,0,65,"Corrientes","Alfabetización Digital","Paquete de Office o LibreOffice",1
+"Curuzú Cuatiá II","Trámites",22,0,0,0,0,94,53,37,4,299,180,113,6,59,34,25,0,452,"Corrientes","Trámites Municipales","MUNICIPIO",2
+"Curuzú Cuatiá II","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,25,10,15,0,0,0,0,0,25,"Corrientes","Comunidad","Evento / Reunión",1
+"Curuzú Cuatiá II","Cultura y Entretenimiento",31,3,1,2,0,108,53,53,2,82,45,36,1,0,0,0,0,193,"Corrientes","Uso Libre","Uso libre de la consola de videojuegos",2
+"Mar Chiquita II","Formación Laboral",13,0,0,0,0,64,27,27,10,76,28,28,20,51,25,26,0,191,"Buenos Aires","Oficios digitales","Marketing Digital",2
+"Mar Chiquita II","Trámites",22,0,0,0,0,32,14,14,4,56,21,20,15,54,27,26,1,142,"Buenos Aires","Trámites Nacionales","Otros",2
+"Mar Chiquita II","Cultura y Entretenimiento",31,0,0,0,0,24,10,8,6,18,8,6,4,27,12,15,0,69,"Buenos Aires","Uso Libre","Navegación libre",1
+"Ranchillos","Formación Laboral",13,0,0,0,0,18,10,8,0,12,6,6,0,0,0,0,0,30,"Tucumán","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"Ranchillos","Trámites",22,0,0,0,0,75,40,35,0,105,60,45,0,30,20,10,0,210,"Tucumán","Trámites Nacionales","ANSES",1
+"Ranchillos","Cultura y Entretenimiento",31,55,30,25,0,26,16,10,0,50,38,12,0,0,0,0,0,131,"Tucumán","Actividad","Proyección de película (con debate)",1
+"Carlos Tejedor","Alfabetización Digital",10,0,0,0,0,0,0,0,0,8,3,5,0,4,1,3,0,12,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Carlos Tejedor","Formación Laboral",13,0,0,0,0,4,0,4,0,4,3,1,0,0,0,0,0,8,"Buenos Aires","Inserción al mundo laboral","Armado de CV",1
+"Carlos Tejedor","Trámites",22,0,0,0,0,5,4,1,0,60,15,45,0,11,4,7,0,76,"Buenos Aires","Trámites Nacionales","MiArgentina",4
+"Carlos Tejedor","Cultura y Entretenimiento",31,7,2,5,0,9,3,6,0,8,6,2,0,1,1,0,0,25,"Buenos Aires","Uso Libre","Uso libre de la consola de videojuegos",4
+"Quilmes III (Villa Itatí)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"Buenos Aires","Soporte","",1
+"Tunuyán (Mendoza)","Formación Laboral",13,0,0,0,0,91,38,53,0,240,99,141,0,15,12,3,0,346,"Mendoza","Oficios manuales","Manipulación de alimentos",2
+"Tunuyán (Mendoza)","Educación",16,0,0,0,0,12,8,4,0,17,5,12,0,1,1,0,0,30,"Mendoza","Complementos de la educación formal","FINES",1
+"Tunuyán (Mendoza)","Trámites",22,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,3,"Mendoza","Trámites Nacionales","Validación de identidad",1
+"Tunuyán (Mendoza)","Ciudadanía y DD",25,0,0,0,0,120,26,94,0,363,179,184,0,5,5,0,0,488,"Mendoza","Comunidad","Otros",2
+"Tunuyán (Mendoza)","Cultura y Entretenimiento",31,7,3,4,0,25,12,13,0,30,30,0,0,0,0,0,0,62,"Mendoza","Uso Libre","Uso libre del espacio de microcine",1
+"Concarán","Trámites",22,0,0,0,0,0,0,0,0,19,13,6,0,5,2,3,0,24,"San Luis","Trámites Nacionales","Validación de identidad",2
+"Aristóbulo del Valle","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,3,"Misiones","Contenidos","",1
+"Aristóbulo del Valle","Educación",16,81,49,32,0,114,75,38,1,0,0,0,0,0,0,0,0,195,"Misiones","Complementos de la educación formal","Apoyo escolar",1
+"Aristóbulo del Valle","Trámites",22,0,0,0,0,92,57,35,0,488,353,135,0,33,27,6,0,613,"Misiones","Trámites Nacionales","Validación de identidad",2
+"Aristóbulo del Valle","Cultura y Entretenimiento",31,39,20,19,0,161,99,62,0,28,17,10,1,3,3,0,0,231,"Misiones","Uso Libre","Uso libre del espacio de microcine",3
+"Animaná","Educación",16,300,180,120,0,390,170,220,0,0,0,0,0,0,0,0,0,690,"Salta","Complementos de la educación formal","Apoyo escolar",2
+"Comuna Peyrano","Trámites",22,1,0,1,0,0,0,0,0,6,5,1,0,0,0,0,0,7,"Santa Fe","Trámites Nacionales","Otros",1
+"Río Cuarto","Trámites",22,0,0,0,0,25,15,10,0,90,34,56,0,20,8,12,0,135,"Córdoba","Trámites Nacionales","PROGRESAR",2
+"Escobar (Maquinista Savio)","Trámites",22,0,0,0,0,0,0,0,0,40,20,20,0,0,0,0,0,40,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Margarita Belén","Trámites",22,0,0,0,0,26,20,6,0,383,236,147,0,23,14,9,0,432,"Chaco","Trámites Nacionales","Validación de identidad",3
+"Margarita Belén","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,33,18,15,0,0,0,0,0,33,"Chaco","Comunidad","Ciudadanía y Derechos Humanos",1
+"Concordia II NIDO","Trámites",22,0,0,0,0,35,20,15,0,105,60,45,0,1,1,0,0,141,"Entre Ríos","Trámites Nacionales","Validación de identidad",1
+"Concordia II NIDO","Cultura y Entretenimiento",31,4,3,1,0,8,4,4,0,1,1,0,0,0,0,0,0,13,"Entre Ríos","Uso Libre","Navegación libre",1
+"Hipólito Yrigoyen (Salta)","Formación Laboral",13,0,0,0,0,61,35,26,0,113,60,53,0,1,1,0,0,175,"Salta","Oficios digitales","Otras",2
+"Hipólito Yrigoyen (Salta)","Educación",16,79,45,34,0,177,87,90,0,268,112,156,0,0,0,0,0,524,"Salta","Complementos de la educación formal","Talleres País Digital",2
+"Hipólito Yrigoyen (Salta)","Trámites",22,156,87,69,0,909,556,348,5,2110,980,1124,6,0,0,0,0,3175,"Salta","Trámites Nacionales","ANSES",3
+"Hipólito Yrigoyen (Salta)","Ciudadanía y DD",25,834,434,400,0,502,235,267,0,1129,605,524,0,0,0,0,0,2465,"Salta","Comunidad","Otros",2
+"Hipólito Yrigoyen (Salta)","Cultura y Entretenimiento",31,2237,1175,1062,0,2376,987,1386,3,763,347,415,1,345,170,175,0,5721,"Salta","Actividad","Proyección de película (con debate)",4
+"Almirante Brown","Formación Laboral",13,0,0,0,0,10,10,0,0,150,150,0,0,0,0,0,0,160,"Buenos Aires","Oficios manuales","Agricultura Orgánica",1
+"Almirante Brown","Salud",19,0,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,100,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Almirante Brown","Trámites",22,0,0,0,0,240,150,90,0,2200,1400,800,0,80,20,60,0,2520,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Almirante Brown","Ciudadanía y DD",25,90,80,10,0,14,10,4,0,0,0,0,0,0,0,0,0,104,"Buenos Aires","Comunidad","Ciudadanía y Derechos Humanos",1
+"Almirante Brown","Generos y Diversidades",28,0,0,0,0,20,20,0,0,90,90,0,0,4,4,0,0,114,"Buenos Aires","Prevención de violencias","",1
+"San Martín (Buenos Aires)","Alfabetización Digital",10,0,0,0,0,0,0,0,0,18,13,5,0,2,2,0,0,20,"Buenos Aires","Tecnologías de la vida cotidiana","Uso del celular",1
+"San Martín (Buenos Aires)","Trámites",22,0,0,0,0,53,32,18,3,610,345,260,5,27,15,12,0,690,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Rafaela II (DIAT)","Trámites",22,0,0,0,0,0,0,0,0,29,10,19,0,0,0,0,0,29,"Santa Fe","Trámites Nacionales","Potenciar Trabajo",1
+"Lomas de Zamora IV (Villa Fiorito)","Trámites",22,0,0,0,0,134,60,74,0,200,90,110,0,110,60,50,0,444,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Lomas de Zamora IV (Villa Fiorito)","Cultura y Entretenimiento",31,2,1,1,0,3,1,2,0,2,1,1,0,0,0,0,0,7,"Buenos Aires","Actividad","Actividad con uso de consola de videojuegos",2
+"Leandro N. Alem II (Alberdi)","Educación",16,40,15,25,0,41,25,16,0,39,22,17,0,0,0,0,0,120,"Buenos Aires","Complementos de la educación formal","Otros",3
+"Leandro N. Alem II (Alberdi)","Salud",19,8,5,3,0,14,10,4,0,129,77,52,0,361,182,179,0,512,"Buenos Aires","Salud","Gestión y prevención COVID",2
+"Leandro N. Alem II (Alberdi)","Trámites",22,0,0,0,0,6,6,0,0,194,100,94,0,66,31,35,0,266,"Buenos Aires","Trámites Nacionales","RENAPER",6
+"Leandro N. Alem II (Alberdi)","Cultura y Entretenimiento",31,56,34,22,0,30,12,18,0,0,0,0,0,0,0,0,0,86,"Buenos Aires","Artes","Otros",2
+"General Pico","Trámites",22,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,4,"La Pampa","Trámites Nacionales","Certificado de Discapacidad",1
+"Alberti","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,4,"Buenos Aires","Contenidos","",1
+"Alberti","Educación",16,17,5,12,0,166,104,56,6,159,68,83,8,11,9,2,0,353,"Buenos Aires","Complementos de la educación formal","Otros",5
+"Alberti","Salud",19,17,6,11,0,35,24,11,0,81,28,51,2,28,14,14,0,161,"Buenos Aires","Salud","Otros",3
+"Alberti","Trámites",22,0,0,0,0,0,0,0,0,139,128,9,2,34,22,12,0,173,"Buenos Aires","Trámites Nacionales","Otros",2
+"Alberti","Cultura y Entretenimiento",31,90,44,46,0,58,27,31,0,28,28,0,0,2,2,0,0,178,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",3
+"Tres Arroyos","Alfabetización Digital",10,0,0,0,0,0,0,0,0,20,10,10,0,32,20,12,0,52,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Tres Arroyos","Formación Laboral",13,0,0,0,0,30,15,15,0,21,13,8,0,25,10,15,0,76,"Buenos Aires","Oficios digitales","Otras",1
+"Tres Arroyos","Trámites",22,0,0,0,0,46,30,16,0,72,41,30,1,25,10,15,0,143,"Buenos Aires","Trámites Nacionales","PROGRESAR",3
+"Tres Arroyos","Cultura y Entretenimiento",31,0,0,0,0,22,10,12,0,12,5,7,0,3,3,0,0,37,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",1
+"Alderetes","Trámites",22,0,0,0,0,0,0,0,0,26,14,10,2,105,50,55,0,131,"Tucumán","Trámites Nacionales","MiArgentina",2
+"Alderetes","Cultura y Entretenimiento",31,80,20,60,0,140,80,60,0,0,0,0,0,0,0,0,0,220,"Tucumán","Uso Libre","Uso libre de la consola de videojuegos",1
+"Naschel","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"San Luis","Contenidos","",1
+"Naschel","Educación",16,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,7,"San Luis","Complementos de la educación formal","Otros",1
+"Naschel","Trámites",22,0,0,0,0,0,0,0,0,7,3,4,0,2,2,0,0,9,"San Luis","Trámites Provinciales","Otros",1
+"Naschel","Cultura y Entretenimiento",31,0,0,0,0,0,0,0,0,19,15,4,0,0,0,0,0,19,"San Luis","Uso Libre","Navegación libre",1
+"Avia Terai","Trámites",22,0,0,0,0,365,243,122,0,416,263,138,15,0,0,0,0,781,"Chaco","Trámites Nacionales","ANSES",22
+"Castelli (Buenos Aires)","Alfabetización Digital",10,1,0,1,0,2,2,0,0,2,1,1,0,0,0,0,0,5,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Castelli (Buenos Aires)","Formación Laboral",13,0,0,0,0,7,4,3,0,15,6,9,0,0,0,0,0,22,"Buenos Aires","Oficios digitales","Otras",2
+"Castelli (Buenos Aires)","Educación",16,6,3,3,0,23,12,11,0,0,0,0,0,0,0,0,0,29,"Buenos Aires","Complementos de la educación formal","Otros",1
+"Castelli (Buenos Aires)","Salud",19,0,0,0,0,2,1,1,0,7,4,3,0,0,0,0,0,9,"Buenos Aires","Salud","Otros",1
+"Castelli (Buenos Aires)","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,26,12,14,0,4,2,2,0,30,"Buenos Aires","Comunidad","Otros",1
+"Castelli (Buenos Aires)","Cultura y Entretenimiento",31,12,6,6,0,2,1,1,0,0,0,0,0,0,0,0,0,14,"Buenos Aires","Artes","Música",1
+"Comodoro Rivadavia II (CIP)","Trámites",22,0,0,0,0,0,0,0,0,25,18,7,0,3,2,1,0,28,"Chubut","Trámites Nacionales","Validación de identidad",2
+"La Boca - CABA","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ciudad Autónoma de Buenos Aires","Soporte","",2
+"La Boca - CABA","Formación Laboral",13,750,350,400,0,0,0,0,0,0,0,0,0,0,0,0,0,750,"Ciudad Autónoma de Buenos Aires","Oficios digitales","Otras",1
+"La Boca - CABA","Educación",16,120,60,60,0,0,0,0,0,0,0,0,0,0,0,0,0,120,"Ciudad Autónoma de Buenos Aires","Complementos de la educación formal","Apoyo escolar",1
+"La Boca - CABA","Trámites",22,0,0,0,0,0,0,0,0,2500,0,0,2500,0,0,0,0,2500,"Ciudad Autónoma de Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Catriló","Educación",16,79,45,34,0,73,45,28,0,0,0,0,0,0,0,0,0,152,"La Pampa","Complementos de la educación formal","Apoyo escolar",2
+"Catriló","Cultura y Entretenimiento",31,107,59,45,3,36,25,11,0,25,20,5,0,18,18,0,0,186,"La Pampa","Actividad","Proyección de película (con debate)",2
+"La Matanza VIII (Las Antenas)","Trámites",22,0,0,0,0,0,0,0,0,467,242,225,0,0,0,0,0,467,"Buenos Aires","Trámites Nacionales","Validación de identidad",2
+"Paso de los Libres","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,8,"Corrientes","Soporte","",2
+"Paso de los Libres","Educación",16,20,9,11,0,11,5,6,0,0,0,0,0,0,0,0,0,31,"Corrientes","Complementos de la educación formal","Otros",1
+"Paso de los Libres","Trámites",22,0,0,0,0,11,11,0,0,38,33,5,0,14,12,2,0,63,"Corrientes","Trámites Nacionales","ANSES",1
+"Paso de los Libres","Cultura y Entretenimiento",31,48,30,18,0,29,14,15,0,0,0,0,0,0,0,0,0,77,"Corrientes","Uso Libre","Uso libre de la consola de videojuegos",1
+"Zárate III (Universidad Popular)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Buenos Aires","Contenidos","",1
+"Zárate III (Universidad Popular)","Cultura y Entretenimiento",31,8,6,2,0,36,20,16,0,28,24,1,3,2,2,0,0,74,"Buenos Aires","Uso Libre","Navegación libre",1
+"Dolavon","Trámites",22,0,0,0,0,18,12,6,0,71,36,35,0,9,3,6,0,98,"Chubut","Trámites Nacionales","Validación de identidad",3
+"Dolavon","Cultura y Entretenimiento",31,47,18,29,0,51,21,30,0,14,9,5,0,0,0,0,0,112,"Chubut","Uso Libre","Uso libre de la consola de videojuegos",2
+"Dolavon","Capacitaciones PPD",34,0,0,0,0,15,10,5,0,38,14,24,0,9,3,6,0,62,"Chubut","Vinculación","",1
+"El Trébol II","Alfabetización Digital",10,24,0,24,0,14,6,8,0,19,12,7,0,2,2,0,0,59,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",2
+"El Trébol II","Trámites",22,0,0,0,0,44,23,21,0,149,73,76,0,101,45,56,0,294,"Santa Fe","Trámites Nacionales","Validación de identidad",3
+"El Trébol II","Cultura y Entretenimiento",31,204,60,144,0,45,26,19,0,3,1,2,0,0,0,0,0,252,"Santa Fe","Actividad","Proyección de película (con debate)",3
+"Comuna Tortugas","Trámites",22,0,0,0,0,21,12,9,0,14,9,5,0,6,4,2,0,41,"Santa Fe","Trámites Nacionales","MiArgentina",3
+"Comuna Tortugas","Cultura y Entretenimiento",31,36,21,15,0,3,1,2,0,4,3,1,0,0,0,0,0,43,"Santa Fe","Uso Libre","Navegación libre",2
+"Río Ceballos","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,6,"Córdoba","Soporte","",3
+"Río Ceballos","Formación Laboral",13,0,0,0,0,0,0,0,0,24,10,14,0,0,0,0,0,24,"Córdoba","Oficios digitales","Otras",1
+"Río Ceballos","Trámites",22,0,0,0,0,9,5,4,0,62,48,14,0,7,0,7,0,78,"Córdoba","Trámites Provinciales","Otros",3
+"Río Ceballos","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,167,95,72,0,40,14,26,0,207,"Córdoba","Comunidad","Evento / Reunión",5
+"Río Ceballos","Cultura y Entretenimiento",31,0,0,0,0,210,77,133,0,136,77,59,0,19,11,8,0,365,"Córdoba","Actividad","Proyección de película (con debate)",3
+"Fontana","Formación Laboral",13,0,0,0,0,0,0,0,0,53,22,31,0,0,0,0,0,53,"Chaco","Inserción al mundo laboral","Búsqueda laboral en plataformas online",1
+"Fontana","Trámites",22,0,0,0,0,275,126,149,0,460,226,234,0,0,0,0,0,735,"Chaco","Trámites Nacionales","MiArgentina",3
+"Fontana","Cultura y Entretenimiento",31,17,2,15,0,32,20,12,0,0,0,0,0,0,0,0,0,49,"Chaco","Uso Libre","Uso libre de la consola de videojuegos",1
+"Puerto Madryn II","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0,0,6,"Chubut","Contenidos","",3
+"Puerto Madryn II","Formación Laboral",13,0,0,0,0,16,12,4,0,68,68,0,0,16,16,0,0,100,"Chubut","Oficios manuales","Peluquería",2
+"Puerto Madryn II","Trámites",22,0,0,0,0,0,0,0,0,74,32,42,0,4,1,3,0,78,"Chubut","Trámites Nacionales","MiArgentina",4
+"Puerto Madryn II","Cultura y Entretenimiento",31,0,0,0,0,68,68,0,0,99,74,25,0,12,12,0,0,179,"Chubut","Artes digitales","Fotografía",4
+"Comuna María Teresa","Alfabetización Digital",10,0,0,0,0,0,0,0,0,3,3,0,0,9,9,0,0,12,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Comuna María Teresa","Cultura y Entretenimiento",31,63,63,0,0,97,97,0,0,0,0,0,0,0,0,0,0,160,"Santa Fe","Actividad","Proyección de película (con debate)",1
+"Mercedes (Corrientes)","Trámites",22,0,0,0,0,3,2,1,0,11,6,5,0,0,0,0,0,14,"Corrientes","Trámites Nacionales","Validación de identidad",1
+"Mercedes (Corrientes)","Cultura y Entretenimiento",31,127,72,55,0,94,45,49,0,32,27,5,0,0,0,0,0,253,"Corrientes","Actividad","Actividad con uso de consola de videojuegos",2
+"Anisacate","Formación Laboral",13,130,51,79,0,134,71,63,0,96,42,54,0,17,10,7,0,377,"Córdoba","Inserción al mundo laboral","Armado de CV",4
+"Anisacate","Educación",16,100,46,54,0,61,25,36,0,12,9,3,0,1,1,0,0,174,"Córdoba","Complementos de la educación formal","Otros",3
+"Anisacate","Trámites",22,0,0,0,0,164,76,88,0,140,72,68,0,154,81,73,0,458,"Córdoba","Trámites Nacionales","Otros",2
+"Anisacate","Generos y Diversidades",28,0,0,0,0,4,3,1,0,4,2,2,0,0,0,0,0,8,"Córdoba","Perspectiva de género","",1
+"Anisacate","Capacitaciones PPD",34,82,39,43,0,87,39,48,0,17,8,9,0,44,25,19,0,230,"Córdoba","Contenidos","",4
+"Costa de Araujo","Alfabetización Digital",10,24,4,20,0,3,2,1,0,11,9,2,0,2,2,0,0,40,"Mendoza","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Costa de Araujo","Trámites",22,0,0,0,0,4,3,1,0,38,25,13,0,1,1,0,0,43,"Mendoza","Trámites Nacionales","Validación de identidad",1
+"Costa de Araujo","Cultura y Entretenimiento",31,31,16,15,0,13,5,8,0,2,2,0,0,0,0,0,0,46,"Mendoza","Uso Libre","Uso libre del espacio de microcine",1
+"Merlo","Trámites",22,0,0,0,0,0,0,0,0,2548,1360,1188,0,1086,582,504,0,3634,"Buenos Aires","Trámites Nacionales","ANSES",6
+"Merlo","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,100,"Buenos Aires","Comunidad","Capacitación a agentes municipales",2
+"Federal","Trámites",22,0,0,0,0,5,2,3,0,21,9,12,0,2,1,1,0,28,"Entre Ríos","Trámites Nacionales","Validación de identidad",1
+"Ciudad de Formosa III (Caja de Previsión Social)","Trámites",22,0,0,0,0,0,0,0,0,59,22,37,0,10,8,2,0,69,"Formosa","Trámites Provinciales","Otros",2
+"Ciudad de Formosa III (Caja de Previsión Social)","Cultura y Entretenimiento",31,35,13,22,0,19,3,16,0,278,160,118,0,73,42,31,0,405,"Formosa","Uso Libre","Uso libre de la consola de videojuegos",6
+"Villa Escolar","Capacitaciones PPD",34,0,0,0,0,2,2,0,0,6,4,2,0,0,0,0,0,8,"Formosa","Comunicación","",2
+"Villa Escolar","Trámites",22,0,0,0,0,52,16,34,2,57,40,17,0,2,2,0,0,111,"Formosa","Trámites Nacionales","ANSES",1
+"Villa Escolar","Cultura y Entretenimiento",31,23,3,20,0,174,30,144,0,89,49,38,2,0,0,0,0,286,"Formosa","Uso Libre","Uso libre de la consola de videojuegos",3
+"Cerro Azul","Alfabetización Digital",10,10,0,10,0,5,0,5,0,0,0,0,0,0,0,0,0,15,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Cerro Azul","Educación",16,2,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,4,"Misiones","Complementos de la educación formal","Otros",1
+"Cerro Azul","Cultura y Entretenimiento",31,31,10,21,0,111,15,96,0,30,17,13,0,2,1,1,0,174,"Misiones","Uso Libre","Uso libre del espacio de microcine",4
+"Esteban Echeverría II (Casa de la Juventud)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Buenos Aires","Soporte","",2
+"Esteban Echeverría II (Casa de la Juventud)","Formación Laboral",13,0,0,0,0,18,4,14,0,46,32,14,0,0,0,0,0,64,"Buenos Aires","Oficios digitales","Programación",3
+"Esteban Echeverría II (Casa de la Juventud)","Cultura y Entretenimiento",31,0,0,0,0,57,4,53,0,3,2,1,0,0,0,0,0,60,"Buenos Aires","Artes digitales","Otros",3
+"Ushuaia II","Ciudadanía y DD",25,1200,600,600,0,0,0,0,0,220,110,110,0,0,0,0,0,1420,"Tierra del Fuego","Comunidad","Ciudadanía y Derechos Humanos",1
+"Ushuaia II","Cultura y Entretenimiento",31,40,20,20,0,530,155,375,0,180,60,120,0,0,0,0,0,750,"Tierra del Fuego","Actividad","Actividad con uso de consola de videojuegos",2
+"Villa Nueva","Trámites",22,0,0,0,0,0,0,0,0,16,11,5,0,13,6,7,0,29,"Córdoba","Trámites Municipales","MUNICIPIO",1
+"Villa Nueva","Cultura y Entretenimiento",31,2,2,0,0,5,3,2,0,6,5,1,0,3,1,2,0,16,"Córdoba","Uso Libre","Navegación libre",1
+"Catriel","Trámites",22,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,3,"Río Negro","Trámites Nacionales","Validación de identidad",1
+"Catriel","Cultura y Entretenimiento",31,0,0,0,0,3,0,3,0,14,0,14,0,0,0,0,0,17,"Río Negro","Uso Libre","Uso libre de la consola de videojuegos",1
+"Fuerte Esperanza","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,4,"Chaco","Comunicación","",1
+"Fuerte Esperanza","Educación",16,3,0,2,1,5,3,2,0,4,1,3,0,0,0,0,0,12,"Chaco","Complementos de la educación formal","Otros",1
+"Fuerte Esperanza","Trámites",22,0,0,0,0,17,8,8,1,41,22,19,0,31,15,14,2,89,"Chaco","Trámites Nacionales","Certificado de Discapacidad",8
+"Fuerte Esperanza","Cultura y Entretenimiento",31,37,13,20,4,27,6,21,0,5,2,2,1,0,0,0,0,69,"Chaco","Uso Libre","Uso libre de la consola de videojuegos",3
+"Quitilipi II (El Palmar)","Alfabetización Digital",10,12,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,12,"Chaco","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Quitilipi II (El Palmar)","Trámites",22,0,0,0,0,32,17,15,0,126,76,50,0,40,22,18,0,198,"Chaco","Trámites Nacionales","ANSES",2
+"Quitilipi II (El Palmar)","Cultura y Entretenimiento",31,248,76,172,0,1,1,0,0,2,2,0,0,0,0,0,0,251,"Chaco","Actividad","Proyección de película (con debate)",2
+"Fray Mamerto Esquiú II","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Catamarca","Soporte","",1
+"Fray Mamerto Esquiú II","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,132,132,0,0,0,0,0,0,132,"Catamarca","Comunidad","Otros",1
+"Fray Mamerto Esquiú II","Cultura y Entretenimiento",31,24,24,0,0,108,0,108,0,0,0,0,0,0,0,0,0,132,"Catamarca","Uso Libre","Uso libre de la consola de videojuegos",1
+"Rinconada","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"Jujuy","Soporte","",2
+"Rinconada","Cultura y Entretenimiento",31,0,0,0,0,5,0,5,0,39,14,25,0,1,1,0,0,45,"Jujuy","Uso Libre","Navegación libre",2
+"Yavi","Capacitaciones PPD",34,45,25,20,0,38,20,18,0,30,16,14,0,0,0,0,0,113,"Jujuy","Soporte","",2
+"Barrios","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jujuy","Soporte","",2
+"Barrios","Alfabetización Digital",10,0,0,0,0,0,0,0,0,16,10,6,0,0,0,0,0,16,"Jujuy","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Chicoana","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"Salta","Comunicación","",1
+"Chicoana","Educación",16,0,0,0,0,0,0,0,0,42,42,0,0,0,0,0,0,42,"Salta","Complementos de la educación formal","Otros",1
+"Chicoana","Salud",19,0,0,0,0,0,0,0,0,245,145,100,0,0,0,0,0,245,"Salta","Salud","Gestión y prevención COVID",1
+"Chicoana","Trámites",22,0,0,0,0,0,0,0,0,12,4,8,0,0,0,0,0,12,"Salta","Trámites Municipales","MUNICIPIO",1
+"Chicoana","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,65,28,37,0,2,0,2,0,67,"Salta","Comunidad","Seguridad vial",5
+"Chicoana","Cultura y Entretenimiento",31,77,34,43,0,305,85,220,0,221,64,157,0,2,0,2,0,605,"Salta","Actividad","Proyección de película (con debate)",3
+"Caucete II (Villa Independencia)","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"San Juan","Contenidos","",1
+"Caucete II (Villa Independencia)","Alfabetización Digital",10,0,0,0,0,16,16,0,0,72,56,16,0,0,0,0,0,88,"San Juan","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Caucete II (Villa Independencia)","Trámites",22,0,0,0,0,33,21,12,0,23,16,7,0,0,0,0,0,56,"San Juan","Trámites Nacionales","Validación de identidad",1
+"Caucete II (Villa Independencia)","Cultura y Entretenimiento",31,294,117,177,0,425,87,338,0,60,0,60,0,0,0,0,0,779,"San Juan","Uso Libre","Uso libre de la consola de videojuegos",2
+"General Racedo","Educación",16,9,5,4,0,0,0,0,0,12,8,4,0,0,0,0,0,21,"Entre Ríos","Complementos de la educación formal","Otros",1
+"Villa María II","Trámites",22,0,0,0,0,0,0,0,0,3,2,1,0,11,6,5,0,14,"Córdoba","Trámites Nacionales","Otros",1
+"Villa María II","Generos y Diversidades",28,0,0,0,0,0,0,0,0,14,14,0,0,0,0,0,0,14,"Córdoba","Prevención de violencias","",1
+"Villa María II","Cultura y Entretenimiento",31,123,51,72,0,33,10,23,0,39,20,19,0,3,3,0,0,198,"Córdoba","Actividad","Proyección de película (con debate)",3
+"Esquel II","Alfabetización Digital",10,14,4,10,0,12,4,8,0,35,16,19,0,2,1,1,0,63,"Chubut","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Esquel II","Formación Laboral",13,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,"Chubut","Inserción al mundo laboral","Armado de CV",1
+"Esquel II","Educación",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chubut","Complementos de la educación formal","Terminá la Secundaria",1
+"Esquel II","Trámites",22,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,5,"Chubut","Trámites Municipales","MUNICIPIO",4
+"Esquel II","Cultura y Entretenimiento",31,24,9,15,0,12,3,9,0,2,1,1,0,0,0,0,0,38,"Chubut","Uso Libre","Navegación libre",2
+"Las Grutas","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"Río Negro","Comunicación","",1
+"Las Grutas","Trámites",22,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,4,"Río Negro","Trámites Nacionales","Validación de identidad",1
+"Las Grutas","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,43,20,23,0,0,0,0,0,43,"Río Negro","Comunidad","Seguridad vial",1
+"Delfín Gallo","Alfabetización Digital",10,0,0,0,0,62,26,36,0,89,65,24,0,0,0,0,0,151,"Tucumán","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Delfín Gallo","Cultura y Entretenimiento",31,174,87,87,0,0,0,0,0,0,0,0,0,0,0,0,0,174,"Tucumán","Actividad","Proyección de película (con debate)",3
+"La Banda","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,9,"Santiago del Estero","Soporte","",2
+"La Banda","Trámites",22,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,4,"Santiago del Estero","Trámites Nacionales","MiArgentina",1
+"La Banda","Ciudadanía y DD",25,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,5,"Santiago del Estero","Comunidad","Evento / Reunión",1
+"La Banda","Cultura y Entretenimiento",31,2,0,2,0,18,0,18,0,0,0,0,0,0,0,0,0,20,"Santiago del Estero","Uso Libre","Uso libre de la consola de videojuegos",2
+"Esquina","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,3,"Corrientes","Contenidos","",3
+"Esquina","Educación",16,0,0,0,0,7,5,2,0,21,13,8,0,0,0,0,0,28,"Corrientes","Complementos de la educación formal","Otros",2
+"Esquina","Cultura y Entretenimiento",31,4,2,2,0,42,25,17,0,34,10,24,0,8,4,4,0,88,"Corrientes","Uso Libre","Uso libre de la consola de videojuegos",5
+"Macachín","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"La Pampa","Soporte","",2
+"Macachín","Formación Laboral",13,0,0,0,0,0,0,0,0,38,15,23,0,0,0,0,0,38,"La Pampa","Oficios manuales","Manipulación de alimentos",1
+"Macachín","Cultura y Entretenimiento",31,250,119,131,0,29,17,12,0,37,19,18,0,9,5,4,0,325,"La Pampa","Uso Libre","Uso libre del espacio de microcine",3
+"Macachín","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,4,"La Pampa","Contenidos","",1
+"Florencio Varela","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,"Buenos Aires","Contenidos","",1
+"Florencio Varela","Trámites",22,0,0,0,0,3,3,0,0,54,39,15,0,0,0,0,0,57,"Buenos Aires","Trámites Nacionales","Validación de identidad",1
+"Lago Posadas","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,6,2,4,0,0,0,0,0,6,"Santa Cruz","Soporte","",2
+"Lago Posadas","Generos y Diversidades",28,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,2,"Santa Cruz","Educación Sexual Integral (ESI)","",1
+"Lago Posadas","Cultura y Entretenimiento",31,298,63,235,0,92,18,74,0,12,0,12,0,0,0,0,0,402,"Santa Cruz","Uso Libre","Uso libre del espacio de microcine",2
+"Río Gallegos III (Casa de la Juventud)","Cultura y Entretenimiento",31,0,0,0,0,27,12,15,0,32,20,12,0,0,0,0,0,59,"Santa Cruz","Artes digitales","Otros",1
+"Río Gallegos III (Casa de la Juventud)","Capacitaciones PPD",34,0,0,0,0,20,8,12,0,20,5,15,0,0,0,0,0,40,"Santa Cruz","Comunicación","",1
+"Zapala","Capacitaciones PPD",34,73,22,51,0,5,2,3,0,6,3,3,0,0,0,0,0,84,"Neuquén","Soporte","",3
+"Zapala","Formación Laboral",13,0,0,0,0,4,4,0,0,30,24,6,0,0,0,0,0,34,"Neuquén","Inserción al mundo laboral","Armado de CV",1
+"Zapala","Educación",16,110,48,62,0,0,0,0,0,6,5,1,0,2,2,0,0,118,"Neuquén","Complementos de la educación formal","Otros",2
+"Zapala","Trámites",22,0,0,0,0,0,0,0,0,8,7,1,0,0,0,0,0,8,"Neuquén","Trámites Nacionales","Otros",1
+"Villa del Carmen","Capacitaciones PPD",34,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,"San Luis","Soporte","",2
+"Villa del Carmen","Cultura y Entretenimiento",31,204,120,84,0,189,80,109,0,70,44,26,0,32,20,12,0,495,"San Luis","Uso Libre","Navegación libre",4
+"San José del Morro","Educación",16,0,0,0,0,5,3,2,0,10,5,5,0,3,1,2,0,18,"San Luis","Complementos de la educación formal","Otros",1
+"San José del Morro","Ciudadanía y DD",25,0,0,0,0,35,25,10,0,25,15,10,0,40,25,15,0,100,"San Luis","Comunidad","Otros",1
+"San José del Morro","Cultura y Entretenimiento",31,77,43,34,0,81,27,54,0,62,35,27,0,8,3,5,0,228,"San Luis","Actividad","Proyección de película (con debate)",3

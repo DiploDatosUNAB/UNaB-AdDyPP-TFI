@@ -1,0 +1,675 @@
+nombre_punto_digital,eje,eje_id,hasta_11,hasta_11_femenino,hasta_11_masculino,hasta_11_x,de_12_a_20,de_12_a_20_femenino,de_12_a_20_masculino,de_12_a_20_x,de_21_a_65,de_21_a_65_femenino,de_21_a_65_masculino,de_21_a_65_x,desde_65,desde_65_femenino,desde_65_masculino,desde_65_x,Totales,provincia,categoria,subcategoria,cantidad_actividad
+"Berisso I","Ciudadanía y DD",25,0,"","","",25,"","","",10,"","","",0,"","","",35,"Buenos Aires","Comunidad","Otros",1
+"Berisso I","Alfabetización Digital",10,0,"","","",25,"","","",0,"","","",0,"","","",25,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Berisso I","Trámites",22,0,"","","",0,"","","",60,"","","",0,"","","",60,"Buenos Aires","Trámites Nacionales","AFIP",3
+"Coronel Suárez I (Colonia Santa María)","Formación Laboral",13,0,"","","",0,"","","",8,"","","",1,"","","",9,"Buenos Aires","Oficios digitales","Otras",2
+"Coronel Suárez I (Colonia Santa María)","Educación",16,2,"","","",3,"","","",0,"","","",0,"","","",5,"Buenos Aires","Complementos de la educación formal","Otros",2
+"Coronel Suárez I (Colonia Santa María)","Trámites",22,0,"","","",0,"","","",35,"","","",2,"","","",37,"Buenos Aires","Trámites Nacionales","Otros",2
+"Coronel Suárez I (Colonia Santa María)","Cultura y Entretenimiento",31,0,"","","",18,"","","",31,"","","",3,"","","",52,"Buenos Aires","Artes","Otros",2
+"Coronel Suarez II (CTC)","Educación",16,0,"","","",1,"","","",14,"","","",0,"","","",15,"Buenos Aires","Complementos de la educación formal","Otros",1
+"Coronel Suarez II (CTC)","Cultura y Entretenimiento",31,0,"","","",0,"","","",29,"","","",0,"","","",29,"Buenos Aires","Artes","Otros",1
+"Dolores (CAJ)","Trámites",22,1,"","","",0,"","","",9,"","","",0,"","","",10,"Buenos Aires","Trámites Nacionales","Otros",5
+"Dolores (CAJ)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Artes","Otros",1
+"Luján","Alfabetización Digital",10,0,"","","",90,"","","",80,"","","",55,"","","",225,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Luján","Educación",16,20,"","","",30,"","","",0,"","","",0,"","","",50,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",2
+"Luján","Cultura y Entretenimiento",31,110,"","","",240,"","","",390,"","","",90,"","","",830,"Buenos Aires","Artes","Otros",12
+"Mar del Plata I (Polideportivo Las Heras)","Educación",16,0,"","","",0,"","","",15,"","","",0,"","","",15,"Buenos Aires","Complementos de la educación formal","FINES",1
+"Mar del Plata I (Polideportivo Las Heras)","Cultura y Entretenimiento",31,0,"","","",0,"","","",100,"","","",0,"","","",100,"Buenos Aires","Artes","Otros",1
+"Marcos Paz I (CIC)","Ciudadanía y DD",25,0,"","","",5,"","","",5,"","","",0,"","","",10,"Buenos Aires","Comunidad","Otros",5
+"Marcos Paz I (CIC)","Alfabetización Digital",10,54,"","","",94,"","","",46,"","","",0,"","","",194,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",8
+"Marcos Paz I (CIC)","Formación Laboral",13,3,"","","",49,"","","",18,"","","",0,"","","",70,"Buenos Aires","Oficios digitales","Otras",2
+"Marcos Paz I (CIC)","Educación",16,1,"","","",15,"","","",0,"","","",0,"","","",16,"Buenos Aires","Complementos de la educación formal","Idiomas",1
+"Marcos Paz I (CIC)","Ciudadanía y DD",25,46,"","","",28,"","","",25,"","","",0,"","","",99,"Buenos Aires","Comunidad","Capacitación a agentes municipales",6
+"Marcos Paz I (CIC)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Artes","Otros",2
+"Marcos Paz II (UMI)","Ciudadanía y DD",25,0,"","","",7,"","","",7,"","","",0,"","","",14,"Buenos Aires","Comunidad","Otros",7
+"Marcos Paz II (UMI)","Alfabetización Digital",10,58,"","","",125,"","","",78,"","","",0,"","","",261,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",10
+"Marcos Paz II (UMI)","Educación",16,1,"","","",15,"","","",0,"","","",0,"","","",16,"Buenos Aires","Complementos de la educación formal","Idiomas",1
+"Marcos Paz II (UMI)","Ciudadanía y DD",25,46,"","","",8,"","","",0,"","","",0,"","","",54,"Buenos Aires","Comunidad","Otros",4
+"General Alvarado I (Miramar)","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Comunidad","Otros",1
+"General Alvarado I (Miramar)","Ciudadanía y DD",25,325,"","","",322,"","","",567,"","","",130,"","","",1344,"Buenos Aires","Comunidad","Otros",3
+"Urdampilleta","Ciudadanía y DD",25,0,"","","",0,"","","",5,"","","",0,"","","",5,"Buenos Aires","Comunidad","Otros",5
+"Urdampilleta","Trámites",22,0,"","","",0,"","","",19,"","","",10,"","","",29,"Buenos Aires","Trámites Nacionales","Otros",2
+"Villa Gesell","Trámites",22,0,"","","",71,"","","",320,"","","",15,"","","",406,"Buenos Aires","Trámites Nacionales","ANSES",1
+"Villa Gesell","Ciudadanía y DD",25,73,"","","",40,"","","",39,"","","",10,"","","",162,"Buenos Aires","Comunidad","Otros",1
+"Villa Gesell","Cultura y Entretenimiento",31,337,"","","",342,"","","",400,"","","",70,"","","",1149,"Buenos Aires","Artes","Otros",2
+"Azul","Ciudadanía y DD",25,0,"","","",31,"","","",92,"","","",0,"","","",123,"Buenos Aires","Comunidad","Otros",13
+"Azul","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Azul","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Programación",4
+"Azul","Salud",19,0,"","","",0,"","","",50,"","","",10,"","","",60,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Azul","Trámites",22,0,"","","",10,"","","",50,"","","",2,"","","",62,"Buenos Aires","Trámites Nacionales","Otros",2
+"Morón II (Castelar)","Ciudadanía y DD",25,0,"","","",0,"","","",16,"","","",10,"","","",26,"Buenos Aires","Comunidad","Otros",2
+"Morón II (Castelar)","Trámites",22,0,"","","",38,"","","",81,"","","",87,"","","",206,"Buenos Aires","Trámites Nacionales","AFIP",2
+"Morón II (Castelar)","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Comunidad","Capacitación a agentes municipales",1
+"Ezeiza","Alfabetización Digital",10,10,"","","",10,"","","",10,"","","",2,"","","",32,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Ezeiza","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Otras",1
+"Mar del Plata II (Inareps)","Alfabetización Digital",10,0,"","","",2,"","","",148,"","","",26,"","","",176,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Mar del Plata II (Inareps)","Formación Laboral",13,0,"","","",0,"","","",148,"","","",21,"","","",169,"Buenos Aires","Oficios manuales","Agricultura Orgánica",7
+"Mar del Plata II (Inareps)","Trámites",22,0,"","","",0,"","","",220,"","","",10,"","","",230,"Buenos Aires","Trámites Nacionales","Otros",1
+"Balcarce","Ciudadanía y DD",25,0,"","","",1,"","","",1,"","","",0,"","","",2,"Buenos Aires","Comunidad","Otros",1
+"Tres Lomas","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Tres Lomas","Educación",16,1,"","","",3,"","","",1,"","","",0,"","","",5,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",1
+"Tres Lomas","Trámites",22,0,"","","",45,"","","",138,"","","",45,"","","",228,"Buenos Aires","Trámites Nacionales","ANSES",2
+"Tres Lomas","Cultura y Entretenimiento",31,0,"","","",3,"","","",101,"","","",12,"","","",116,"Buenos Aires","Artes","Otros",2
+"Pehuajó","Ciudadanía y DD",25,0,"","","",34,"","","",134,"","","",14,"","","",182,"Buenos Aires","Comunidad","Otros",10
+"Pehuajó","Alfabetización Digital",10,20,"","","",80,"","","",0,"","","",0,"","","",100,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Pehuajó","Formación Laboral",13,0,"","","",15,"","","",0,"","","",0,"","","",15,"Buenos Aires","Oficios digitales","Otras",1
+"Pehuajó","Ciudadanía y DD",25,0,"","","",5,"","","",49,"","","",18,"","","",72,"Buenos Aires","Comunidad","Otros",2
+"Pehuajó","Cultura y Entretenimiento",31,0,"","","",0,"","","",62,"","","",0,"","","",62,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",3
+"Espacio de Memoria (Ex Esma)","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Ciudad Autónoma de Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Espacio de Memoria (Ex Esma)","Educación",16,0,"","","",30,"","","",70,"","","",0,"","","",100,"Ciudad Autónoma de Buenos Aires","Complementos de la educación formal","FINES",4
+"Espacio de Memoria (Ex Esma)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Ciudad Autónoma de Buenos Aires","Uso Libre","Navegación libre",1
+"Esquel","Ciudadanía y DD",25,0,"","","",0,"","","",223,"","","",0,"","","",223,"Chubut","Comunidad","Otros",11
+"Esquel","Educación",16,0,"","","",0,"","","",2,"","","",0,"","","",2,"Chubut","Complementos de la educación formal","Otros",1
+"Esquel","Cultura y Entretenimiento",31,0,"","","",0,"","","",10,"","","",0,"","","",10,"Chubut","Artes","Otros",1
+"Los Altares","Educación",16,0,"","","",3,"","","",12,"","","",1,"","","",16,"Chubut","Complementos de la educación formal","Otros",2
+"Los Altares","Trámites",22,0,"","","",0,"","","",7,"","","",2,"","","",9,"Chubut","Trámites Nacionales","Otros",1
+"Rawson (Chubut)","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Chubut","Comunidad","Otros",7
+"Río Mayo","Trámites",22,0,"","","",1,"","","",3,"","","",0,"","","",4,"Chubut","Trámites Nacionales","Otros",1
+"El Hoyo","Ciudadanía y DD",25,0,"","","",0,"","","",4,"","","",0,"","","",4,"Chubut","Comunidad","Otros",2
+"El Hoyo","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Chubut","Oficios digitales","Otras",1
+"El Hoyo","Trámites",22,0,"","","",0,"","","",1,"","","",0,"","","",1,"Chubut","Trámites Nacionales","AFIP",2
+"El Hoyo","Ciudadanía y DD",25,0,"","","",4,"","","",8,"","","",4,"","","",16,"Chubut","Comunidad","Otros",2
+"El Hoyo","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Chubut","Uso Libre","Navegación libre",1
+"Trevelin","Educación",16,0,"","","",0,"","","",6,"","","",0,"","","",6,"Chubut","Complementos de la educación formal","Videoconferencias formativas",1
+"Gaiman","Ciudadanía y DD",25,0,"","","",33,"","","",54,"","","",20,"","","",107,"Chubut","Comunidad","Otros",13
+"Gaiman","Trámites",22,0,"","","",27,"","","",45,"","","",19,"","","",91,"Chubut","Trámites Nacionales","Otros",4
+"Gaiman","Ciudadanía y DD",25,0,"","","",0,"","","",3,"","","",0,"","","",3,"Chubut","Comunidad","Capacitación a agentes municipales",1
+"Gaiman","Cultura y Entretenimiento",31,0,"","","",42,"","","",33,"","","",16,"","","",91,"Chubut","Uso Libre","Navegación libre",4
+"General San Martín (Chaco)","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Chaco","Oficios manuales","Peluquería",2
+"General San Martín (Chaco)","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Chaco","Complementos de la educación formal","Otros",4
+"General San Martín (Chaco)","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Chaco","Trámites Nacionales","Otros",1
+"Puerto Tirol","Ciudadanía y DD",25,0,"","","",4,"","","",17,"","","",0,"","","",21,"Chaco","Comunidad","Otros",5
+"Puerto Tirol","Alfabetización Digital",10,0,"","","",60,"","","",100,"","","",0,"","","",160,"Chaco","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Puerto Tirol","Cultura y Entretenimiento",31,0,"","","",160,"","","",130,"","","",0,"","","",290,"Chaco","Uso Libre","Navegación libre",2
+"Quitilipi","Ciudadanía y DD",25,0,"","","",53,"","","",64,"","","",10,"","","",127,"Chaco","Comunidad","Otros",12
+"Quitilipi","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Chaco","Oficios digitales","Otras",1
+"Quitilipi","Trámites",22,0,"","","",40,"","","",90,"","","",4,"","","",134,"Chaco","Trámites Nacionales","Otros",2
+"Quitilipi","Ciudadanía y DD",25,0,"","","",78,"","","",41,"","","",0,"","","",119,"Chaco","Comunidad","Capacitación a agentes municipales",7
+"Quitilipi","Cultura y Entretenimiento",31,0,"","","",10,"","","",50,"","","",0,"","","",60,"Chaco","Artes","Otros",1
+"Laguna Blanca (Chaco)","Ciudadanía y DD",25,52,"","","",136,"","","",356,"","","",82,"","","",626,"Chaco","Comunidad","Otros",3
+"Laguna Blanca (Chaco)","Cultura y Entretenimiento",31,18,"","","",58,"","","",86,"","","",42,"","","",204,"Chaco","Artes","Otros",1
+"Leones","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Comunidad","Otros",1
+"Monte Maíz","Educación",16,0,"","","",22,"","","",61,"","","",27,"","","",110,"Córdoba","Complementos de la educación formal","Otros",2
+"Monte Maíz","Trámites",22,0,"","","",57,"","","",198,"","","",58,"","","",313,"Córdoba","Trámites Nacionales","Otros",1
+"Morrison","Trámites",22,0,"","","",265,"","","",300,"","","",185,"","","",750,"Córdoba","Trámites Nacionales","ANSES",1
+"Morrison","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Uso Libre","Uso libre del espacio de microcine",1
+"Noetinger","Ciudadanía y DD",25,0,"","","",3,"","","",26,"","","",0,"","","",29,"Córdoba","Comunidad","Otros",5
+"Noetinger","Ciudadanía y DD",25,0,"","","",16,"","","",0,"","","",0,"","","",16,"Córdoba","Comunidad","Capacitación a agentes municipales",1
+"Pueblo Italiano","Ciudadanía y DD",25,0,"","","",0,"","","",14,"","","",4,"","","",18,"Córdoba","Comunidad","Otros",7
+"Pueblo Italiano","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Complementos de la educación formal","Apoyo escolar",1
+"Pueblo Italiano","Cultura y Entretenimiento",31,0,"","","",0,"","","",119,"","","",0,"","","",119,"Córdoba","Uso Libre","Uso libre del espacio de microcine",5
+"Villa Ascasubi","Ciudadanía y DD",25,0,"","","",0,"","","",1,"","","",0,"","","",1,"Córdoba","Comunidad","Otros",1
+"Villa Ascasubi","Trámites",22,0,"","","",18,"","","",28,"","","",10,"","","",56,"Córdoba","Trámites Nacionales","ANSES",1
+"Villa del Totoral","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Artes","Otros",1
+"Ciudad de Córdoba I (Campo de la Ribera)","Trámites",22,0,"","","",0,"","","",17,"","","",25,"","","",42,"Córdoba","Trámites Nacionales","Otros",1
+"La Posta","Educación",16,14,"","","",18,"","","",9,"","","",0,"","","",41,"Córdoba","Complementos de la educación formal","Otros",1
+"Idiázabal","Ciudadanía y DD",25,0,"","","",0,"","","",2,"","","",0,"","","",2,"Córdoba","Comunidad","Otros",3
+"Idiázabal","Trámites",22,0,"","","",0,"","","",150,"","","",80,"","","",230,"Córdoba","Trámites Nacionales","Otros",1
+"Idiázabal","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Uso Libre","Navegación libre",2
+"San Fernando del Valle II (SEPAVE)","Ciudadanía y DD",25,0,"","","",0,"","","",6,"","","",0,"","","",6,"Catamarca","Comunidad","Otros",1
+"San Fernando del Valle II (SEPAVE)","Alfabetización Digital",10,0,"","","",31,"","","",27,"","","",0,"","","",58,"Catamarca","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Tinogasta I","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Catamarca","Trámites Nacionales","ANSES",1
+"Tinogasta I","Cultura y Entretenimiento",31,2,"","","",13,"","","",66,"","","",0,"","","",81,"Catamarca","Uso Libre","Navegación libre",4
+"La Paz (Entre Ríos)","Ciudadanía y DD",25,0,"","","",0,"","","",10,"","","",0,"","","",10,"Entre Ríos","Comunidad","Otros",1
+"La Paz (Entre Ríos)","Ciudadanía y DD",25,0,"","","",0,"","","",50,"","","",30,"","","",80,"Entre Ríos","Comunidad","Capacitación a agentes municipales",1
+"Ciudad de Formosa I (Casa del Estudiante)","Ciudadanía y DD",25,0,"","","",0,"","","",178,"","","",0,"","","",178,"Formosa","Comunidad","Otros",3
+"Ciudad de Formosa I (Casa del Estudiante)","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Formosa","Complementos de la educación formal","Apoyo escolar",4
+"Ciudad de Formosa I (Casa del Estudiante)","Trámites",22,0,"","","",10,"","","",41,"","","",0,"","","",51,"Formosa","Trámites Nacionales","ANSES",2
+"Ciudad de Formosa I (Casa del Estudiante)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Formosa","Uso Libre","Uso libre del espacio de microcine",2
+"Herradura","Formación Laboral",13,0,"","","",26,"","","",90,"","","",14,"","","",130,"Formosa","Oficios digitales","Otras",2
+"Herradura","Trámites",22,0,"","","",48,"","","",184,"","","",42,"","","",274,"Formosa","Trámites Nacionales","ANSES",3
+"Herradura","Ciudadanía y DD",25,0,"","","",6,"","","",40,"","","",18,"","","",64,"Formosa","Comunidad","Otros",1
+"Herradura","Cultura y Entretenimiento",31,0,"","","",0,"","","",46,"","","",28,"","","",74,"Formosa","Artes","Otros",1
+"Palo Santo","Ciudadanía y DD",25,0,"","","",105,"","","",111,"","","",77,"","","",293,"Formosa","Comunidad","Otros",8
+"Perin","Alfabetización Digital",10,0,"","","",20,"","","",33,"","","",3,"","","",56,"Formosa","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Perin","Formación Laboral",13,0,"","","",10,"","","",15,"","","",1,"","","",26,"Formosa","Oficios manuales","Agricultura Orgánica",2
+"Perin","Educación",16,0,"","","",5,"","","",10,"","","",0,"","","",15,"Formosa","Complementos de la educación formal","Otros",2
+"Perin","Trámites",22,0,"","","",0,"","","",25,"","","",0,"","","",25,"Formosa","Trámites Nacionales","ANSES",3
+"Perin","Cultura y Entretenimiento",31,3,"","","",26,"","","",21,"","","",0,"","","",50,"Formosa","Artes","Otros",3
+"Clorinda","Ciudadanía y DD",25,0,"","","",2918,"","","",1948,"","","",485,"","","",5351,"Formosa","Comunidad","Otros",12
+"Clorinda","Trámites",22,0,"","","",25,"","","",35,"","","",40,"","","",100,"Formosa","Trámites Nacionales","ANSES",1
+"Palpalá I","Trámites",22,0,"","","",27,"","","",34,"","","",0,"","","",61,"Jujuy","Trámites Nacionales","Otros",1
+"Palpalá I","Cultura y Entretenimiento",31,0,"","","",8,"","","",12,"","","",0,"","","",20,"Jujuy","Uso Libre","Navegación libre",1
+"San Salvador de Jujuy I (Orígenes)","Formación Laboral",13,0,"","","",0,"","","",21,"","","",5,"","","",26,"Jujuy","Oficios digitales","Ventas por Internet",1
+"Yuto","Cultura y Entretenimiento",31,0,"","","",0,"","","",12,"","","",0,"","","",12,"Jujuy","Artes","Otros",2
+"Caimancito","Ciudadanía y DD",25,0,"","","",77,"","","",75,"","","",0,"","","",152,"Jujuy","Comunidad","Otros",11
+"Caimancito","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Jujuy","Alfabetización Digital","Alfabetización Digital Inicial",6
+"Ciudad de La Rioja I (Universidad para el Adulto Mayor)","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"La Rioja","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Ciudad de La Rioja I (Universidad para el Adulto Mayor)","Salud",19,0,"","","",0,"","","",0,"","","",0,"","","",0,"La Rioja","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Ciudad de La Rioja I (Universidad para el Adulto Mayor)","Trámites",22,0,"","","",0,"","","",10,"","","",1000,"","","",1010,"La Rioja","Trámites Nacionales","Otros",1
+"Malargüe","Alfabetización Digital",10,0,"","","",3,"","","",15,"","","",2,"","","",20,"Mendoza","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Malargüe","Educación",16,15,"","","",24,"","","",8,"","","",0,"","","",47,"Mendoza","Complementos de la educación formal","Otros",1
+"Capiovi","Trámites",22,0,"","","",23,"","","",335,"","","",15,"","","",373,"Misiones","Trámites Nacionales","ANSES",6
+"Posadas","Ciudadanía y DD",25,0,"","","",27,"","","",34,"","","",0,"","","",61,"Misiones","Comunidad","Otros",2
+"Posadas","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",7
+"Posadas","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Oficios digitales","Otras",1
+"Posadas","Trámites",22,0,"","","",104,"","","",66,"","","",0,"","","",170,"Misiones","Trámites Nacionales","Otros",1
+"Posadas","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Comunidad","Otros",1
+"Posadas","Cultura y Entretenimiento",31,0,"","","",28,"","","",54,"","","",0,"","","",82,"Misiones","Artes","Otros",7
+"Puerto Piray","Ciudadanía y DD",25,0,"","","",2,"","","",12,"","","",0,"","","",14,"Misiones","Comunidad","Otros",1
+"Puerto Piray","Alfabetización Digital",10,4,"","","",8,"","","",7,"","","",0,"","","",19,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Puerto Piray","Formación Laboral",13,6,"","","",8,"","","",9,"","","",0,"","","",23,"Misiones","Oficios digitales","Otras",1
+"Puerto Piray","Ciudadanía y DD",25,5,"","","",27,"","","",32,"","","",2,"","","",66,"Misiones","Comunidad","Capacitación a agentes municipales",3
+"Puerto Piray","Cultura y Entretenimiento",31,10,"","","",5,"","","",3,"","","",0,"","","",18,"Misiones","Artes","Otros",1
+"Loncopué","Ciudadanía y DD",25,0,"","","",0,"","","",3,"","","",0,"","","",3,"Neuquén","Comunidad","Otros",3
+"Rancul","Ciudadanía y DD",25,0,"","","",4,"","","",11,"","","",0,"","","",15,"La Pampa","Comunidad","Otros",2
+"Ceres","Ciudadanía y DD",25,0,"","","",10,"","","",176,"","","",203,"","","",389,"Santa Fe","Comunidad","Otros",13
+"Ceres","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Oficios digitales","Otras",1
+"Ceres","Trámites",22,15,"","","",14,"","","",14,"","","",18,"","","",61,"Santa Fe","Trámites Nacionales","ANSES",1
+"Comuna Emilia","Educación",16,0,"","","",0,"","","",9,"","","",0,"","","",9,"Santa Fe","Complementos de la educación formal","Otros",1
+"Comuna Emilia","Cultura y Entretenimiento",31,29,"","","",15,"","","",61,"","","",126,"","","",231,"Santa Fe","Uso Libre","Uso libre del espacio de microcine",8
+"El Trébol","Alfabetización Digital",10,0,"","","",4,"","","",28,"","","",4,"","","",36,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",2
+"El Trébol","Educación",16,0,"","","",0,"","","",18,"","","",0,"","","",18,"Santa Fe","Complementos de la educación formal","Otros",1
+"El Trébol","Trámites",22,0,"","","",5,"","","",52,"","","",67,"","","",124,"Santa Fe","Trámites Nacionales","Otros",1
+"El Trébol","Ciudadanía y DD",25,0,"","","",0,"","","",78,"","","",0,"","","",78,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"Esperanza","Ciudadanía y DD",25,0,"","","",0,"","","",15,"","","",0,"","","",15,"Santa Fe","Comunidad","Otros",2
+"Esperanza","Trámites",22,0,"","","",12,"","","",58,"","","",30,"","","",100,"Santa Fe","Trámites Nacionales","AFIP",3
+"Granadero Baigorria I","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Oficios digitales","Otras",1
+"Granadero Baigorria I","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Trámites Nacionales","ANSES",4
+"Granadero Baigorria I","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",12,"","","",12,"Santa Fe","Artes","Otros",3
+"Las Parejas","Alfabetización Digital",10,0,"","","",20,"","","",90,"","","",20,"","","",130,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Las Parejas","Educación",16,0,"","","",10,"","","",45,"","","",35,"","","",90,"Santa Fe","Complementos de la educación formal","Idiomas",3
+"Las Parejas","Ciudadanía y DD",25,0,"","","",50,"","","",30,"","","",10,"","","",90,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"Las Parejas","Cultura y Entretenimiento",31,0,"","","",40,"","","",20,"","","",0,"","","",60,"Santa Fe","Uso Libre","Navegación libre",1
+"Llambi Campbell","Ciudadanía y DD",25,0,"","","",0,"","","",1,"","","",0,"","","",1,"Santa Fe","Comunidad","Otros",1
+"Llambi Campbell","Trámites",22,0,"","","",41,"","","",35,"","","",0,"","","",76,"Santa Fe","Trámites Nacionales","ANSES",4
+"Llambi Campbell","Cultura y Entretenimiento",31,34,"","","",25,"","","",550,"","","",0,"","","",609,"Santa Fe","Artes","Otros",4
+"Puerto General San Martín","Ciudadanía y DD",25,0,"","","",6,"","","",33,"","","",12,"","","",51,"Santa Fe","Comunidad","Otros",13
+"Puerto General San Martín","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",16
+"Puerto General San Martín","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Trámites Nacionales","ANSES",3
+"Puerto General San Martín","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"Tostado","Ciudadanía y DD",25,0,"","","",21,"","","",95,"","","",0,"","","",116,"Santa Fe","Comunidad","Otros",13
+"Ybarlucea","Trámites",22,0,"","","",0,"","","",57,"","","",22,"","","",79,"Santa Fe","Trámites Nacionales","Otros",8
+"Ybarlucea","Cultura y Entretenimiento",31,0,"","","",0,"","","",30,"","","",7,"","","",37,"Santa Fe","Artes","Otros",3
+"Rosario III (Asociación Nazareth)","Ciudadanía y DD",25,0,"","","",8,"","","",12,"","","",0,"","","",20,"Santa Fe","Comunidad","Otros",2
+"Rosario III (Asociación Nazareth)","Formación Laboral",13,0,"","","",126,"","","",130,"","","",15,"","","",271,"Santa Fe","Oficios digitales","Otras",7
+"Rosario III (Asociación Nazareth)","Educación",16,0,"","","",20,"","","",19,"","","",2,"","","",41,"Santa Fe","Complementos de la educación formal","Otros",1
+"Villa Gobernador Gálvez","Ciudadanía y DD",25,0,"","","",4,"","","",27,"","","",0,"","","",31,"Santa Fe","Comunidad","Otros",6
+"Villa Gobernador Gálvez","Educación",16,0,"","","",3287,"","","",6015,"","","",0,"","","",9302,"Santa Fe","Complementos de la educación formal","Apoyo escolar",2
+"Villa Gobernador Gálvez","Trámites",22,0,"","","",2215,"","","",4626,"","","",0,"","","",6841,"Santa Fe","Trámites Nacionales","Otros",1
+"Villa Gobernador Gálvez","Ciudadanía y DD",25,0,"","","",3256,"","","",6020,"","","",0,"","","",9276,"Santa Fe","Comunidad","Otros",1
+"Ciudad de Santa Fe I (CAJ)","Ciudadanía y DD",25,0,"","","",103,"","","",122,"","","",48,"","","",273,"Santa Fe","Comunidad","Otros",11
+"Ciudad de Santa Fe I (CAJ)","Ciudadanía y DD",25,0,"","","",15,"","","",15,"","","",4,"","","",34,"Santa Fe","Comunidad","Otros",1
+"Ciudad de Santa Fe I (CAJ)","Cultura y Entretenimiento",31,0,"","","",35,"","","",43,"","","",22,"","","",100,"Santa Fe","Artes","Otros",2
+"25 de Mayo (San Juan)","Ciudadanía y DD",25,0,"","","",0,"","","",30,"","","",0,"","","",30,"San Juan","Comunidad","Otros",1
+"25 de Mayo (San Juan)","Trámites",22,0,"","","",30,"","","",250,"","","",150,"","","",430,"San Juan","Trámites Nacionales","ANSES",1
+"Media Agua","Ciudadanía y DD",25,0,"","","",79,"","","",195,"","","",6,"","","",280,"San Juan","Comunidad","Otros",13
+"Media Agua","Educación",16,0,"","","",8,"","","",19,"","","",0,"","","",27,"San Juan","Complementos de la educación formal","FINES",1
+"Ciudad de Salta II (Barrio Unión)","Ciudadanía y DD",25,0,"","","",0,"","","",11,"","","",0,"","","",11,"Salta","Comunidad","Otros",9
+"Ciudad de Salta II (Barrio Unión)","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Salta","Trámites Nacionales","ANSES",1
+"Ciudad de Salta II (Barrio Unión)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Salta","Uso Libre","Navegación libre",1
+"San Antonio de los Cobres I","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Salta","Comunidad","Otros",2
+"Ciudad de Salta IV (CIC Constitución)","Ciudadanía y DD",25,0,"","","",2,"","","",42,"","","",0,"","","",44,"Salta","Comunidad","Otros",12
+"Ciudad de Salta IV (CIC Constitución)","Educación",16,0,"","","",0,"","","",10,"","","",4,"","","",14,"Salta","Complementos de la educación formal","Apoyo escolar",1
+"Ciudad de Salta V (Penal de Castañares)","Formación Laboral",13,0,"","","",281,"","","",0,"","","",0,"","","",281,"Salta","Oficios digitales","Otras",2
+"Ciudad de Salta V (Penal de Castañares)","Educación",16,0,"","","",861,"","","",0,"","","",0,"","","",861,"Salta","Complementos de la educación formal","Otros",13
+"Pichanal","Trámites",22,0,"","","",1600,"","","",2800,"","","",620,"","","",5020,"Salta","Trámites Nacionales","Otros",1
+"San Antonio de los Cobres II (Olacapato)","Ciudadanía y DD",25,0,"","","",0,"","","",2,"","","",0,"","","",2,"Salta","Comunidad","Otros",1
+"San Antonio de los Cobres II (Olacapato)","Educación",16,0,"","","",8,"","","",12,"","","",0,"","","",20,"Salta","Complementos de la educación formal","Videoconferencias formativas",1
+"San Antonio de los Cobres II (Olacapato)","Cultura y Entretenimiento",31,0,"","","",0,"","","",10,"","","",0,"","","",10,"Salta","Artes","Otros",1
+"Piedra Buena I","Ciudadanía y DD",25,0,"","","",0,"","","",60,"","","",0,"","","",60,"Santa Cruz","Comunidad","Otros",10
+"Puerto San Julián","Ciudadanía y DD",25,0,"","","",25,"","","",94,"","","",0,"","","",119,"Santa Cruz","Comunidad","Otros",11
+"Las Heras (Santa Cruz)","Ciudadanía y DD",25,0,"","","",55,"","","",198,"","","",48,"","","",301,"Santa Cruz","Comunidad","Otros",7
+"Las Heras (Santa Cruz)","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Cruz","Oficios digitales","Otras",1
+"Las Heras (Santa Cruz)","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Cruz","Trámites Nacionales","Otros",1
+"Las Heras (Santa Cruz)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Cruz","Uso Libre","Uso libre del espacio de microcine",3
+"Río Gallegos I (Kunfi Quirós)","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Cruz","Oficios digitales","Otras",1
+"Río Gallegos I (Kunfi Quirós)","Educación",16,0,"","","",5,"","","",65,"","","",0,"","","",70,"Santa Cruz","Complementos de la educación formal","Otros",1
+"Río Gallegos I (Kunfi Quirós)","Trámites",22,0,"","","",0,"","","",30,"","","",0,"","","",30,"Santa Cruz","Trámites Nacionales","ANSES",2
+"Ushuaia","Ciudadanía y DD",25,0,"","","",27,"","","",84,"","","",23,"","","",134,"Tierra del Fuego","Comunidad","Otros",12
+"Ushuaia","Ciudadanía y DD",25,0,"","","",0,"","","",19,"","","",0,"","","",19,"Tierra del Fuego","Comunidad","Otros",1
+"San Miguel de Tucumán I (Ente Cultural)","Alfabetización Digital",10,0,"","","",34,"","","",41,"","","",0,"","","",75,"Tucumán","Alfabetización Digital","Alfabetización Digital Inicial",2
+"San Miguel de Tucumán I (Ente Cultural)","Trámites",22,0,"","","",4,"","","",16,"","","",0,"","","",20,"Tucumán","Trámites Nacionales","ANSES",1
+"Famaillá","Formación Laboral",13,0,"","","",18,"","","",18,"","","",0,"","","",36,"Tucumán","Oficios digitales","Otras",1
+"La Cocha","Ciudadanía y DD",25,0,"","","",0,"","","",30,"","","",0,"","","",30,"Tucumán","Comunidad","Otros",3
+"La Cocha","Educación",16,0,"","","",0,"","","",1,"","","",0,"","","",1,"Tucumán","Complementos de la educación formal","Videoconferencias formativas",1
+"La Cocha","Ciudadanía y DD",25,0,"","","",0,"","","",36,"","","",0,"","","",36,"Tucumán","Comunidad","Otros",4
+"Monteros I","Alfabetización Digital",10,0,"","","",10,"","","",35,"","","",0,"","","",45,"Tucumán","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Monteros II (CIC)","Formación Laboral",13,0,"","","",15,"","","",70,"","","",0,"","","",85,"Tucumán","Oficios digitales","Otras",2
+"Monteros II (CIC)","Trámites",22,0,"","","",150,"","","",300,"","","",50,"","","",500,"Tucumán","Trámites Nacionales","ANSES",1
+"Yerba Buena","Trámites",22,0,"","","",202,"","","",2367,"","","",569,"","","",3138,"Tucumán","Trámites Nacionales","ANSES",6
+"Yerba Buena","Ciudadanía y DD",25,0,"","","",20,"","","",180,"","","",0,"","","",200,"Tucumán","Comunidad","Otros",1
+"Yerba Buena","Cultura y Entretenimiento",31,0,"","","",0,"","","",187,"","","",45,"","","",232,"Tucumán","Artes","Otros",1
+"Pergamino","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Pergamino","Formación Laboral",13,0,"","","",0,"","","",8,"","","",0,"","","",8,"Buenos Aires","Oficios digitales","Otras",5
+"Pergamino","Educación",16,0,"","","",0,"","","",1,"","","",0,"","","",1,"Buenos Aires","Complementos de la educación formal","Otros",2
+"Pergamino","Trámites",22,0,"","","",0,"","","",16,"","","",0,"","","",16,"Buenos Aires","Trámites Nacionales","Otros",16
+"Pergamino","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Comunidad","Otros",2
+"Pergamino","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",5
+"Neuquén","Ciudadanía y DD",25,0,"","","",62,"","","",155,"","","",30,"","","",247,"Neuquén","Comunidad","Otros",13
+"Neuquén","Educación",16,0,"","","",506,"","","",1949,"","","",49,"","","",2504,"Neuquén","Complementos de la educación formal","Otros",3
+"Neuquén","Trámites",22,0,"","","",4,"","","",50,"","","",20,"","","",74,"Neuquén","Trámites Municipales","MUNICIPIO",1
+"San Salvador de Jujuy III (ISSP)","Alfabetización Digital",10,0,"","","",4,"","","",441,"","","",0,"","","",445,"Jujuy","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Monte Leña","Cultura y Entretenimiento",31,32,"","","",0,"","","",80,"","","",0,"","","",112,"Córdoba","Artes","Otros",2
+"San Salvador de Jujuy IV (Faro del Saber)","Ciudadanía y DD",25,0,"","","",0,"","","",130,"","","",0,"","","",130,"Jujuy","Comunidad","Otros",4
+"Ciudad de la Rioja III (CEPAR)","Ciudadanía y DD",25,0,"","","",10,"","","",75,"","","",0,"","","",85,"La Rioja","Comunidad","Capacitación a agentes municipales",3
+"Basavilbaso","Ciudadanía y DD",25,0,"","","",0,"","","",12,"","","",0,"","","",12,"Entre Ríos","Comunidad","Otros",12
+"Basavilbaso","Formación Laboral",13,0,"","","",0,"","","",16,"","","",0,"","","",16,"Entre Ríos","Oficios digitales","Otras",1
+"Basavilbaso","Educación",16,0,"","","",7,"","","",2,"","","",0,"","","",9,"Entre Ríos","Complementos de la educación formal","Apoyo escolar",2
+"Basavilbaso","Trámites",22,0,"","","",0,"","","",20,"","","",3,"","","",23,"Entre Ríos","Trámites Nacionales","Otros",1
+"Basavilbaso","Ciudadanía y DD",25,0,"","","",0,"","","",36,"","","",0,"","","",36,"Entre Ríos","Comunidad","Capacitación a agentes municipales",2
+"Basavilbaso","Cultura y Entretenimiento",31,0,"","","",0,"","","",32,"","","",0,"","","",32,"Entre Ríos","Uso Libre","Uso libre del espacio de microcine",4
+"Río Hondo I","Ciudadanía y DD",25,0,"","","",0,"","","",235,"","","",10,"","","",245,"Santiago del Estero","Comunidad","Otros",13
+"Coronel Suárez III (Huanguelen)","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",26,"","","",26,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Coronel Suárez III (Huanguelen)","Formación Laboral",13,0,"","","",0,"","","",15,"","","",3,"","","",18,"Buenos Aires","Oficios digitales","Otras",1
+"Coronel Suárez III (Huanguelen)","Ciudadanía y DD",25,0,"","","",0,"","","",8,"","","",0,"","","",8,"Buenos Aires","Comunidad","Capacitación a agentes municipales",1
+"Coronel Suárez III (Huanguelen)","Cultura y Entretenimiento",31,0,"","","",1,"","","",2,"","","",0,"","","",3,"Buenos Aires","Artes","Otros",1
+"Junin II","Ciudadanía y DD",25,0,"","","",0,"","","",20,"","","",0,"","","",20,"Buenos Aires","Comunidad","Otros",3
+"Junin II","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Junin II","Trámites",22,0,"","","",1,"","","",3,"","","",0,"","","",4,"Buenos Aires","Trámites Nacionales","AFIP",5
+"Junin II","Ciudadanía y DD",25,1,"","","",0,"","","",0,"","","",0,"","","",1,"Buenos Aires","Comunidad","Otros",4
+"Junin II","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Uso Libre","Navegación libre",7
+"Bahía Blanca I","Salud",19,0,"","","",0,"","","",320,"","","",0,"","","",320,"Buenos Aires","Salud","Telesalud",1
+"Rivadavia (San Juan)","Ciudadanía y DD",25,0,"","","",0,"","","",98,"","","",0,"","","",98,"San Juan","Comunidad","Otros",11
+"General Viamonte","Ciudadanía y DD",25,0,"","","",0,"","","",33,"","","",0,"","","",33,"Buenos Aires","Comunidad","Otros",3
+"General Viamonte","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"General Viamonte","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Otras",1
+"General Viamonte","Trámites",22,0,"","","",0,"","","",3,"","","",0,"","","",3,"Buenos Aires","Trámites Nacionales","ANSES",2
+"General Viamonte","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Uso Libre","Navegación libre",1
+"Ciudad de Mendoza I (Edificio Rama)","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Mendoza","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Ciudad de Mendoza I (Edificio Rama)","Educación",16,0,"","","",0,"","","",313,"","","",0,"","","",313,"Mendoza","Complementos de la educación formal","Otros",12
+"Ciudad de Mendoza I (Edificio Rama)","Ciudadanía y DD",25,0,"","","",0,"","","",23,"","","",0,"","","",23,"Mendoza","Comunidad","Capacitación a agentes municipales",1
+"San Carlos I (Chilecito, Mendoza)","Ciudadanía y DD",25,0,"","","",0,"","","",6,"","","",0,"","","",6,"Mendoza","Comunidad","Otros",3
+"San Carlos I (Chilecito, Mendoza)","Ciudadanía y DD",25,0,"","","",0,"","","",63,"","","",0,"","","",63,"Mendoza","Comunidad","Capacitación a agentes municipales",2
+"Lanús IV (NIDO Jardín)","Trámites",22,0,"","","",16,"","","",85,"","","",0,"","","",101,"Buenos Aires","Trámites Nacionales","Otros",1
+"Lanús IV (NIDO Jardín)","Ciudadanía y DD",25,0,"","","",33,"","","",0,"","","",0,"","","",33,"Buenos Aires","Comunidad","Otros",2
+"La Paz (Mendoza)","Formación Laboral",13,0,"","","",4,"","","",52,"","","",1,"","","",57,"Mendoza","Oficios digitales","Otras",1
+"Humahuaca I","Trámites",22,0,"","","",70,"","","",120,"","","",0,"","","",190,"Jujuy","Trámites Nacionales","ANSES",1
+"El Soberbio","Trámites",22,0,"","","",1128,"","","",1210,"","","",0,"","","",2338,"Misiones","Trámites Nacionales","ANSES",3
+"El Soberbio","Ciudadanía y DD",25,0,"","","",46,"","","",79,"","","",0,"","","",125,"Misiones","Comunidad","Capacitación a agentes municipales",4
+"El Soberbio","Cultura y Entretenimiento",31,0,"","","",58,"","","",167,"","","",0,"","","",225,"Misiones","Artes","Otros",5
+"General Lavalle","Trámites",22,0,"","","",0,"","","",23,"","","",25,"","","",48,"Buenos Aires","Trámites Nacionales","ANSES",3
+"Cipolletti","Ciudadanía y DD",25,0,"","","",0,"","","",30,"","","",0,"","","",30,"Río Negro","Comunidad","Otros",2
+"Rosario de Lerma","Ciudadanía y DD",25,0,"","","",0,"","","",8,"","","",0,"","","",8,"Salta","Comunidad","Otros",1
+"Rosario de Lerma","Trámites",22,0,"","","",5,"","","",12,"","","",0,"","","",17,"Salta","Trámites Nacionales","ANSES",1
+"Rosario de Lerma","Ciudadanía y DD",25,0,"","","",183,"","","",143,"","","",4,"","","",330,"Salta","Comunidad","Capacitación a agentes municipales",3
+"Rosario de Lerma","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Salta","Uso Libre","Navegación libre",1
+"El Carril","Ciudadanía y DD",25,0,"","","",0,"","","",84,"","","",0,"","","",84,"Salta","Comunidad","Otros",8
+"El Carril","Alfabetización Digital",10,0,"","","",6,"","","",10,"","","",0,"","","",16,"Salta","Alfabetización Digital","Alfabetización Digital Inicial",10
+"El Carril","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Salta","Oficios digitales","Otras",3
+"El Carril","Educación",16,0,"","","",4,"","","",20,"","","",0,"","","",24,"Salta","Complementos de la educación formal","Apoyo escolar",1
+"El Carril","Trámites",22,0,"","","",280,"","","",1260,"","","",70,"","","",1610,"Salta","Trámites Nacionales","ANSES",2
+"El Carril","Cultura y Entretenimiento",31,0,"","","",40,"","","",60,"","","",0,"","","",100,"Salta","Uso Libre","Navegación libre",1
+"Viedma I","Alfabetización Digital",10,8,"","","",61,"","","",217,"","","",1,"","","",287,"Río Negro","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Doblas","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"La Pampa","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Doblas","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"La Pampa","Comunidad","Otros",1
+"Comuna Luis Palacios","Ciudadanía y DD",25,0,"","","",8,"","","",36,"","","",2,"","","",46,"Santa Fe","Comunidad","Otros",4
+"Comuna Luis Palacios","Formación Laboral",13,0,"","","",27,"","","",17,"","","",4,"","","",48,"Santa Fe","Oficios digitales","Otras",3
+"Comuna Luis Palacios","Ciudadanía y DD",25,0,"","","",0,"","","",23,"","","",3,"","","",26,"Santa Fe","Comunidad","Otros",1
+"Comuna Luis Palacios","Cultura y Entretenimiento",31,157,"","","",69,"","","",37,"","","",1,"","","",264,"Santa Fe","Artes","Otros",5
+"Puan I","Ciudadanía y DD",25,0,"","","",6,"","","",40,"","","",0,"","","",46,"Buenos Aires","Comunidad","Otros",12
+"Puan I","Educación",16,38,"","","",53,"","","",40,"","","",0,"","","",131,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",6
+"Puan I","Trámites",22,0,"","","",7,"","","",41,"","","",8,"","","",56,"Buenos Aires","Trámites Nacionales","Otros",3
+"Tolhuin","Ciudadanía y DD",25,0,"","","",4,"","","",15,"","","",2,"","","",21,"Tierra del Fuego","Comunidad","Otros",9
+"El Puestito","Formación Laboral",13,0,"","","",0,"","","",10,"","","",5,"","","",15,"Tucumán","Oficios digitales","Otras",1
+"El Puestito","Educación",16,30,"","","",25,"","","",13,"","","",0,"","","",68,"Tucumán","Complementos de la educación formal","Otros",3
+"El Puestito","Trámites",22,120,"","","",250,"","","",210,"","","",100,"","","",680,"Tucumán","Trámites Nacionales","Otros",1
+"Rauch","Educación",16,5,"","","",2,"","","",0,"","","",0,"","","",7,"Buenos Aires","Complementos de la educación formal","Otros",1
+"Rauch","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Artes","Otros",1
+"Palma Sola","Trámites",22,0,"","","",254,"","","",370,"","","",75,"","","",699,"Jujuy","Trámites Nacionales","ANSES",4
+"Palma Sola","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Jujuy","Comunidad","Capacitación a agentes municipales",1
+"Famatina I","Trámites",22,0,"","","",52,"","","",132,"","","",96,"","","",280,"La Rioja","Trámites Nacionales","ANSES",1
+"Rufino","Ciudadanía y DD",25,1,"","","",23,"","","",93,"","","",1,"","","",118,"Santa Fe","Comunidad","Otros",7
+"Rufino","Educación",16,0,"","","",15,"","","",30,"","","",0,"","","",45,"Santa Fe","Complementos de la educación formal","Videoconferencias formativas",1
+"Rufino","Trámites",22,0,"","","",71,"","","",123,"","","",41,"","","",235,"Santa Fe","Trámites Nacionales","Otros",6
+"Rufino","Ciudadanía y DD",25,0,"","","",0,"","","",8,"","","",0,"","","",8,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"San Vicente (Santa Fe)","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Comunidad","Otros",10
+"San Vicente (Santa Fe)","Trámites",22,0,"","","",3,"","","",45,"","","",21,"","","",69,"Santa Fe","Trámites Nacionales","ANSES",1
+"San Vicente (Santa Fe)","Ciudadanía y DD",25,0,"","","",0,"","","",105,"","","",145,"","","",250,"Santa Fe","Comunidad","Otros",2
+"San Vicente (Santa Fe)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Uso Libre","Uso libre del espacio de microcine",2
+"Cayastá","Trámites",22,0,"","","",8,"","","",27,"","","",5,"","","",40,"Santa Fe","Trámites Nacionales","ANSES",1
+"San Carlos Centro (Santa Fe)","Ciudadanía y DD",25,0,"","","",3,"","","",27,"","","",5,"","","",35,"Santa Fe","Comunidad","Otros",11
+"San Carlos Centro (Santa Fe)","Alfabetización Digital",10,0,"","","",0,"","","",2,"","","",0,"","","",2,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Carlos Centro (Santa Fe)","Formación Laboral",13,0,"","","",5,"","","",99,"","","",0,"","","",104,"Santa Fe","Oficios digitales","Otras",3
+"San Carlos Centro (Santa Fe)","Educación",16,0,"","","",0,"","","",61,"","","",0,"","","",61,"Santa Fe","Complementos de la educación formal","Otros",2
+"Centeno","Ciudadanía y DD",25,0,"","","",30,"","","",20,"","","",5,"","","",55,"Santa Fe","Comunidad","Otros",2
+"Centeno","Cultura y Entretenimiento",31,0,"","","",0,"","","",100,"","","",10,"","","",110,"Santa Fe","Artes","Otros",1
+"San Justo","Trámites",22,0,"","","",3,"","","",12,"","","",0,"","","",15,"Santa Fe","Trámites Nacionales","Otros",1
+"San Justo","Cultura y Entretenimiento",31,0,"","","",2,"","","",4,"","","",0,"","","",6,"Santa Fe","Uso Libre","Uso libre del espacio de microcine",2
+"Murphy","Ciudadanía y DD",25,0,"","","",25,"","","",4,"","","",0,"","","",29,"Santa Fe","Comunidad","Otros",2
+"Murphy","Trámites",22,0,"","","",54,"","","",420,"","","",17,"","","",491,"Santa Fe","Trámites Municipales","MUNICIPIO",2
+"Laguna Paiva","Ciudadanía y DD",25,0,"","","",0,"","","",342,"","","",0,"","","",342,"Santa Fe","Comunidad","Otros",6
+"Laguna Paiva","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",7
+"Laguna Paiva","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Trámites Nacionales","ANSES",2
+"Laguna Paiva","Ciudadanía y DD",25,0,"","","",0,"","","",8,"","","",0,"","","",8,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"Laguna Paiva","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Uso Libre","Navegación libre",1
+"Hernando","Ciudadanía y DD",25,0,"","","",15,"","","",107,"","","",115,"","","",237,"Córdoba","Comunidad","Otros",12
+"Estación Juárez Celman","Ciudadanía y DD",25,0,"","","",20,"","","",35,"","","",0,"","","",55,"Córdoba","Comunidad","Otros",4
+"Estación Juárez Celman","Formación Laboral",13,25,"","","",595,"","","",685,"","","",70,"","","",1375,"Córdoba","Oficios manuales","Electricidad",11
+"Estación Juárez Celman","Educación",16,0,"","","",150,"","","",150,"","","",0,"","","",300,"Córdoba","Complementos de la educación formal","Idiomas",2
+"Estación Juárez Celman","Trámites",22,0,"","","",120,"","","",200,"","","",0,"","","",320,"Córdoba","Trámites Nacionales","ANSES",2
+"Estación Juárez Celman","Ciudadanía y DD",25,0,"","","",162,"","","",135,"","","",0,"","","",297,"Córdoba","Comunidad","Capacitación a agentes municipales",3
+"Río Primero","Ciudadanía y DD",25,0,"","","",8,"","","",27,"","","",0,"","","",35,"Córdoba","Comunidad","Otros",7
+"Río Primero","Formación Laboral",13,0,"","","",3,"","","",67,"","","",0,"","","",70,"Córdoba","Oficios digitales","Otras",2
+"Río Primero","Trámites",22,0,"","","",10,"","","",180,"","","",0,"","","",190,"Córdoba","Trámites Nacionales","ANSES",4
+"Río Primero","Ciudadanía y DD",25,0,"","","",0,"","","",12,"","","",0,"","","",12,"Córdoba","Comunidad","Capacitación a agentes municipales",1
+"Monte Cristo","Trámites",22,0,"","","",350,"","","",1350,"","","",248,"","","",1948,"Córdoba","Trámites Nacionales","Otros",1
+"Monte Cristo","Cultura y Entretenimiento",31,0,"","","",0,"","","",310,"","","",0,"","","",310,"Córdoba","Artes","Otros",2
+"Morteros","Ciudadanía y DD",25,0,"","","",0,"","","",71,"","","",33,"","","",104,"Córdoba","Comunidad","Otros",12
+"Morteros","Ciudadanía y DD",25,0,"","","",0,"","","",8,"","","",0,"","","",8,"Córdoba","Comunidad","Capacitación a agentes municipales",1
+"Mburucuyá","Ciudadanía y DD",25,0,"","","",0,"","","",3,"","","",0,"","","",3,"Corrientes","Comunidad","Otros",2
+"Mburucuyá","Trámites",22,0,"","","",27,"","","",62,"","","",2,"","","",91,"Corrientes","Trámites Nacionales","ANSES",1
+"Mburucuyá","Ciudadanía y DD",25,0,"","","",0,"","","",12,"","","",0,"","","",12,"Corrientes","Comunidad","Otros",1
+"Mburucuyá","Cultura y Entretenimiento",31,128,"","","",73,"","","",21,"","","",0,"","","",222,"Corrientes","Artes","Otros",2
+"Riachuelo","Ciudadanía y DD",25,0,"","","",4,"","","",18,"","","",0,"","","",22,"Corrientes","Comunidad","Otros",2
+"Riachuelo","Trámites",22,0,"","","",15,"","","",105,"","","",21,"","","",141,"Corrientes","Trámites Municipales","MUNICIPIO",2
+"Riachuelo","Ciudadanía y DD",25,0,"","","",10,"","","",30,"","","",11,"","","",51,"Corrientes","Comunidad","Capacitación a agentes municipales",2
+"Arroyito","Trámites",22,0,"","","",16,"","","",122,"","","",46,"","","",184,"Córdoba","Trámites Nacionales","PAMI",3
+"Arroyito","Cultura y Entretenimiento",31,0,"","","",2,"","","",6,"","","",0,"","","",8,"Córdoba","Uso Libre","Navegación libre",1
+"La Cruz","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Comunidad","Otros",1
+"La Cruz","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Trámites Nacionales","ANSES",2
+"La Cruz","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Uso Libre","Navegación libre",3
+"Villa San Isidro","Ciudadanía y DD",25,0,"","","",2,"","","",13,"","","",14,"","","",29,"Córdoba","Comunidad","Otros",4
+"Villa San Isidro","Trámites",22,6,"","","",5,"","","",36,"","","",2,"","","",49,"Córdoba","Trámites Nacionales","Otros",1
+"Villa San Isidro","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Artes","Otros",6
+"Ramallo","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Artes","Otros",1
+"General Villegas I","Ciudadanía y DD",25,0,"","","",0,"","","",89,"","","",4,"","","",93,"Buenos Aires","Comunidad","Otros",12
+"General Villegas I","Alfabetización Digital",10,0,"","","",10,"","","",50,"","","",10,"","","",70,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"General Villegas I","Formación Laboral",13,10,"","","",30,"","","",250,"","","",60,"","","",350,"Buenos Aires","Oficios digitales","Otras",4
+"General Villegas I","Ciudadanía y DD",25,50,"","","",30,"","","",430,"","","",5,"","","",515,"Buenos Aires","Comunidad","Capacitación a agentes municipales",2
+"General Villegas I","Cultura y Entretenimiento",31,0,"","","",0,"","","",430,"","","",50,"","","",480,"Buenos Aires","Uso Libre","Navegación libre",3
+"San Miguel del Monte","Ciudadanía y DD",25,30,"","","",410,"","","",390,"","","",120,"","","",950,"Buenos Aires","Comunidad","Otros",13
+"San Miguel del Monte","Alfabetización Digital",10,40,"","","",40,"","","",40,"","","",40,"","","",160,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Miguel del Monte","Formación Laboral",13,0,"","","",0,"","","",50,"","","",0,"","","",50,"Buenos Aires","Oficios digitales","Otras",1
+"Las Flores II","Alfabetización Digital",10,0,"","","",4,"","","",82,"","","",0,"","","",86,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Las Flores II","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Otras",2
+"Las Flores II","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Complementos de la educación formal","Otros",1
+"Las Flores II","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Trámites Nacionales","ANSES",3
+"Las Flores II","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Comunidad","Capacitación a agentes municipales",1
+"Las Flores II","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Uso Libre","Navegación libre",1
+"Laborde","Trámites",22,0,"","","",9,"","","",60,"","","",7,"","","",76,"Córdoba","Trámites Nacionales","Otros",1
+"Laborde","Cultura y Entretenimiento",31,0,"","","",0,"","","",43,"","","",0,"","","",43,"Córdoba","Uso Libre","Navegación libre",3
+"Villarino","Ciudadanía y DD",25,0,"","","",11,"","","",10,"","","",0,"","","",21,"Buenos Aires","Comunidad","Otros",4
+"Villarino","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Villarino","Trámites",22,0,"","","",4,"","","",31,"","","",0,"","","",35,"Buenos Aires","Trámites Nacionales","Otros",1
+"Villarino","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Uso Libre","Navegación libre",1
+"Leandro N. Alem I (Vedia)","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Comunidad","Otros",1
+"Leandro N. Alem I (Vedia)","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Otras",2
+"Leandro N. Alem I (Vedia)","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",1
+"Leandro N. Alem I (Vedia)","Salud",19,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",1
+"Leandro N. Alem I (Vedia)","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Trámites Nacionales","ANSES",1
+"Leandro N. Alem I (Vedia)","Ciudadanía y DD",25,0,"","","",0,"","","",28,"","","",0,"","","",28,"Buenos Aires","Comunidad","Otros",2
+"Leandro N. Alem I (Vedia)","Cultura y Entretenimiento",31,0,"","","",0,"","","",312,"","","",0,"","","",312,"Buenos Aires","Uso Libre","Navegación libre",6
+"Bella Vista (Tucumán)","Ciudadanía y DD",25,0,"","","",1,"","","",75,"","","",0,"","","",76,"Tucumán","Comunidad","Otros",12
+"Bella Vista (Tucumán)","Cultura y Entretenimiento",31,1,"","","",0,"","","",7,"","","",0,"","","",8,"Tucumán","Uso Libre","Navegación libre",1
+"Río Colorado","Ciudadanía y DD",25,0,"","","",0,"","","",4,"","","",0,"","","",4,"Río Negro","Comunidad","Otros",9
+"Río Colorado","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Río Negro","Uso Libre","Navegación libre",1
+"Cintra","Ciudadanía y DD",25,0,"","","",0,"","","",5,"","","",2,"","","",7,"Córdoba","Comunidad","Otros",5
+"Crespo","Ciudadanía y DD",25,0,"","","",0,"","","",25,"","","",0,"","","",25,"Entre Ríos","Comunidad","Otros",3
+"Crespo","Alfabetización Digital",10,0,"","","",0,"","","",105,"","","",0,"","","",105,"Entre Ríos","Alfabetización Digital","Alfabetización Digital Inicial",4
+"La Quiaca I","Cultura y Entretenimiento",31,0,"","","",3,"","","",17,"","","",0,"","","",20,"Jujuy","Uso Libre","Navegación libre",1
+"Anguil","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"La Pampa","Oficios digitales","Otras",1
+"Laboulaye","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Laboulaye","Formación Laboral",13,0,"","","",8,"","","",24,"","","",0,"","","",32,"Córdoba","Oficios digitales","Otras",1
+"Laboulaye","Educación",16,0,"","","",0,"","","",12,"","","",0,"","","",12,"Córdoba","Complementos de la educación formal","Otros",1
+"Laboulaye","Ciudadanía y DD",25,0,"","","",12,"","","",68,"","","",0,"","","",80,"Córdoba","Comunidad","Otros",1
+"Laboulaye","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Artes","Otros",1
+"General Alvear","Ciudadanía y DD",25,0,"","","",0,"","","",48,"","","",0,"","","",48,"Mendoza","Comunidad","Capacitación a agentes municipales",6
+"Banda del Río Salí I","Ciudadanía y DD",25,0,"","","",8,"","","",118,"","","",0,"","","",126,"Tucumán","Comunidad","Otros",7
+"Banda del Río Salí I","Educación",16,0,"","","",4,"","","",90,"","","",5,"","","",99,"Tucumán","Complementos de la educación formal","Otros",4
+"San Javier (Misiones)","Ciudadanía y DD",25,0,"","","",67,"","","",35,"","","",10,"","","",112,"Misiones","Comunidad","Otros",1
+"San Javier (Misiones)","Alfabetización Digital",10,0,"","","",80,"","","",80,"","","",20,"","","",180,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"San Javier (Misiones)","Trámites",22,0,"","","",55,"","","",112,"","","",0,"","","",167,"Misiones","Trámites Nacionales","Otros",1
+"San Javier (Misiones)","Ciudadanía y DD",25,0,"","","",170,"","","",170,"","","",0,"","","",340,"Misiones","Comunidad","Capacitación a agentes municipales",5
+"Cote-Lai","Trámites",22,39,"","","",47,"","","",185,"","","",0,"","","",271,"Chaco","Trámites Nacionales","ANSES",4
+"Cote-Lai","Ciudadanía y DD",25,0,"","","",0,"","","",20,"","","",0,"","","",20,"Chaco","Comunidad","Otros",1
+"Caraguatay","Ciudadanía y DD",25,0,"","","",0,"","","",8,"","","",0,"","","",8,"Misiones","Comunidad","Otros",1
+"Caraguatay","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Caraguatay","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Oficios digitales","Otras",1
+"Caraguatay","Educación",16,0,"","","",15,"","","",6,"","","",0,"","","",21,"Misiones","Complementos de la educación formal","Otros",3
+"Caraguatay","Trámites",22,48,"","","",110,"","","",364,"","","",8,"","","",530,"Misiones","Trámites Nacionales","Otros",6
+"Salto Encantado","Ciudadanía y DD",25,0,"","","",0,"","","",7,"","","",0,"","","",7,"Misiones","Comunidad","Otros",1
+"Salto Encantado","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Salto Encantado","Formación Laboral",13,0,"","","",2,"","","",6,"","","",0,"","","",8,"Misiones","Oficios digitales","Otras",1
+"Salto Encantado","Educación",16,0,"","","",16,"","","",7,"","","",0,"","","",23,"Misiones","Complementos de la educación formal","Otros",3
+"Salto Encantado","Trámites",22,0,"","","",192,"","","",1180,"","","",80,"","","",1452,"Misiones","Trámites Nacionales","PAMI",4
+"Salto Encantado","Cultura y Entretenimiento",31,0,"","","",7,"","","",38,"","","",16,"","","",61,"Misiones","Artes","Otros",5
+"Mar del Plata III (Polideportivo Libertad)","Formación Laboral",13,0,"","","",0,"","","",21,"","","",0,"","","",21,"Buenos Aires","Oficios digitales","Otras",1
+"Mar del Plata III (Polideportivo Libertad)","Ciudadanía y DD",25,0,"","","",0,"","","",29,"","","",0,"","","",29,"Buenos Aires","Comunidad","Capacitación a agentes municipales",1
+"San Nicolás de los Arroyos I","Ciudadanía y DD",25,0,"","","",800,"","","",600,"","","",100,"","","",1500,"Buenos Aires","Comunidad","Capacitación a agentes municipales",1
+"San Nicolás de los Arroyos I","Cultura y Entretenimiento",31,0,"","","",0,"","","",7370,"","","",90,"","","",7460,"Buenos Aires","Uso Libre","Navegación libre",4
+"Estancia Vieja","Trámites",22,0,"","","",3,"","","",16,"","","",0,"","","",19,"Córdoba","Trámites Nacionales","Otros",1
+"Estancia Vieja","Cultura y Entretenimiento",31,0,"","","",3,"","","",49,"","","",2,"","","",54,"Córdoba","Artes","Otros",2
+"Villa de Soto","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Oficios digitales","Otras",1
+"Villa de Soto","Educación",16,15,"","","",0,"","","",0,"","","",0,"","","",15,"Córdoba","Complementos de la educación formal","Apoyo escolar",1
+"Villa de Soto","Cultura y Entretenimiento",31,0,"","","",2,"","","",16,"","","",5,"","","",23,"Córdoba","Uso Libre","Navegación libre",2
+"Ticino","Ciudadanía y DD",25,0,"","","",1,"","","",9,"","","",0,"","","",10,"Córdoba","Comunidad","Otros",4
+"Ticino","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Oficios digitales","Otras",1
+"San Andrés de Giles II","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",2
+"San Andrés de Giles II","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",3
+"San Andrés de Giles II","Cultura y Entretenimiento",31,15,"","","",30,"","","",78,"","","",0,"","","",123,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",5
+"Villa Paranacito","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Entre Ríos","Uso Libre","Uso libre del espacio de microcine",3
+"Saladillo","Ciudadanía y DD",25,0,"","","",0,"","","",16,"","","",0,"","","",16,"Buenos Aires","Comunidad","Otros",4
+"Saladillo","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Saladillo","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Programación",2
+"Suipacha (Buenos Aires)","Ciudadanía y DD",25,0,"","","",0,"","","",130,"","","",0,"","","",130,"Buenos Aires","Comunidad","Otros",13
+"Suipacha (Buenos Aires)","Alfabetización Digital",10,0,"","","",0,"","","",6,"","","",0,"","","",6,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Suipacha (Buenos Aires)","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Otras",2
+"Suipacha (Buenos Aires)","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Complementos de la educación formal","Otros",2
+"Suipacha (Buenos Aires)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Artes","Otros",2
+"Lobos","Ciudadanía y DD",25,0,"","","",0,"","","",22,"","","",0,"","","",22,"Buenos Aires","Comunidad","Otros",12
+"Lobos","Trámites",22,15,"","","",40,"","","",213,"","","",43,"","","",311,"Buenos Aires","Trámites Nacionales","Otros",1
+"Lincoln","Alfabetización Digital",10,0,"","","",15,"","","",40,"","","",35,"","","",90,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Lincoln","Formación Laboral",13,0,"","","",5,"","","",5,"","","",0,"","","",10,"Buenos Aires","Oficios digitales","Programación",5
+"Lincoln","Trámites",22,10,"","","",150,"","","",360,"","","",760,"","","",1280,"Buenos Aires","Trámites Nacionales","ANSES",5
+"San Martín (Mendoza)","Alfabetización Digital",10,0,"","","",8,"","","",230,"","","",8,"","","",246,"Mendoza","Alfabetización Digital","Alfabetización Digital Inicial",7
+"San Martín (Mendoza)","Salud",19,0,"","","",0,"","","",5,"","","",0,"","","",5,"Mendoza","Salud","Uso terapéutico del espacio de entretenimiento",1
+"San Martín (Mendoza)","Ciudadanía y DD",25,0,"","","",0,"","","",73,"","","",0,"","","",73,"Mendoza","Comunidad","Capacitación a agentes municipales",7
+"San Martín (Mendoza)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Mendoza","Uso Libre","Uso libre del espacio de microcine",2
+"Bragado","Ciudadanía y DD",25,0,"","","",0,"","","",14,"","","",0,"","","",14,"Buenos Aires","Comunidad","Otros",13
+"Bragado","Alfabetización Digital",10,0,"","","",0,"","","",5,"","","",0,"","","",5,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Bragado","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Otras",4
+"Bragado","Educación",16,0,"","","",0,"","","",1,"","","",0,"","","",1,"Buenos Aires","Complementos de la educación formal","Otros",2
+"Bragado","Trámites",22,0,"","","",7,"","","",21,"","","",0,"","","",28,"Buenos Aires","Trámites Nacionales","ANSES",10
+"Bragado","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Uso Libre","Navegación libre",1
+"Adolfo Alsina","Ciudadanía y DD",25,0,"","","",59,"","","",106,"","","",15,"","","",180,"Buenos Aires","Comunidad","Otros",9
+"Adolfo Alsina","Formación Laboral",13,0,"","","",0,"","","",30,"","","",5,"","","",35,"Buenos Aires","Oficios manuales","Peluquería",1
+"Adolfo Alsina","Educación",16,0,"","","",12,"","","",44,"","","",0,"","","",56,"Buenos Aires","Complementos de la educación formal","Idiomas",2
+"Adolfo Alsina","Cultura y Entretenimiento",31,7,"","","",18,"","","",30,"","","",15,"","","",70,"Buenos Aires","Uso Libre","Uso libre del espacio de microcine",1
+"Las Rosas","Ciudadanía y DD",25,0,"","","",45,"","","",50,"","","",0,"","","",95,"Santa Fe","Comunidad","Otros",5
+"Las Rosas","Trámites",22,0,"","","",0,"","","",1000,"","","",1000,"","","",2000,"Santa Fe","Trámites Nacionales","ANSES",2
+"Las Rosas","Ciudadanía y DD",25,0,"","","",10,"","","",350,"","","",350,"","","",710,"Santa Fe","Comunidad","Otros",2
+"Puan II (Darregueira)","Ciudadanía y DD",25,0,"","","",8,"","","",152,"","","",6,"","","",166,"Buenos Aires","Comunidad","Otros",13
+"Puan II (Darregueira)","Alfabetización Digital",10,7,"","","",13,"","","",59,"","","",22,"","","",101,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",3
+"Puan II (Darregueira)","Formación Laboral",13,206,"","","",196,"","","",202,"","","",22,"","","",626,"Buenos Aires","Oficios digitales","Otras",7
+"Puan II (Darregueira)","Educación",16,0,"","","",0,"","","",12,"","","",0,"","","",12,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",1
+"Puan II (Darregueira)","Trámites",22,0,"","","",20,"","","",39,"","","",2,"","","",61,"Buenos Aires","Trámites Nacionales","ANSES",7
+"Puan II (Darregueira)","Ciudadanía y DD",25,0,"","","",0,"","","",1,"","","",0,"","","",1,"Buenos Aires","Comunidad","Otros",1
+"Puan II (Darregueira)","Cultura y Entretenimiento",31,47,"","","",45,"","","",116,"","","",20,"","","",228,"Buenos Aires","Uso Libre","Navegación libre",12
+"La Punta","Ciudadanía y DD",25,0,"","","",0,"","","",26,"","","",0,"","","",26,"San Luis","Comunidad","Otros",13
+"La Punta","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"San Luis","Complementos de la educación formal","Otros",1
+"La Punta","Cultura y Entretenimiento",31,0,"","","",0,"","","",5,"","","",0,"","","",5,"San Luis","Artes","Otros",1
+"Santa Rosa de Conlara","Ciudadanía y DD",25,0,"","","",0,"","","",8,"","","",0,"","","",8,"San Luis","Comunidad","Otros",5
+"Santa Rosa de Conlara","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"San Luis","Comunidad","Otros",1
+"San Pedro de Jujuy","Trámites",22,0,"","","",20,"","","",150,"","","",15,"","","",185,"Jujuy","Trámites Nacionales","ANSES",1
+"Libertador General San Martín (Jujuy)","Ciudadanía y DD",25,0,"","","",12,"","","",21,"","","",6,"","","",39,"Jujuy","Comunidad","Otros",5
+"Libertador General San Martín (Jujuy)","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Jujuy","Artes","Otros",1
+"Rivadavia I","Alfabetización Digital",10,0,"","","",0,"","","",90,"","","",0,"","","",90,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Oberá","Ciudadanía y DD",25,0,"","","",0,"","","",6,"","","",0,"","","",6,"Misiones","Comunidad","Otros",4
+"Oberá","Alfabetización Digital",10,0,"","","",0,"","","",109,"","","",0,"","","",109,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Oberá","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Oficios digitales","Otras",1
+"Oberá","Trámites",22,0,"","","",0,"","","",334,"","","",4,"","","",338,"Misiones","Trámites Nacionales","AFIP",4
+"Oberá","Ciudadanía y DD",25,0,"","","",0,"","","",105,"","","",0,"","","",105,"Misiones","Comunidad","Otros",2
+"Oberá","Cultura y Entretenimiento",31,0,"","","",0,"","","",15,"","","",0,"","","",15,"Misiones","Uso Libre","Uso libre del espacio de microcine",2
+"San Isidro de Lules I  (San Rafael)","Cultura y Entretenimiento",31,0,"","","",10,"","","",9,"","","",0,"","","",19,"Tucumán","Artes","Otros",1
+"San Miguel de Tucumán VII (Chañaritos)","Ciudadanía y DD",25,0,"","","",18,"","","",15,"","","",2,"","","",35,"Tucumán","Comunidad","Otros",3
+"San Miguel de Tucumán VII (Chañaritos)","Alfabetización Digital",10,0,"","","",200,"","","",300,"","","",0,"","","",500,"Tucumán","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Firmat","Alfabetización Digital",10,0,"","","",0,"","","",5,"","","",6,"","","",11,"Santa Fe","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Firmat","Cultura y Entretenimiento",31,7,"","","",4,"","","",28,"","","",23,"","","",62,"Santa Fe","Artes","Otros",2
+"Maipú","Ciudadanía y DD",25,0,"","","",0,"","","",11,"","","",0,"","","",11,"Buenos Aires","Comunidad","Otros",10
+"Maipú","Trámites",22,0,"","","",0,"","","",6,"","","",0,"","","",6,"Buenos Aires","Trámites Nacionales","Otros",2
+"Maipú","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Uso Libre","Navegación libre",1
+"Fray Luis Beltrán","Ciudadanía y DD",25,8,"","","",85,"","","",100,"","","",48,"","","",241,"Santa Fe","Comunidad","Otros",13
+"Simoca","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Tucumán","Complementos de la educación formal","Apoyo escolar",1
+"Simoca","Trámites",22,0,"","","",9,"","","",4,"","","",0,"","","",13,"Tucumán","Trámites Nacionales","ANSES",3
+"Simoca","Cultura y Entretenimiento",31,0,"","","",20,"","","",2,"","","",0,"","","",22,"Tucumán","Uso Libre","Navegación libre",1
+"San Cosme (Corrientes)","Ciudadanía y DD",25,0,"","","",0,"","","",14,"","","",0,"","","",14,"Corrientes","Comunidad","Otros",5
+"San Cosme (Corrientes)","Alfabetización Digital",10,11,"","","",7,"","","",11,"","","",1,"","","",30,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",4
+"San Cosme (Corrientes)","Educación",16,8,"","","",2,"","","",10,"","","",0,"","","",20,"Corrientes","Complementos de la educación formal","Idiomas",1
+"San Cosme (Corrientes)","Cultura y Entretenimiento",31,3,"","","",4,"","","",3,"","","",0,"","","",10,"Corrientes","Artes","Otros",1
+"Ituzaingó (Corrientes)","Alfabetización Digital",10,0,"","","",7,"","","",18,"","","",0,"","","",25,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Ituzaingó (Corrientes)","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Corrientes","Trámites Nacionales","Otros",1
+"Ituzaingó (Corrientes)","Cultura y Entretenimiento",31,0,"","","",0,"","","",40,"","","",0,"","","",40,"Corrientes","Uso Libre","Navegación libre",3
+"Avellaneda (Santa Fe)","Ciudadanía y DD",25,0,"","","",0,"","","",5,"","","",0,"","","",5,"Santa Fe","Comunidad","Otros",2
+"Avellaneda (Santa Fe)","Educación",16,0,"","","",5,"","","",15,"","","",0,"","","",20,"Santa Fe","Complementos de la educación formal","Otros",1
+"Avellaneda (Santa Fe)","Ciudadanía y DD",25,0,"","","",15,"","","",370,"","","",8,"","","",393,"Santa Fe","Comunidad","Otros",2
+"Guaviraví","Ciudadanía y DD",25,3,"","","",8,"","","",2,"","","",0,"","","",13,"Corrientes","Comunidad","Otros",1
+"Guaviraví","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Guaviraví","Trámites",22,0,"","","",350,"","","",250,"","","",58,"","","",658,"Corrientes","Trámites Nacionales","ANSES",3
+"Guaviraví","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Corrientes","Uso Libre","Navegación libre",1
+"Aranguren","Trámites",22,0,"","","",0,"","","",13,"","","",0,"","","",13,"Entre Ríos","Trámites Nacionales","ANSES",1
+"Aranguren","Cultura y Entretenimiento",31,12,"","","",16,"","","",0,"","","",0,"","","",28,"Entre Ríos","Artes","Otros",1
+"San Carlos (Salta)","Ciudadanía y DD",25,0,"","","",33,"","","",26,"","","",0,"","","",59,"Salta","Comunidad","Otros",4
+"San Carlos (Salta)","Educación",16,0,"","","",65,"","","",117,"","","",0,"","","",182,"Salta","Complementos de la educación formal","Otros",1
+"San Carlos (Salta)","Trámites",22,0,"","","",76,"","","",159,"","","",0,"","","",235,"Salta","Trámites Nacionales","ANSES",1
+"San Carlos (Salta)","Ciudadanía y DD",25,0,"","","",0,"","","",9,"","","",0,"","","",9,"Salta","Comunidad","Capacitación a agentes municipales",1
+"San Carlos (Salta)","Cultura y Entretenimiento",31,12,"","","",19,"","","",35,"","","",0,"","","",66,"Salta","Uso Libre","Navegación libre",1
+"Coronel Moldes","Educación",16,0,"","","",28,"","","",41,"","","",1,"","","",70,"Salta","Complementos de la educación formal","Otros",1
+"Coronel Moldes","Trámites",22,0,"","","",15,"","","",19,"","","",5,"","","",39,"Salta","Trámites Nacionales","ANSES",1
+"Coronel Moldes","Cultura y Entretenimiento",31,0,"","","",35,"","","",38,"","","",14,"","","",87,"Salta","Uso Libre","Navegación libre",1
+"Ramona","Ciudadanía y DD",25,0,"","","",1,"","","",10,"","","",0,"","","",11,"Santa Fe","Comunidad","Otros",9
+"Ramona","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Oficios digitales","Otras",1
+"Ramona","Educación",16,13,"","","",22,"","","",4,"","","",0,"","","",39,"Santa Fe","Complementos de la educación formal","Apoyo escolar",1
+"Ramona","Trámites",22,0,"","","",3,"","","",12,"","","",1,"","","",16,"Santa Fe","Trámites Nacionales","ANSES",3
+"Ramona","Cultura y Entretenimiento",31,87,"","","",76,"","","",212,"","","",10,"","","",385,"Santa Fe","Artes","Otros",5
+"Santa Ana de los Guacaras","Ciudadanía y DD",25,3,"","","",112,"","","",28,"","","",4,"","","",147,"Corrientes","Comunidad","Otros",1
+"Santa Ana de los Guacaras","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Santa Ana de los Guacaras","Ciudadanía y DD",25,12,"","","",39,"","","",76,"","","",17,"","","",144,"Corrientes","Comunidad","Otros",1
+"Santa Ana de los Guacaras","Cultura y Entretenimiento",31,2,"","","",5,"","","",2,"","","",0,"","","",9,"Corrientes","Artes","Otros",1
+"Tandil II (Casa de la Juventud)","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",5
+"Tandil II (Casa de la Juventud)","Trámites",22,0,"","","",69,"","","",109,"","","",91,"","","",269,"Buenos Aires","Trámites Nacionales","Otros",2
+"Tandil II (Casa de la Juventud)","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Comunidad","Capacitación a agentes municipales",2
+"Tandil II (Casa de la Juventud)","Cultura y Entretenimiento",31,0,"","","",47,"","","",59,"","","",0,"","","",106,"Buenos Aires","Uso Libre","Navegación libre",8
+"Ubajay","Ciudadanía y DD",25,0,"","","",0,"","","",5,"","","",0,"","","",5,"Entre Ríos","Comunidad","Otros",1
+"Ubajay","Ciudadanía y DD",25,0,"","","",10,"","","",17,"","","",2,"","","",29,"Entre Ríos","Comunidad","Otros",1
+"Villa Clara","Ciudadanía y DD",25,0,"","","",1,"","","",12,"","","",1,"","","",14,"Entre Ríos","Comunidad","Otros",5
+"Villa Clara","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Entre Ríos","Oficios digitales","Otras",1
+"Villa Clara","Trámites",22,0,"","","",7,"","","",23,"","","",13,"","","",43,"Entre Ríos","Trámites Nacionales","Otros",1
+"Villa Clara","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Entre Ríos","Uso Libre","Navegación libre",2
+"Marcos Paz III (Centro)","Ciudadanía y DD",25,0,"","","",7,"","","",7,"","","",0,"","","",14,"Buenos Aires","Comunidad","Otros",7
+"Marcos Paz III (Centro)","Alfabetización Digital",10,36,"","","",91,"","","",64,"","","",0,"","","",191,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",7
+"Marcos Paz III (Centro)","Formación Laboral",13,14,"","","",74,"","","",14,"","","",0,"","","",102,"Buenos Aires","Oficios digitales","Otras",3
+"Marcos Paz III (Centro)","Ciudadanía y DD",25,46,"","","",28,"","","",12,"","","",0,"","","",86,"Buenos Aires","Comunidad","Otros",6
+"Puerto Ibicuy","Ciudadanía y DD",25,450,"","","",1000,"","","",1961,"","","",600,"","","",4011,"Entre Ríos","Comunidad","Otros",10
+"Puerto Ibicuy","Alfabetización Digital",10,0,"","","",500,"","","",1000,"","","",0,"","","",1500,"Entre Ríos","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Puerto Ibicuy","Trámites",22,0,"","","",0,"","","",10,"","","",4,"","","",14,"Entre Ríos","Trámites Nacionales","ANSES",2
+"Puerto Ibicuy","Ciudadanía y DD",25,0,"","","",0,"","","",10,"","","",0,"","","",10,"Entre Ríos","Comunidad","Capacitación a agentes municipales",1
+"Puerto Ibicuy","Cultura y Entretenimiento",31,1400,"","","",2750,"","","",323,"","","",0,"","","",4473,"Entre Ríos","Uso Libre","Navegación libre",7
+"Orán","Ciudadanía y DD",25,0,"","","",0,"","","",135,"","","",0,"","","",135,"Salta","Comunidad","Otros",6
+"Orán","Formación Laboral",13,0,"","","",0,"","","",52,"","","",0,"","","",52,"Salta","Oficios manuales","Otras",2
+"Cachi","Cultura y Entretenimiento",31,0,"","","",73,"","","",52,"","","",0,"","","",125,"Salta","Uso Libre","Navegación libre",1
+"Apolinario Saravia","Trámites",22,0,"","","",400,"","","",1200,"","","",0,"","","",1600,"Salta","Trámites Nacionales","Otros",1
+"Apolinario Saravia","Ciudadanía y DD",25,0,"","","",15,"","","",6,"","","",0,"","","",21,"Salta","Comunidad","Otros",1
+"Apolinario Saravia","Cultura y Entretenimiento",31,0,"","","",0,"","","",40,"","","",0,"","","",40,"Salta","Artes","Otros",1
+"Villa Eloísa","Ciudadanía y DD",25,0,"","","",3,"","","",9,"","","",0,"","","",12,"Santa Fe","Comunidad","Otros",2
+"Villa Eloísa","Trámites",22,0,"","","",90,"","","",363,"","","",90,"","","",543,"Santa Fe","Trámites Nacionales","ANSES",5
+"Villa Eloísa","Ciudadanía y DD",25,0,"","","",0,"","","",16,"","","",0,"","","",16,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"Villa Eloísa","Cultura y Entretenimiento",31,0,"","","",20,"","","",104,"","","",45,"","","",169,"Santa Fe","Artes","Otros",2
+"San Jerónimo","Educación",16,0,"","","",4,"","","",0,"","","",0,"","","",4,"Santa Fe","Complementos de la educación formal","Apoyo escolar",1
+"San Jerónimo","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Trámites Nacionales","Otros",1
+"San Jerónimo","Ciudadanía y DD",25,0,"","","",5,"","","",42,"","","",0,"","","",47,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"Vaqueros","Ciudadanía y DD",25,0,"","","",0,"","","",10,"","","",0,"","","",10,"Salta","Comunidad","Otros",1
+"Vaqueros","Ciudadanía y DD",25,0,"","","",15,"","","",2,"","","",0,"","","",17,"Salta","Comunidad","Capacitación a agentes municipales",1
+"Vaqueros","Cultura y Entretenimiento",31,0,"","","",0,"","","",63,"","","",10,"","","",73,"Salta","Artes","Otros",5
+"Ciudad de Córdoba IV (CDF)","Educación",16,0,"","","",10,"","","",45,"","","",0,"","","",55,"Córdoba","Complementos de la educación formal","Otros",1
+"Ciudad de Córdoba IV (CDF)","Cultura y Entretenimiento",31,35,"","","",150,"","","",500,"","","",100,"","","",785,"Córdoba","Artes","Otros",1
+"Villa Regina","Ciudadanía y DD",25,0,"","","",833,"","","",801,"","","",630,"","","",2264,"Río Negro","Comunidad","Otros",13
+"Villa Regina","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Río Negro","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Villa Regina","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Río Negro","Oficios manuales","Agricultura Orgánica",1
+"Maquinchao","Ciudadanía y DD",25,0,"","","",2,"","","",10,"","","",0,"","","",12,"Río Negro","Comunidad","Otros",4
+"Maquinchao","Alfabetización Digital",10,0,"","","",4,"","","",6,"","","",0,"","","",10,"Río Negro","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Maquinchao","Trámites",22,0,"","","",8,"","","",37,"","","",27,"","","",72,"Río Negro","Trámites Nacionales","Otros",2
+"Maquinchao","Cultura y Entretenimiento",31,0,"","","",2,"","","",4,"","","",0,"","","",6,"Río Negro","Uso Libre","Navegación libre",1
+"Fiambalá","Trámites",22,0,"","","",50,"","","",150,"","","",0,"","","",200,"Catamarca","Trámites Nacionales","Otros",1
+"Chacabuco","Ciudadanía y DD",25,0,"","","",0,"","","",12,"","","",0,"","","",12,"Buenos Aires","Comunidad","Otros",6
+"Chacabuco","Alfabetización Digital",10,0,"","","",0,"","","",76,"","","",40,"","","",116,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",5
+"Chacabuco","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios digitales","Otras",1
+"Chacabuco","Trámites",22,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Trámites Nacionales","Otros",3
+"Chacabuco","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Comunidad","Otros",2
+"Puesto Viejo","Trámites",22,0,"","","",3,"","","",11,"","","",2,"","","",16,"Jujuy","Trámites Nacionales","ANSES",1
+"Puesto Viejo","Cultura y Entretenimiento",31,0,"","","",3,"","","",70,"","","",5,"","","",78,"Jujuy","Artes","Otros",2
+"Famatina II (Pituil)","Trámites",22,0,"","","",9,"","","",58,"","","",4,"","","",71,"La Rioja","Trámites Nacionales","Otros",1
+"Villa Elisa","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Entre Ríos","Comunidad","Otros",3
+"Villa Elisa","Formación Laboral",13,0,"","","",44,"","","",0,"","","",0,"","","",44,"Entre Ríos","Oficios digitales","Otras",4
+"Villa Elisa","Trámites",22,0,"","","",0,"","","",6,"","","",0,"","","",6,"Entre Ríos","Trámites Nacionales","Otros",1
+"Villa Elisa","Ciudadanía y DD",25,3,"","","",3,"","","",208,"","","",0,"","","",214,"Entre Ríos","Comunidad","Otros",2
+"Villa Elisa","Cultura y Entretenimiento",31,0,"","","",145,"","","",4,"","","",0,"","","",149,"Entre Ríos","Uso Libre","Navegación libre",1
+"Villa Carlos Paz","Ciudadanía y DD",25,0,"","","",44,"","","",20,"","","",13,"","","",77,"Córdoba","Comunidad","Otros",3
+"Villa Carlos Paz","Formación Laboral",13,0,"","","",76,"","","",64,"","","",9,"","","",149,"Córdoba","Oficios digitales","Otras",4
+"Marull","Ciudadanía y DD",25,0,"","","",0,"","","",6,"","","",3,"","","",9,"Córdoba","Comunidad","Otros",2
+"Marull","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Marull","Trámites",22,0,"","","",10,"","","",35,"","","",12,"","","",57,"Córdoba","Trámites Nacionales","Otros",1
+"Marull","Cultura y Entretenimiento",31,0,"","","",7,"","","",17,"","","",0,"","","",24,"Córdoba","Uso Libre","Uso libre del espacio de microcine",2
+"Almafuerte","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Almafuerte","Trámites",22,0,"","","",60,"","","",320,"","","",40,"","","",420,"Misiones","Trámites Nacionales","Otros",1
+"Almafuerte","Cultura y Entretenimiento",31,20,"","","",20,"","","",5,"","","",0,"","","",45,"Misiones","Uso Libre","Navegación libre",1
+"San Carlos II (Eugenio Bustos, Mendoza)","Cultura y Entretenimiento",31,0,"","","",15,"","","",7,"","","",0,"","","",22,"Mendoza","Artes","Otros",1
+"Tapso","Ciudadanía y DD",25,0,"","","",2,"","","",53,"","","",0,"","","",55,"Catamarca","Comunidad","Otros",9
+"Tapso","Formación Laboral",13,0,"","","",0,"","","",5,"","","",0,"","","",5,"Catamarca","Oficios digitales","Otras",1
+"Tapso","Trámites",22,0,"","","",20,"","","",120,"","","",0,"","","",140,"Catamarca","Trámites Nacionales","ANSES",1
+"Tapso","Ciudadanía y DD",25,0,"","","",0,"","","",14,"","","",0,"","","",14,"Catamarca","Comunidad","Otros",1
+"Tapso","Cultura y Entretenimiento",31,0,"","","",0,"","","",17,"","","",0,"","","",17,"Catamarca","Artes","Otros",2
+"La Quiaca III (CIC)","Educación",16,0,"","","",10,"","","",6,"","","",0,"","","",16,"Jujuy","Complementos de la educación formal","Otros",1
+"La Quiaca III (CIC)","Trámites",22,0,"","","",0,"","","",4,"","","",0,"","","",4,"Jujuy","Trámites Nacionales","Otros",1
+"Dina Huapi","Ciudadanía y DD",25,0,"","","",0,"","","",1,"","","",0,"","","",1,"Río Negro","Comunidad","Otros",2
+"Gobernador Costa","Ciudadanía y DD",25,0,"","","",0,"","","",5,"","","",0,"","","",5,"Chubut","Comunidad","Otros",5
+"Gobernador Costa","Educación",16,45,"","","",21,"","","",18,"","","",0,"","","",84,"Chubut","Complementos de la educación formal","Apoyo escolar",2
+"Gobernador Costa","Trámites",22,0,"","","",0,"","","",15,"","","",2,"","","",17,"Chubut","Trámites Municipales","MUNICIPIO",1
+"Sierra Grande","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Río Negro","Comunidad","Otros",1
+"Sierra Grande","Cultura y Entretenimiento",31,0,"","","",5,"","","",63,"","","",0,"","","",68,"Río Negro","Artes","Otros",1
+"Caucete","Ciudadanía y DD",25,0,"","","",0,"","","",65,"","","",0,"","","",65,"San Juan","Comunidad","Otros",13
+"Caucete","Alfabetización Digital",10,0,"","","",0,"","","",46,"","","",0,"","","",46,"San Juan","Alfabetización Digital","Alfabetización Digital Inicial",2
+"Caucete","Trámites",22,0,"","","",0,"","","",14,"","","",6,"","","",20,"San Juan","Trámites Nacionales","ANSES",1
+"Caucete","Ciudadanía y DD",25,0,"","","",0,"","","",32,"","","",0,"","","",32,"San Juan","Comunidad","Capacitación a agentes municipales",1
+"Villa Cura Brochero","Ciudadanía y DD",25,2,"","","",38,"","","",7,"","","",0,"","","",47,"Córdoba","Comunidad","Otros",4
+"Villa Cura Brochero","Ciudadanía y DD",25,0,"","","",5,"","","",21,"","","",0,"","","",26,"Córdoba","Comunidad","Capacitación a agentes municipales",1
+"Villa Cura Brochero","Cultura y Entretenimiento",31,45,"","","",462,"","","",26,"","","",0,"","","",533,"Córdoba","Uso Libre","Navegación libre",2
+"Pilar (Santa Fe)","Ciudadanía y DD",25,0,"","","",0,"","","",28,"","","",0,"","","",28,"Santa Fe","Comunidad","Otros",8
+"Pilar (Santa Fe)","Educación",16,0,"","","",7,"","","",10,"","","",0,"","","",17,"Santa Fe","Complementos de la educación formal","Apoyo escolar",2
+"Pilar (Santa Fe)","Trámites",22,0,"","","",15,"","","",64,"","","",16,"","","",95,"Santa Fe","Trámites Nacionales","Otros",2
+"Pilar (Santa Fe)","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Santa Fe","Comunidad","Capacitación a agentes municipales",1
+"Pilar (Santa Fe)","Cultura y Entretenimiento",31,160,"","","",40,"","","",135,"","","",100,"","","",435,"Santa Fe","Artes","Otros",6
+"El Chañar","Ciudadanía y DD",25,0,"","","",0,"","","",13,"","","",0,"","","",13,"Tucumán","Comunidad","Capacitación a agentes municipales",1
+"Arroyo Cabral","Educación",16,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Complementos de la educación formal","Otros",2
+"Arroyo Cabral","Trámites",22,0,"","","",33,"","","",47,"","","",19,"","","",99,"Córdoba","Trámites Nacionales","Otros",2
+"Arroyo Cabral","Ciudadanía y DD",25,5,"","","",8,"","","",7,"","","",0,"","","",20,"Córdoba","Comunidad","Otros",1
+"Arroyo Cabral","Cultura y Entretenimiento",31,0,"","","",0,"","","",0,"","","",0,"","","",0,"Córdoba","Uso Libre","Navegación libre",1
+"Colonia Libertad (Corrientes)","Ciudadanía y DD",25,0,"","","",0,"","","",125,"","","",0,"","","",125,"Corrientes","Comunidad","Otros",7
+"Colonia Libertad (Corrientes)","Alfabetización Digital",10,0,"","","",0,"","","",5,"","","",0,"","","",5,"Corrientes","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Colonia Libertad (Corrientes)","Trámites",22,0,"","","",0,"","","",15,"","","",0,"","","",15,"Corrientes","Trámites Nacionales","Otros",1
+"Rumi Punco","Ciudadanía y DD",25,0,"","","",2,"","","",4,"","","",1,"","","",7,"Tucumán","Comunidad","Capacitación a agentes municipales",1
+"Rosales","Ciudadanía y DD",25,33,"","","",246,"","","",357,"","","",331,"","","",967,"Buenos Aires","Comunidad","Otros",13
+"Rosales","Alfabetización Digital",10,1,"","","",2,"","","",9,"","","",1,"","","",13,"Buenos Aires","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Payogasta","Educación",16,0,"","","",90,"","","",95,"","","",0,"","","",185,"Salta","Complementos de la educación formal","Otros",4
+"Humahuaca II (Uquía)","Trámites",22,0,"","","",56,"","","",67,"","","",35,"","","",158,"Jujuy","Trámites Nacionales","ANSES",1
+"Antofagasta de la Sierra II (El Peñón)","Cultura y Entretenimiento",31,0,"","","",5,"","","",30,"","","",0,"","","",35,"Catamarca","Artes","Otros",1
+"General Villegas II","Ciudadanía y DD",25,0,"","","",28,"","","",61,"","","",44,"","","",133,"Buenos Aires","Comunidad","Otros",13
+"General Villegas II","Ciudadanía y DD",25,0,"","","",21,"","","",186,"","","",7,"","","",214,"Buenos Aires","Comunidad","Otros",2
+"General Villegas II","Cultura y Entretenimiento",31,5,"","","",11,"","","",175,"","","",26,"","","",217,"Buenos Aires","Uso Libre","Navegación libre",4
+"Guaminí","Ciudadanía y DD",25,0,"","","",15,"","","",21,"","","",3,"","","",39,"Buenos Aires","Comunidad","Otros",8
+"Guaminí","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Buenos Aires","Oficios manuales","Otras",1
+"Guaminí","Cultura y Entretenimiento",31,5,"","","",10,"","","",9,"","","",1,"","","",25,"Buenos Aires","Uso Libre","Navegación libre",1
+"Guardia Mitre","Ciudadanía y DD",25,0,"","","",6,"","","",40,"","","",0,"","","",46,"Río Negro","Comunidad","Otros",5
+"Guardia Mitre","Educación",16,0,"","","",0,"","","",1,"","","",0,"","","",1,"Río Negro","Complementos de la educación formal","Otros",1
+"Guardia Mitre","Cultura y Entretenimiento",31,25,"","","",24,"","","",10,"","","",0,"","","",59,"Río Negro","Uso Libre","Navegación libre",2
+"San Nicolás de los Arroyos II (CEC)","Ciudadanía y DD",25,0,"","","",3,"","","",113,"","","",0,"","","",116,"Buenos Aires","Comunidad","Otros",12
+"San Nicolás de los Arroyos II (CEC)","Formación Laboral",13,116,"","","",5,"","","",134,"","","",0,"","","",255,"Buenos Aires","Oficios digitales","Otras",13
+"San Nicolás de los Arroyos II (CEC)","Educación",16,50,"","","",26,"","","",198,"","","",0,"","","",274,"Buenos Aires","Complementos de la educación formal","Apoyo escolar",8
+"San Nicolás de los Arroyos II (CEC)","Salud",19,45,"","","",45,"","","",25,"","","",20,"","","",135,"Buenos Aires","Salud","Uso terapéutico del espacio de entretenimiento",3
+"San Nicolás de los Arroyos II (CEC)","Trámites",22,0,"","","",5,"","","",10,"","","",5,"","","",20,"Buenos Aires","Trámites Nacionales","Otros",1
+"San Nicolás de los Arroyos II (CEC)","Cultura y Entretenimiento",31,0,"","","",0,"","","",50,"","","",0,"","","",50,"Buenos Aires","Uso Libre","Navegación libre",1
+"Berisso II (El Carmen)","Ciudadanía y DD",25,0,"","","",56,"","","",71,"","","",3,"","","",130,"Buenos Aires","Comunidad","Otros",8
+"Berisso II (El Carmen)","Trámites",22,0,"","","",6,"","","",22,"","","",6,"","","",34,"Buenos Aires","Trámites Municipales","MUNICIPIO",3
+"Ranchillos","Trámites",22,0,"","","",90,"","","",50,"","","",15,"","","",155,"Tucumán","Trámites Nacionales","ANSES",1
+"Ranchillos","Cultura y Entretenimiento",31,0,"","","",80,"","","",230,"","","",25,"","","",335,"Tucumán","Uso Libre","Navegación libre",2
+"Concarán","Ciudadanía y DD",25,4,"","","",15,"","","",31,"","","",16,"","","",66,"San Luis","Comunidad","Otros",13
+"Concarán","Alfabetización Digital",10,0,"","","",0,"","","",468,"","","",36,"","","",504,"San Luis","Alfabetización Digital","Alfabetización Digital Inicial",1
+"Concarán","Trámites",22,0,"","","",0,"","","",6,"","","",3,"","","",9,"San Luis","Trámites Nacionales","ANSES",3
+"Concarán","Cultura y Entretenimiento",31,10,"","","",0,"","","",12,"","","",0,"","","",22,"San Luis","Uso Libre","Navegación libre",1
+"Aristóbulo del Valle","Ciudadanía y DD",25,0,"","","",0,"","","",5,"","","",0,"","","",5,"Misiones","Comunidad","Otros",1
+"Aristóbulo del Valle","Alfabetización Digital",10,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Alfabetización Digital","Alfabetización Digital Inicial",4
+"Aristóbulo del Valle","Formación Laboral",13,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Oficios digitales","Otras",4
+"Aristóbulo del Valle","Educación",16,0,"","","",16,"","","",7,"","","",0,"","","",23,"Misiones","Complementos de la educación formal","Apoyo escolar",1
+"Aristóbulo del Valle","Trámites",22,0,"","","",380,"","","",1248,"","","",29,"","","",1657,"Misiones","Trámites Nacionales","ANSES",2
+"Aristóbulo del Valle","Ciudadanía y DD",25,0,"","","",0,"","","",0,"","","",0,"","","",0,"Misiones","Comunidad","Capacitación a agentes municipales",2
+"Aristóbulo del Valle","Cultura y Entretenimiento",31,0,"","","",2,"","","",132,"","","",13,"","","",147,"Misiones","Artes","Otros",7
