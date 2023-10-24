@@ -71,11 +71,16 @@ Incluir libros, artículos científicos, sitios web, repositorios digitales de d
 
 ## 0. Acciones Preliminares
 
+**Variables de Entorno**
 ```{r variables}
 # Warnings de Librerías
 WARN_ACT <- FALSE
 PATH <- "datos/"
+PATH2 <- "datos/actividades/"
 puntos_arch <- "puntos_digitales.csv"
+comprimido <- "departamentos.7z"
+departamentos <- "departamentos.json"
+indicadores <- "indicadores.shp"
 ```
 
 **Instalación condicional de librerías**
@@ -95,11 +100,12 @@ instalar("gtExtras")
 instalar("tmap")
 instalar("sf")
 instalar("leaflet")
+instalar("archive")
+instalar("ggplot2")
 
 # instalar("Hmisc")
 # instalar("purrr")
 # instalar("lattice")
-# instalar("ggplot2")
 # instalar("readr")
 # instalar("cluster")
 # instalar("dplyr")
@@ -136,10 +142,11 @@ cargar("gt")           # tablas
 cargar("gtExtras")     # tablas
 cargar("tmap")         # mapas interactivos
 cargar("sf")           # datos geoespaciales
-cargar("leaflet")
+cargar("leaflet")      # mapas interactivos
+cargar("archive")      # urilidades
+cargar("ggplot2")      # graficación
 
 # cargar("lattice")      # graficación estadistica
-# cargar("ggplot2")      # graficación
 # cargar("cluster")      # clustering
 # cargar("skimr")        # estadísticas
 # cargar("stats")        # estadísticas
@@ -227,17 +234,10 @@ tm_basemap(capas) +
 
 ```
 
-```{r}
-c(colnames(puntos))
-```
-
-
-
 
 **Diccionario**
 ```{r diccionario}
 # diccionario de datos
-
 
 descripciones <- c(
   "Identificador del Punto Digital",
@@ -278,6 +278,112 @@ diccionario |>
 ```
 
 
+#### 1.1.2 Indicadores
+
+Se cargan indicadores sobre hogares con celualar y hogares con computadora del Censo 2010.
+
+**Carga de Indicadores**
+```{r indicadores}
+indicadores_geo <- sf::st_read(paste0(PATH, indicadores))
+head(indicadores_geo)
+
+```
+**Computadoras**
+```{r compu_mapa}
+
+ggplot(indicadores_geo, aes(fill = 100*H_COMPUTAD/H_TOTAL, geometry = geometry)) +
+    geom_sf() +
+    scale_fill_viridis_c(option = "B", 
+                       limits = c(0, 100),
+                       direction = -1,
+                       name = "Hogares con Computadora",
+                       labels = scales::percent_format(scale = 1)
+                       ) +
+    labs(title = "Hogares con Computadoras")
+
+```
+
+
+**Celulares**
+```{r celu_mapa}
+
+ggplot(indicadores_geo, aes(fill = 100*H_CELULAR/H_TOTAL, geometry = geometry)) +
+    geom_sf() +
+    scale_fill_viridis_c(option = "B", 
+                       limits = c(0, 100),
+                       direction = -1,
+                       name = "Hogares con Celular",
+                       labels = scales::percent_format(scale = 1)
+                       ) +
+    labs(title = "Hogares con Teléfono Celular")
+
+```
+
+**Polígonos de Departamentos IGN**
+```{r departamentos}
+# Descomprimir el archivo 7-Zip
+if (!file.exists(file.path(PATH, departamentos))) {
+  archive_extract(paste0(PATH, comprimido), PATH)
+}
+
+deptos_geo <- st_read(paste0(PATH, departamentos))
+deptos <- as.data.frame(deptos_geo)
+
+
+sample_n(select(deptos, -geometry), 10) |>
+  gt() |>
+  tab_header(title = "Departamentos* - GeoDataFrame",
+             subtitle = "* muestra"
+             ) |>
+  tab_options(table.width = "90%") |>
+  gt_theme_pff()
+```
+```{r deptos_mapa}
+ggplot() +
+    geom_sf(data = subset(deptos_geo, in1!="94028")) + # 92028 antartida
+    labs(title = "Partidos de Argentina")
+# deptos_centroides <- deptos_geo |> 
+# mutate (geometry = st_centroid(geometry))
+
+```
+
+#### 1.1.3 Actividades
+
+Lista de Actividades de los Puntos Digitales
+
+**Carga de Bases Mensuales**
+```{r carga_act}
+lista <- list()
+archivos <- list.files(path = PATH2, pattern = "^[0-9]{4}-[0-9]{2}\\.csv")
+
+for (archivo in archivos) {
+  df <- read.csv(file.path(PATH2, archivo), sep = ",", encoding = "ISO-8859-1")
+  # extrae fecha del n de archivo
+  fecha <- strsplit(tools::file_path_sans_ext(archivo), "-", fixed = TRUE)[[1]]
+  df <- df |> 
+    mutate(anio = as.integer(trimws(fecha[1])),
+           mes = as.integer(trimws(fecha[2])))
+  lista <- c(lista, list(df))
+}
+
+actividades <- bind_rows(lista)
+
+```
+
+
+**Muestra de Actividades Mensuales**
+```{r muestra_}
+sample_n(actividades, 10) |> 
+  gt() |> 
+  tab_header(
+    title = "Actividades*",
+    subtitle = "* muestra"
+  ) |>
+  tab_options(table.width = "100%") |>
+  opt_stylize(style = 5, color = 'cyan')
+```
+
+
 **Matriz de Correlación**
 ```{r natriz, eval=FALSE, include=FALSE}
 # Matriz de correlación# 
@@ -312,6 +418,10 @@ corrplot(
 # dev.off()
 # matriz_cor
 ```
+
+
+
+
 
 ### Links
 http://www.bahra.gob.ar/
