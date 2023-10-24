@@ -25,6 +25,8 @@
 # RStudio files
 .Rproj.user/
 
+# varios
+datos/departamentos.json
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
