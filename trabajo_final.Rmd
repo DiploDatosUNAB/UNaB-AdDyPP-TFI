@@ -78,9 +78,9 @@ WARN_ACT <- FALSE
 PATH <- "datos/"
 PATH2 <- "datos/actividades/"
 puntos_arch <- "puntos_digitales.csv"
-comprimido <- "departamentos.7z"
-departamentos <- "departamentos.json"
-indicadores <- "indicadores.shp"
+comp_arch <- "departamentos.7z"
+depto_arch <- "departamentos.json"
+indic_arch <- "indicadores.shp"
 ```
 
 **Instalación condicional de librerías**
@@ -284,8 +284,15 @@ Se cargan indicadores sobre hogares con celualar y hogares con computadora del C
 
 **Carga de Indicadores**
 ```{r indicadores}
-indicadores_geo <- sf::st_read(paste0(PATH, indicadores))
-head(indicadores_geo)
+indicadores_geo <- sf::st_read(paste0(PATH, indic_arch))
+indicadores <- as.data.frame(indicadores_geo)
+sample_n(select(indicadores,-geometry),10) |>
+  gt(rowname_col = "DPTO_1") |> 
+  tab_header(
+    title = "Lista de Indicadores",
+  ) |>
+  tab_options(table.width = "100%") |>
+  gt_theme_dot_matrix()
 
 ```
 **Computadoras**
@@ -322,11 +329,11 @@ ggplot(indicadores_geo, aes(fill = 100*H_CELULAR/H_TOTAL, geometry = geometry)) 
 **Polígonos de Departamentos IGN**
 ```{r departamentos}
 # Descomprimir el archivo 7-Zip
-if (!file.exists(file.path(PATH, departamentos))) {
-  archive_extract(paste0(PATH, comprimido), PATH)
+if (!file.exists(file.path(PATH, depto_arch))) {
+  archive_extract(paste0(PATH, comp_arch), PATH)
 }
 
-deptos_geo <- st_read(paste0(PATH, departamentos))
+deptos_geo <- st_read(paste0(PATH, depto_arch))
 deptos <- as.data.frame(deptos_geo)
 
 
@@ -383,6 +390,35 @@ sample_n(actividades, 10) |>
   opt_stylize(style = 5, color = 'cyan')
 ```
 
+
+**Lista de actividades**
+```{r listado}
+# Cuadro de actividades 
+# https://gt.albert-rapp.de/getting_started#use-groups-instead-of-repetitive-columns
+# https://github.com/rstudio/gt/issues/577
+# https://github.com/rstudio/gt/issues/545
+
+act_listado <- actividades |> 
+  select(eje, categoria, subcategoria)  |> 
+  distinct() |> 
+  arrange(eje, categoria, subcategoria)
+
+act_listado |>
+  gt(groupname_col = "eje") |>
+  # cols_merge(columns = c(eje, categoria)) |> 
+  tab_header(
+    title = "Lista de Actividades*",
+    subtitle = "* listado completo"
+  ) |>
+  tab_options(row_group.as_column = TRUE, table.width = "85%") |>
+  opt_stylize(style = 5, color = 'cyan')
+  
+```
+
+
+
+
+## 2. Otras
 
 **Matriz de Correlación**
 ```{r natriz, eval=FALSE, include=FALSE}
