@@ -455,7 +455,11 @@ corrplot(
 # matriz_cor
 ```
 
+## Información de la sesión
 
+```{r sesion}
+sessionInfo()
+```
 
 
 
