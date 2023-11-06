@@ -102,6 +102,9 @@ instalar("sf")
 instalar("leaflet")
 instalar("archive")
 instalar("ggplot2")
+instalar("geoAr")
+instalar("httr")
+
 
 # instalar("Hmisc")
 # instalar("purrr")
@@ -145,6 +148,8 @@ cargar("sf")           # datos geoespaciales
 cargar("leaflet")      # mapas interactivos
 cargar("archive")      # urilidades
 cargar("ggplot2")      # graficación
+cargar("geoAr")        # geodatos argentina
+instalar("httr")       # manejo de solicitudes http
 
 # cargar("lattice")      # graficación estadistica
 # cargar("cluster")      # clustering
@@ -379,7 +384,7 @@ actividades <- bind_rows(lista)
 
 
 **Muestra de Actividades Mensuales**
-```{r muestra_}
+```{r muestra_actividades}
 sample_n(actividades, 10) |> 
   gt() |> 
   tab_header(
@@ -415,7 +420,120 @@ act_listado |>
   
 ```
 
+**Datos de GeoAr**
 
+```{r geoar codes}
+show_arg_codes(viewer = FALSE, nivel = "departamentos")
+```
+
+
+```{r geoar getgeo}
+# https://rdrr.io/cran/geoAr/src/R/get_geo.R
+# NOTA ALE: puede que esten fallando por un tema de proxy laboral. probar en casa.
+get_geo(geo = "ARGENTINA", level = "provincia")
+
+```
+
+```{r aglomerados}
+# https://rdrr.io/cran/geoAr/src/R/get_eph.R
+# simplified por defecto es TRUE y determina la descarga de una versión simplificada de las geometrias. Con FALSE descarga la versión original de INDEC
+
+# entidades https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data/aglos_simplified.geojson
+# radios https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data/radios_eph_simplified.geojson
+# envolventes https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data/aglos_envolventes_simplified.geojson
+# not simplified
+# entidades https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/entidades_eph.geojson
+# radios https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/radios_eph.geojson
+# envolventes https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/aglos_envolventes.geojson
+
+entidades  <-  "https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/entidades_eph.geojson"
+radios <- "https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/radios_eph.geojson"
+envolventes <- "https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/aglos_envolventes.geojson"
+
+
+aglomerados <- get_eph(
+  geo = "ARGENTINA",
+  simplified = TRUE,
+  centroid = FALSE,
+  level = "envolventes"
+)
+```
+
+```{r aglomerados1}
+# https://gist.github.com/cderv/34ca743f5d39f27666b7636e5715d27f
+# https://community.rstudio.com/t/install-packages-only-works-with-wininet-how-set-default-download-file-method-to-wininet/172779
+# temp_file <- tempfile(fileext = ".geojson")
+# GET(entidades, write_disk(temp_file, overwrite=TRUE))
+# aglomerado_ent <- sf::st_read(temp_file)
+
+download.file(entidades, "datos/entidades_eph.geojson", method = "wininet")
+aglomerado_ent <- sf::st_read("datos/entidades_eph.geojson")
+
+aglomerados1 <- as.data.frame(aglomerado_ent)
+sample_n(select(aglomerados1,-geometry),10) |>
+  gt() |> 
+  tab_header(
+    title = "Aglomerados - Entidades*",
+    subtitle = "* muestra"
+  ) |>
+  tab_options(table.width = "100%") |>
+  opt_stylize(style = 5, color = 'cyan')
+
+
+ggplot(aglomerado_ent) +
+    geom_sf() + # 92028 antartida
+    labs(title = "Aglomerados - Entidades")
+```
+
+```{r aglomerados2}
+# temp_file <- tempfile(fileext = ".geojson")
+# GET(radios, write_disk(temp_file, overwrite=TRUE))
+# aglomerado_rad <- sf::st_read(temp_file)
+
+download.file(entidades, "datos/radios_eph.geojson", method = "wininet")
+aglomerado_rad <- sf::st_read("datos/radios_eph.geojson")
+
+
+aglomerados2 <- as.data.frame(aglomerado_rad)
+sample_n(select(aglomerados2,-geometry),10) |>
+  gt() |> 
+  tab_header(
+    title = "Aglomerados - Radios*",
+    subtitle = "* muestra"
+  ) |>
+  tab_options(table.width = "100%") |>
+  opt_stylize(style = 5, color = 'cyan')
+
+
+ggplot(aglomerado_rad) +
+    geom_sf() + # 92028 antartida
+    labs(title = "Aglomerados - Radios")
+```
+
+
+```{r aglomerados3}
+# temp_file <- tempfile(fileext = ".geojson")
+# GET(envolventes, write_disk(temp_file, overwrite=TRUE))
+# aglomerado_env <- sf::st_read(temp_file)
+
+download.file(entidades, "datos/aglos_envolventes.geojson", method = "wininet")
+aglomerado_env <- sf::st_read("datos/aglos_envolventes.geojson")
+
+aglomerados3 <- as.data.frame(aglomerado_env)
+sample_n(select(aglomerados3,-geometry),10) |>
+  gt() |> 
+  tab_header(
+    title = "Aglomerados - Envolventes*",
+    subtitle = "* muestra"
+  ) |>
+  tab_options(table.width = "100%") |>
+  opt_stylize(style = 5, color = 'cyan')
+
+
+ggplot(aglomerado_env) +
+    geom_sf() + # 92028 antartida
+    labs(title = "Aglomerados - Envolventes")
+```
 
 
 ## 2. Otras
@@ -467,6 +585,7 @@ sessionInfo()
 http://www.bahra.gob.ar/
 https://r-tmap.github.io/tmap-book/layers.html
 https://www.argentina.gob.ar/jefatura/innovacion-publica/servicios-y-pais-digital/punto-digital
+
 
 
 
