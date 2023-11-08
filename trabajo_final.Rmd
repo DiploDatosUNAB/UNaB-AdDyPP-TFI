@@ -1,5 +1,5 @@
 ---
-title: "Asistencias a los Puntos Digitales"
+title: "Asistencias y usos de los Puntos Digitales"
 subtitle: "Trabajo Final Integrador"
 author: Valeria Aguirre, Alejandro Blasco, Fernanda López Franz, Pilar Thill
 date: "2023-10-20"
@@ -39,6 +39,18 @@ body {
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+# Variables de Entorno
+t_inicio <- Sys.time()
+WARN_ACT <- FALSE # Warnings de Librerías
+PATH <- "datos/"
+PATH2 <- "datos/actividades/"
+puntos_arch <- "puntos_digitales.csv"
+depto_comp <- "departamentos.7z"
+depto_arch <- "departamentos.json"
+prov_comp <- "provincia.7z"
+prov_arch <- "ign_provincia.shp"
+indic_arch <- "indicadores.shp"
 ```
 
 ***UNaB***\
@@ -70,18 +82,6 @@ Indicar si la factibilidad del trabajo propuesto, datos disponibles para hacer l
 Incluir libros, artículos científicos, sitios web, repositorios digitales de datos asociados al plan.  En lo posible, hacerlo siguiendo las normas bibliográficas académicas. Por ejemplo https://biblioguias.uma.es/citasybibliografia/ejemplosAPA
 
 ## 0. Acciones Preliminares
-
-**Variables de Entorno**
-```{r variables}
-# Warnings de Librerías
-WARN_ACT <- FALSE
-PATH <- "datos/"
-PATH2 <- "datos/actividades/"
-puntos_arch <- "puntos_digitales.csv"
-comp_arch <- "departamentos.7z"
-depto_arch <- "departamentos.json"
-indic_arch <- "indicadores.shp"
-```
 
 **Instalación condicional de librerías**
 
@@ -335,7 +335,7 @@ ggplot(indicadores_geo, aes(fill = 100*H_CELULAR/H_TOTAL, geometry = geometry)) 
 ```{r departamentos}
 # Descomprimir el archivo 7-Zip
 if (!file.exists(file.path(PATH, depto_arch))) {
-  archive_extract(paste0(PATH, comp_arch), PATH)
+  archive_extract(paste0(PATH, depto_comp), PATH)
 }
 
 deptos_geo <- st_read(paste0(PATH, depto_arch))
@@ -358,6 +358,35 @@ ggplot() +
 # mutate (geometry = st_centroid(geometry))
 
 ```
+```{r provincias}
+# https://datos.gob.ar/dataset/ign-unidades-territoriales/archivo/ign_01.02.02
+
+# Descomprimir el archivo 7-Zip
+if (!file.exists(file.path(PATH, prov_arch))) {
+  archive_extract(paste0(PATH, prov_comp), PATH)
+}
+
+prov_geo <- st_read(paste0(PATH, prov_arch))
+prov_geo <- st_zm(prov_geo, drop = TRUE) #corrige las geometrías de los polígonos que están en 3d
+provincias <- as.data.frame(prov_geo)
+
+
+sample_n(select(provincias, -geometry), 10) |>
+  gt() |>
+  tab_header(title = "Provincias* - GeoDataFrame",
+             subtitle = "* muestra"
+             ) |>
+  tab_options(table.width = "90%") |>
+  gt_theme_pff()
+```
+
+```{r prov_mapa}
+ggplot() +
+    geom_sf(data = prov_geo) +
+    labs(title = "Provincias de Argentina")
+```
+
+
 
 #### 1.1.3 Actividades
 
@@ -466,7 +495,10 @@ aglomerados <- get_eph(
 # GET(entidades, write_disk(temp_file, overwrite=TRUE))
 # aglomerado_ent <- sf::st_read(temp_file)
 
-download.file(entidades, "datos/entidades_eph.geojson", method = "wininet")
+if (!file.exists(file.path("datos/entidades_eph.geojson"))) {
+  download.file(entidades, "datos/entidades_eph.geojson", method = "wininet")
+}
+
 aglomerado_ent <- sf::st_read("datos/entidades_eph.geojson")
 
 aglomerados1 <- as.data.frame(aglomerado_ent)
@@ -480,9 +512,11 @@ sample_n(select(aglomerados1,-geometry),10) |>
   opt_stylize(style = 5, color = 'cyan')
 
 
-ggplot(aglomerado_ent) +
-    geom_sf() + # 92028 antartida
-    labs(title = "Aglomerados - Entidades")
+ggplot() +
+    # geom_sf(data = subset(prov_geo, IN1=="06")) + 
+    geom_sf(data = subset(aglomerado_ent, eph_codagl=="02")) + 
+    labs(title = "Aglomerados - Entidades*",
+         subtitle = "*gran la plata")
 ```
 
 ```{r aglomerados2}
@@ -490,9 +524,11 @@ ggplot(aglomerado_ent) +
 # GET(radios, write_disk(temp_file, overwrite=TRUE))
 # aglomerado_rad <- sf::st_read(temp_file)
 
-download.file(entidades, "datos/radios_eph.geojson", method = "wininet")
-aglomerado_rad <- sf::st_read("datos/radios_eph.geojson")
+if (!file.exists(file.path("datos/radios_eph.geojson"))) {
+  download.file(radios, "datos/radios_eph.geojson", method = "wininet")
+}
 
+aglomerado_rad <- sf::st_read("datos/radios_eph.geojson")
 
 aglomerados2 <- as.data.frame(aglomerado_rad)
 sample_n(select(aglomerados2,-geometry),10) |>
@@ -505,9 +541,12 @@ sample_n(select(aglomerados2,-geometry),10) |>
   opt_stylize(style = 5, color = 'cyan')
 
 
-ggplot(aglomerado_rad) +
-    geom_sf() + # 92028 antartida
-    labs(title = "Aglomerados - Radios")
+ggplot() +
+    # geom_sf(data = subset(prov_geo, IN1=="06")) + 
+    geom_sf(data = subset(aglomerado_rad, eph_codagl=="02")) + 
+    labs(title = "Aglomerados - Radios*",
+         subtitle = "*gran la plata")
+
 ```
 
 
@@ -516,7 +555,10 @@ ggplot(aglomerado_rad) +
 # GET(envolventes, write_disk(temp_file, overwrite=TRUE))
 # aglomerado_env <- sf::st_read(temp_file)
 
-download.file(entidades, "datos/aglos_envolventes.geojson", method = "wininet")
+if (!file.exists(file.path("datos/aglos_envolventes.geojson"))) {
+  download.file(envolventes, "datos/aglos_envolventes.geojson", method = "wininet")
+}
+
 aglomerado_env <- sf::st_read("datos/aglos_envolventes.geojson")
 
 aglomerados3 <- as.data.frame(aglomerado_env)
@@ -530,9 +572,12 @@ sample_n(select(aglomerados3,-geometry),10) |>
   opt_stylize(style = 5, color = 'cyan')
 
 
-ggplot(aglomerado_env) +
+ggplot() +
+    # geom_sf(data = subset(prov_geo, IN1=="06")) + 
+    geom_sf(data = subset(aglomerado_env, eph_codagl=="02")) + 
     geom_sf() + # 92028 antartida
-    labs(title = "Aglomerados - Envolventes")
+    labs(title = "Aglomerados - Envolventes*",
+         subtitle = "*gran la plata")
 ```
 
 
@@ -574,6 +619,14 @@ corrplot(
 ```
 
 ## Información de la sesión
+
+
+```{r tiempo_ejecucion}
+t_fin <- Sys.time()  # Registra el tiempo de finalización
+tiempo_ejecucion <- t_fin - t_inicio
+cat("Tiempo de ejecución de la notebook:", tiempo_ejecucion, "segundos")
+```
+
 
 ```{r sesion}
 sessionInfo()
