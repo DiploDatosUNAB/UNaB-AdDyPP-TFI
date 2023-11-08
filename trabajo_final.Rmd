@@ -62,24 +62,85 @@ Juan Domingo González
 
 
 # Objetivos Generales
-Referidos al propósito de la investigación, los Objetivos Generales son potenciales,  puede ser algo muy genérico como “Comprender la problemática del sector X ”
+El objetivo general del presente trabajo consiste en analizar el perfil de los/las asistentes y los usos de los Puntos Digitales (PD) distribuidos a lo largo y a lo ancho del país. En esta línea, nuestra idea -en términos generales- es dimensionar y visualizar las características de los usos (frecuencia, tipo de servicios utilizados, estacionalidad y territorialidad) que el público destinatario confiere a estos Puntos facilitadores de inclusión digital y capacitación tecnológica. También nos interesa indagar en el perfil de los/las usuarios/as de dichos Puntos. 
 
 # Objetivos Específicos   
-El objetivo específico refleja el resultado esperable en el plazo previsto para la realización del plan. 
-El objetivo general, al cual contribuye el objetivo específico, se orienta hacia resultados posibles de obtener en el largo plazo en la línea de investigación mediante trabajos futuros no incluidos en el plan.
+En principio, nos interesa trabajar con los datos mensualizados correspondientes al período 2020-2023 para preguntarnos:
+¿Podemos identificar variaciones estacionales en el flujo de asistencias a los Puntos Digitales que se relacionen con meses escolares, trámites nacionales lanzados, etc?
+¿Cómo es el comportamiento de los/as asistentes según género y edad en los Puntos Digitales?
+¿Podemos identificar los Ejes Temáticos más concurridos según región o provincia? ¿Existe una relación entre la concurrencia a los Puntos Digitales y su ubicación geográfica?
+*   A partir de estas preguntas, algunos objetivos específicos de este trabajo son los siguientes:
+*   Verificar si existen variaciones estacionales en el flujo de asistencias a los Puntos Digitales.
+*   Describir el comportamiento de los/as asistentes a los Puntos Digitales según las variables “género” y “edad”.
+*   Identificar cuáles son los Ejes Temáticos más concurridos por provincia y región.
+*   Corroborar si existe, o no, una relación causal entre ubicación geográfica y asistencia a los Puntos Digitales.
+
 
 # Antecedentes 
-Indicar el estado de la situación, y en lo posible, trabajos similares en literatura especializada o casos de estudio similares que comparten elementos con el tema planteado.
+## Sobre el Programa Punto Digital
+El Programa Punto Digital cuenta con dispositivos instalados a lo largo y ancho del territorio argentino. Su objetivo general y principio fundante es la reducción de la brecha digital a fin de contribuir a mejorar la calidad de vida de las y los habitantes de la República Argentina. En tal sentido, ofrece acceso gratuito y en igualdad de condiciones a la conectividad y a las Tecnologías de la Información y la Comunicación (TIC). Apunta también a establecer las bases para el desarrollo de habilidades digitales que fortalezcan no sólo a las personas en términos individuales, sino también a sus comunidades.
+
+Entre los objetivos específicos de este Programa se encuentran los siguientes:
+*   Reconocer derechos fundamentales y promover un acceso efectivo a los mismos. 
+*   Incentivar el desarrollo de habilidades digitales. 
+*   Promover la participación comunitaria. 
+*   Facilitar el desarrollo de iniciativas locales y del emprendedurismo.
+*   Estimular el desarrollo de oficios manuales y digitales. 
+*   Aportar al reconocimiento de la cultura local. 
+*   Promover el acceso y la producción de bienes culturales. 
+*   Brindar un espacio para el entretenimiento educativo y tecnológico. 
+*   Promover el acceso a la información y al conocimiento. 
+
 
 # Actividades y metodología
-Indicar si la factibilidad del trabajo propuesto, datos disponibles para hacer los análisis, acceso a software especial de análisis de datos y bibliografía. En este análisis, prestar especial atención al tiempo disponible para realizar el trabajo, teniendo en cuenta que es un plan acotado con fecha final aproximada 31-08-2023.
+Uno de los principales insumos para realizar el monitoreo del uso de los Puntos Digitales (PD) por parte de las y los habitantes del territorio es el reporte de asistencias que realiza cada equipo de trabajo local de cada uno de los PD distribuidos a lo largo y a lo ancho del país. En esta línea, cada Punto Digital cuenta con una coordinadora o coordinador que mensualmente carga el listado de actividades (clasificadas por Eje Temático) y las asistencias a cada actividad.
+
+El set de datos se compone de planillas .csv mensualizadas de enero 2020 a septiembre 2023 (el reporte es a mes vencido) sobre el número de participantes según edad, en los Puntos Digitales en funcionamiento de las 24 jurisdicciones de Argentina (23 provincias más CABA). 
+
+Las actividades están estructuradas en nueve (9) ejes, detallados a continuación:
+*   Alfabetización Digital
+*   Capacitaciones PPD
+*   Ciudadanía y Derechos
+*   Cultura y entretenimiento
+*   Educación
+*   Formación Laboral
+*   Géneros y diversidades
+*   Salud
+*   Trámites
+
+Para el año 2023, contamos con datos discriminados según género.Para el procesamiento, análisis y visualización de los datos se utilizará el lenguaje de programación R, y en caso de resultar necesario, se implementarán algoritmos en python desde una notebook de Google Colab.
+
+En un primer momento se realizará un análisis exploratorio de las bases de datos de referencia, tomando en consideración las variables de interés. Luego, la idea es avanzar en las respuestas a los interrogantes planteados, corroborando -o no- las relaciones asumidas entre variables.
+
+## Documentación del Trabajo
+*   Instructivo: https://docs.google.com/document/d/10C4vpgvaZ6-O15YACzMT6j2yr6uPdbJE
 *   Repositorio de datos GitHub: https://github.com/DiploDatosUNAB/UNaB-AdDyPP-TFI 
-*   Drive: 09-Proyecto Final 
-*   Instructivo: Plan de Trabajo - Instructivo.docx
+*   Google Drive: https://colab.research.google.com/drive/1aQRixx_wHTg47hgO3AJC4bYce0W-ihTs
 *   Colab: UNaB - AdDyPP - Trabajo Final Integrador.ipynb
 
+## Fuentes de Datos
+El set de datos seleccionado para trabajar consta de la base mensualizada de Actividades de los Puntos Digitales. Como datos complementarios, se tomará la base georeferenciada de los Puntos Digitales, y los indicadores del Censo Nacional de Población, Hogares y Viviendas 2010 (Disponibilidad de bienes computadora/celular).
+*   Principal
+  *   Actividades en Puntos Digitales: Datos no publicados, provistos por la Subsecretaría de Servicios y País Digital, Secretaría de Innovación Pública, JGM.
+*   Bases Georreferenciadas
+  *   Puntos Digitales: https://www.datos.gob.ar/dataset/jgm-puntos-digitales 
+  *   Polígonos Departamentos (IGN):	https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG 
+  *   Polígonos Provincias (IGN): https://www.datos.gob.ar/dataset/ign-unidades-territoriales/archivo/ign_01.02.02 
+  *   Aglomerados urbanos: https://github.com/PoliticaArgentina/geoAr
+  https://mapa.poblaciones.org/services/metadata/GetMetadataPdf?m=6 
+*   Indicadores
+  *   EPH - Disponibilidad de Bienes: https://mapa.poblaciones.org/map/3701/ 
+  *   Módulo de Acceso y Uso de Tecnologías de la Información y la Comunicación (ENTIC): https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos-3 
+
+
 # Referencias
-Incluir libros, artículos científicos, sitios web, repositorios digitales de datos asociados al plan.  En lo posible, hacerlo siguiendo las normas bibliográficas académicas. Por ejemplo https://biblioguias.uma.es/citasybibliografia/ejemplosAPA
+*   datos.gob.ar (2023, 20 de octubre) Listado de los puntos digitales y su ubicación geográfica, https://www.datos.gob.ar/dataset/jgm-puntos-digitales.
+*   Instituto Nacional de Estadística y Censos - INDEC (2010). Indicadores del Censo Nacional de Población, Hogares y Viviendas 2010. [base de datos], https://mapa.poblaciones.org/map/3701.
+*   Instituto Nacional de Estadística y Censos - INDEC (2015). Encuesta Nacional sobre Acceso y Uso de Tecnologías de la Información y la Comunicación (ENTIC). Informe preliminar sobre indicadores básicos de acceso y uso. Resultados de mayo-julio de 2015. Buenos. Aires, https://www.indec.gob.ar/uploads/informesdeprensa/entic_10_15.pdf 
+*   Instituto Nacional de Estadística y Censos - INDEC. (2019). Manual de estilo (3a edición especial). Buenos Aires, https://www.indec.gob.ar/ftp/cuadros/publicaciones/manual_estilo_indec_03_19.pdf 
+*   Ruiz Nicolini, J.P., Del Boca, P. & Juara, J.G. (2023). geoAr: Argentina’s Spatial Data Toolbox. Versión 0.0.1.5 [R package] https://github.com/PoliticaArgentina/geoAr
+
+# Análisis
 
 ## 0. Acciones Preliminares
 
