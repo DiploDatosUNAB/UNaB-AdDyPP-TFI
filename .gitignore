@@ -2,6 +2,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=r
 
 ### R ###
+
+# Presonalizados
+/datos/ign*.*
+/datos/*.geojson
+
+
 # History files
 .Rhistory
 .Rapp.history
