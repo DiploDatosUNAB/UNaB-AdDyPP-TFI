@@ -45,6 +45,7 @@ t_inicio <- Sys.time()
 WARN_ACT <- FALSE # Warnings de Librerías
 PATH <- "datos/"
 PATH2 <- "datos/actividades/"
+
 puntos_arch <- "puntos_digitales.csv"
 depto_comp <- "departamentos.7z"
 depto_arch <- "departamentos.json"
@@ -66,10 +67,15 @@ El objetivo general del presente trabajo consiste en analizar el perfil de los/l
 
 # Objetivos Específicos   
 En principio, nos interesa trabajar con los datos mensualizados correspondientes al período 2020-2023 para preguntarnos:
+
 ¿Podemos identificar variaciones estacionales en el flujo de asistencias a los Puntos Digitales que se relacionen con meses escolares, trámites nacionales lanzados, etc?
+
 ¿Cómo es el comportamiento de los/as asistentes según género y edad en los Puntos Digitales?
+
 ¿Podemos identificar los Ejes Temáticos más concurridos según región o provincia? ¿Existe una relación entre la concurrencia a los Puntos Digitales y su ubicación geográfica?
-*   A partir de estas preguntas, algunos objetivos específicos de este trabajo son los siguientes:
+
+A partir de estas preguntas, algunos objetivos específicos de este trabajo son los siguientes:
+
 *   Verificar si existen variaciones estacionales en el flujo de asistencias a los Puntos Digitales.
 *   Describir el comportamiento de los/as asistentes a los Puntos Digitales según las variables “género” y “edad”.
 *   Identificar cuáles son los Ejes Temáticos más concurridos por provincia y región.
@@ -81,6 +87,7 @@ En principio, nos interesa trabajar con los datos mensualizados correspondientes
 El Programa Punto Digital cuenta con dispositivos instalados a lo largo y ancho del territorio argentino. Su objetivo general y principio fundante es la reducción de la brecha digital a fin de contribuir a mejorar la calidad de vida de las y los habitantes de la República Argentina. En tal sentido, ofrece acceso gratuito y en igualdad de condiciones a la conectividad y a las Tecnologías de la Información y la Comunicación (TIC). Apunta también a establecer las bases para el desarrollo de habilidades digitales que fortalezcan no sólo a las personas en términos individuales, sino también a sus comunidades.
 
 Entre los objetivos específicos de este Programa se encuentran los siguientes:
+
 *   Reconocer derechos fundamentales y promover un acceso efectivo a los mismos. 
 *   Incentivar el desarrollo de habilidades digitales. 
 *   Promover la participación comunitaria. 
@@ -98,6 +105,7 @@ Uno de los principales insumos para realizar el monitoreo del uso de los Puntos 
 El set de datos se compone de planillas .csv mensualizadas de enero 2020 a septiembre 2023 (el reporte es a mes vencido) sobre el número de participantes según edad, en los Puntos Digitales en funcionamiento de las 24 jurisdicciones de Argentina (23 provincias más CABA). 
 
 Las actividades están estructuradas en nueve (9) ejes, detallados a continuación:
+
 *   Alfabetización Digital
 *   Capacitaciones PPD
 *   Ciudadanía y Derechos
@@ -120,6 +128,7 @@ En un primer momento se realizará un análisis exploratorio de las bases de dat
 
 ## Fuentes de Datos
 El set de datos seleccionado para trabajar consta de la base mensualizada de Actividades de los Puntos Digitales. Como datos complementarios, se tomará la base georeferenciada de los Puntos Digitales, y los indicadores del Censo Nacional de Población, Hogares y Viviendas 2010 (Disponibilidad de bienes computadora/celular).
+
 *   Principal
   *   Actividades en Puntos Digitales: Datos no publicados, provistos por la Subsecretaría de Servicios y País Digital, Secretaría de Innovación Pública, JGM.
 *   Bases Georreferenciadas
@@ -146,7 +155,7 @@ El set de datos seleccionado para trabajar consta de la base mensualizada de Act
 
 **Instalación condicional de librerías**
 
-Instala solos si detecta que falta instalarlas.
+Instala paquetes solos si detecta que no fueron previamente instalados.
 ```{r instalar}
 # instalación condicional de librerías (solo instala si faltan)
 # https://stackoverflow.com/questions/66869137/installing-r-packages-in-colab
@@ -156,6 +165,8 @@ instalar <- function(libreria) {
     install.packages(libreria)
   }
 }
+instalar("readr")
+instalar("dplyr")
 instalar("gt")
 instalar("gtExtras")
 instalar("tmap")
@@ -170,9 +181,7 @@ instalar("httr")
 # instalar("Hmisc")
 # instalar("purrr")
 # instalar("lattice")
-# instalar("readr")
 # instalar("cluster")
-# instalar("dplyr")
 # instalar("stats")
 # instalar("stringr")
 # instalar("corrplot")
@@ -237,6 +246,8 @@ instalar("httr")       # manejo de solicitudes http
 
 El Programa Punto Digital cuenta con dispositivos instalados a lo largo y ancho del territorio argentino. Su objetivo fundamental es la reducción de la brecha digital a los fines de contribuir a la mejora de la calidad de vida de las y los habitantes del país. Esta tabla contiene el listado de los puntos digitales.
 
+
+**Carga listado de puntos digitales**
 ```{r carga_puntos}
 # Puntos digitales
 
@@ -260,18 +271,19 @@ columnas <- c("id_pd", "nombre_pd", "direccion", "nombre_institucional",
 
 ```
 
-**Dimensiones**
+**Dimensiones de la tabla**
 ```{r dimensiones}
 # dimensiones
 cat("El DataFrame tiene", dim(puntos)[1], "observaciones y", dim(puntos)[2], "variables.")
 
 ```
 
-**Medidas de tendencia central - Empleo AMBA**
-```{r bloque014b}
+**Medidas de tendencia central - Puntos Digitales**
+```{r mtc_puntos}
 # Descripción de Empleo AMBA sin desagregar
 summary(puntos)
 ```
+Con los datos de la tabla puede determinarse su ubicación geoespacial.
 
 
 **Mapa**
@@ -295,7 +307,8 @@ tmap_mode("view")
 tm_basemap(capas) +
   tm_shape(puntos_sf, is.master = TRUE) +
   # tm_markers(size = 0.5, popup.vars = mostrar) +
-  tm_dots(size = 0.1,  clustering = T, popup.vars = mostrar) + 
+  # tm_dots(size = 0.05,  clustering = T, popup.vars = mostrar) + # puntos agrupados
+  tm_dots(size = 0.01,  popup.vars = mostrar) + # puntos desagrupados
   tm_layout(main.title = "Puntos Digitales", main.title.size = 0.7);
 
 ```
@@ -343,120 +356,14 @@ diccionario |>
   gt_theme_dot_matrix()
 ```
 
-
-#### 1.1.2 Indicadores
-
-Se cargan indicadores sobre hogares con celualar y hogares con computadora del Censo 2010.
-
-**Carga de Indicadores**
-```{r indicadores}
-indicadores_geo <- sf::st_read(paste0(PATH, indic_arch))
-indicadores <- as.data.frame(indicadores_geo)
-sample_n(select(indicadores,-geometry),10) |>
-  gt(rowname_col = "DPTO_1") |> 
-  tab_header(
-    title = "Lista de Indicadores",
-  ) |>
-  tab_options(table.width = "100%") |>
-  gt_theme_dot_matrix()
-
-```
-**Computadoras**
-```{r compu_mapa}
-
-ggplot(indicadores_geo, aes(fill = 100*H_COMPUTAD/H_TOTAL, geometry = geometry)) +
-    geom_sf() +
-    scale_fill_viridis_c(option = "B", 
-                       limits = c(0, 100),
-                       direction = -1,
-                       name = "Hogares con Computadora",
-                       labels = scales::percent_format(scale = 1)
-                       ) +
-    labs(title = "Hogares con Computadoras")
-
-```
-
-
-**Celulares**
-```{r celu_mapa}
-
-ggplot(indicadores_geo, aes(fill = 100*H_CELULAR/H_TOTAL, geometry = geometry)) +
-    geom_sf() +
-    scale_fill_viridis_c(option = "B", 
-                       limits = c(0, 100),
-                       direction = -1,
-                       name = "Hogares con Celular",
-                       labels = scales::percent_format(scale = 1)
-                       ) +
-    labs(title = "Hogares con Teléfono Celular")
-
-```
-
-**Polígonos de Departamentos IGN**
-```{r departamentos}
-# Descomprimir el archivo 7-Zip
-if (!file.exists(file.path(PATH, depto_arch))) {
-  archive_extract(paste0(PATH, depto_comp), PATH)
-}
-
-deptos_geo <- st_read(paste0(PATH, depto_arch))
-deptos <- as.data.frame(deptos_geo)
-
-
-sample_n(select(deptos, -geometry), 10) |>
-  gt() |>
-  tab_header(title = "Departamentos* - GeoDataFrame",
-             subtitle = "* muestra"
-             ) |>
-  tab_options(table.width = "90%") |>
-  gt_theme_pff()
-```
-```{r deptos_mapa}
-ggplot() +
-    geom_sf(data = subset(deptos_geo, in1!="94028")) + # 92028 antartida
-    labs(title = "Partidos de Argentina")
-# deptos_centroides <- deptos_geo |> 
-# mutate (geometry = st_centroid(geometry))
-
-```
-```{r provincias}
-# https://datos.gob.ar/dataset/ign-unidades-territoriales/archivo/ign_01.02.02
-
-# Descomprimir el archivo 7-Zip
-if (!file.exists(file.path(PATH, prov_arch))) {
-  archive_extract(paste0(PATH, prov_comp), PATH)
-}
-
-prov_geo <- st_read(paste0(PATH, prov_arch))
-prov_geo <- st_zm(prov_geo, drop = TRUE) #corrige las geometrías de los polígonos que están en 3d
-provincias <- as.data.frame(prov_geo)
-
-
-sample_n(select(provincias, -geometry), 10) |>
-  gt() |>
-  tab_header(title = "Provincias* - GeoDataFrame",
-             subtitle = "* muestra"
-             ) |>
-  tab_options(table.width = "90%") |>
-  gt_theme_pff()
-```
-
-```{r prov_mapa}
-ggplot() +
-    geom_sf(data = prov_geo) +
-    labs(title = "Provincias de Argentina")
-```
-
-
-
-#### 1.1.3 Actividades
+#### 1.1.4 Actividades
 
 Lista de Actividades de los Puntos Digitales
 
 **Carga de Bases Mensuales**
 ```{r carga_act}
 lista <- list()
-archivos <- list.files(path = PATH2, pattern = "^[0-9]{4}-[0-9]{2}\\.csv")
+archivos <- list.files(path = PATH2)
 
 for (archivo in archivos) {
   df <- read.csv(file.path(PATH2, archivo), sep = ",", encoding = "ISO-8859-1")
@@ -510,139 +417,300 @@ act_listado |>
   
 ```
 
-**Datos de GeoAr**
 
-```{r geoar codes}
-show_arg_codes(viewer = FALSE, nivel = "departamentos")
+
+### 1.2 Polígonos
+
+#### 1.2.1 Departamentos
+
+**Polígonos de Departamentos IGN**
+```{r departamentos}
+# Descomprimir el archivo 7-Zip
+if (!file.exists(file.path(PATH, depto_arch))) {
+  archive_extract(paste0(PATH, depto_comp), PATH)
+}
+
+deptos_geo <- st_read(paste0(PATH, depto_arch))
+deptos <- as.data.frame(deptos_geo)
+
+
+sample_n(select(deptos, -geometry), 10) |>
+  gt() |>
+  tab_header(title = "Departamentos* - GeoDataFrame",
+             subtitle = "* muestra"
+             ) |>
+  tab_options(table.width = "90%") |>
+  gt_theme_pff()
 ```
 
 
-```{r geoar getgeo}
+**Mapa**
+```{r deptos_mapa}
+ggplot() +
+    geom_sf(data = subset(deptos_geo, in1!="94028")) + # 92028 antartida
+    labs(title = "Partidos de Argentina*",
+         subtitle = "*se omite la Antártida")
+# deptos_centroides <- deptos_geo |> 
+# mutate (geometry = st_centroid(geometry))
+
+```
+
+#### 1.2.2 Provincias
+
+**Polígonos de Provincias IGN**
+```{r provincias}
+# https://datos.gob.ar/dataset/ign-unidades-territoriales/archivo/ign_01.02.02
+
+# Descomprimir el archivo 7-Zip
+if (!file.exists(file.path(PATH, prov_arch))) {
+  archive_extract(paste0(PATH, prov_comp), PATH)
+}
+
+prov_geo <- st_read(paste0(PATH, prov_arch))
+prov_geo <- st_zm(prov_geo, drop = TRUE) #corrige las geometrías de los polígonos que están en 3d
+provincias <- as.data.frame(prov_geo)
+
+
+sample_n(select(provincias, -geometry), 10) |>
+  gt() |>
+  tab_header(title = "Provincias* - GeoDataFrame",
+             subtitle = "* muestra"
+             ) |>
+  tab_options(table.width = "90%") |>
+  gt_theme_pff()
+```
+
+**Mapa**
+```{r prov_mapa}
+ggplot() +
+    geom_sf(data = prov_geo) +
+    labs(title = "Provincias de Argentina")
+```
+#### 1.2.3 Aglomerados Urbanos
+Necesarios para el procesamiento de los datos de la encuesta ENTIC.
+
+Los datos se obtienen del paquete GeoAr.
+
+
+**Geometrías**
+```{r geoar_getgeo}
 # https://rdrr.io/cran/geoAr/src/R/get_geo.R
-# NOTA ALE: puede que esten fallando por un tema de proxy laboral. probar en casa.
-get_geo(geo = "ARGENTINA", level = "provincia")
+# NOTA ALE: puede que esten fallando por un tema de proxy laboral. probar.
+get_geo(geo = "ARGENTINA", level = "provincia", simplified = FALSE)
 
 ```
-
+**Aglomerados Urbanos**
 ```{r aglomerados}
+# Listado de los aglomerados urbanos tomados para la ENTIC
 # https://rdrr.io/cran/geoAr/src/R/get_eph.R
+
 # simplified por defecto es TRUE y determina la descarga de una versión simplificada de las geometrias. Con FALSE descarga la versión original de INDEC
-
-# entidades https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data/aglos_simplified.geojson
-# radios https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data/radios_eph_simplified.geojson
-# envolventes https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data/aglos_envolventes_simplified.geojson
-# not simplified
-# entidades https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/entidades_eph.geojson
-# radios https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/radios_eph.geojson
-# envolventes https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/aglos_envolventes.geojson
-
-entidades  <-  "https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/entidades_eph.geojson"
-radios <- "https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/radios_eph.geojson"
-envolventes <- "https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/aglos_envolventes.geojson"
-
-
-aglomerados <- get_eph(
+aglo_geo <- get_eph(
   geo = "ARGENTINA",
-  simplified = TRUE,
+  simplified = FALSE,
   centroid = FALSE,
   level = "envolventes"
 )
-```
 
-```{r aglomerados1}
-# https://gist.github.com/cderv/34ca743f5d39f27666b7636e5715d27f
+# Si falla la descarga de geoar x proxy
 # https://community.rstudio.com/t/install-packages-only-works-with-wininet-how-set-default-download-file-method-to-wininet/172779
-# temp_file <- tempfile(fileext = ".geojson")
-# GET(entidades, write_disk(temp_file, overwrite=TRUE))
-# aglomerado_ent <- sf::st_read(temp_file)
-
-if (!file.exists(file.path("datos/entidades_eph.geojson"))) {
-  download.file(entidades, "datos/entidades_eph.geojson", method = "wininet")
+# https://gist.github.com/cderv/34ca743f5d39f27666b7636e5715d27f
+if (is.null(aglo_geo)) {
+  direccion <- "https://github.com/PoliticaArgentina/data_warehouse/raw/master/geoAr/data_raw/"
+  entidades  <-  "entidades_eph.geojson"
+  radios <- "radios_eph.geojson"
+  envolventes <- "aglos_envolventes.geojson"
+  aglo_nivel <- envolventes # modificar a gusto
+  if (!file.exists(file.path(paste0(PATH, aglo_nivel)))) {
+    download.file(paste0(direccion, aglo_nivel), paste0(PATH, aglo_nivel), method = "wininet")
+  }
+  aglo_geo <- sf::st_read(paste0(PATH, aglo_nivel))
 }
 
-aglomerado_ent <- sf::st_read("datos/entidades_eph.geojson")
-
-aglomerados1 <- as.data.frame(aglomerado_ent)
-sample_n(select(aglomerados1,-geometry),10) |>
+aglomerados <- as.data.frame(aglo_geo)
+sample_n(select(aglomerados,-geometry),10) |>
   gt() |> 
   tab_header(
-    title = "Aglomerados - Entidades*",
+    title = "Aglomerados Urbanos*",
     subtitle = "* muestra"
   ) |>
   tab_options(table.width = "100%") |>
   opt_stylize(style = 5, color = 'cyan')
 
-
-ggplot() +
-    # geom_sf(data = subset(prov_geo, IN1=="06")) + 
-    geom_sf(data = subset(aglomerado_ent, eph_codagl=="02")) + 
-    labs(title = "Aglomerados - Entidades*",
-         subtitle = "*gran la plata")
 ```
 
-```{r aglomerados2}
-# temp_file <- tempfile(fileext = ".geojson")
-# GET(radios, write_disk(temp_file, overwrite=TRUE))
-# aglomerado_rad <- sf::st_read(temp_file)
+**Mapa de Aglomerados Urbanos**
+```{r aglo_mapa}
 
-if (!file.exists(file.path("datos/radios_eph.geojson"))) {
-  download.file(radios, "datos/radios_eph.geojson", method = "wininet")
-}
+ggplot() +
+    geom_sf(data = subset(prov_geo, IN1=="06"), fill = "white") + 
+    geom_sf(data = subset(aglo_geo, codprov=="06"), fill = "darkgreen") + 
+    labs(title = "Aglomerados Urbanos*",
+         subtitle = "*ejemplo en provncia de Buenos Aires")
+```
 
-aglomerado_rad <- sf::st_read("datos/radios_eph.geojson")
+**Unifica geometrias**
+```{r aglo_unifica}
 
-aglomerados2 <- as.data.frame(aglomerado_rad)
-sample_n(select(aglomerados2,-geometry),10) |>
+aglo_eph <- select(aglo_geo, c(eph_aglome, eph_codagl, nomprov, codprov, geometry)) |>
+  group_by(eph_aglome, eph_codagl) |>
+  summarise(nomprov = list(unique(nomprov)),
+            codprov = list(unique(codprov)),
+            geometry = sf::st_union(geometry))
+
+aglo_muestra <- as.data.frame(aglo_eph)
+aglo_muestra$eph_codagl <- as.integer(aglo_muestra$eph_codagl)
+select(aglo_muestra,-geometry) |>
   gt() |> 
   tab_header(
-    title = "Aglomerados - Radios*",
-    subtitle = "* muestra"
-  ) |>
+    title = "Aglomerados Urbanos unificados*") |>
   tab_options(table.width = "100%") |>
   opt_stylize(style = 5, color = 'cyan')
+  
 
+```
 
-ggplot() +
-    # geom_sf(data = subset(prov_geo, IN1=="06")) + 
-    geom_sf(data = subset(aglomerado_rad, eph_codagl=="02")) + 
-    labs(title = "Aglomerados - Radios*",
-         subtitle = "*gran la plata")
+**Mapa de Aglomerados Urbanos Unificados**
+```{r aglo_mapa_uni}
+tm_basemap(capas) +
+tm_shape(aglo_eph) +
+  tm_borders() +
+  tm_fill(col = "darkgreen") +
+  tm_layout(main.title = "Aglomerados Urbanos",
+            main.title.size = 0.7)
+
 
 ```
 
 
-```{r aglomerados3}
-# temp_file <- tempfile(fileext = ".geojson")
-# GET(envolventes, write_disk(temp_file, overwrite=TRUE))
-# aglomerado_env <- sf::st_read(temp_file)
+### 1.3 Indicadores
 
-if (!file.exists(file.path("datos/aglos_envolventes.geojson"))) {
-  download.file(envolventes, "datos/aglos_envolventes.geojson", method = "wininet")
+#### 1.3.1 Censo 2010
+
+Se cargan indicadores sobre hogares con celualar y hogares con computadora del Censo 2010.
+
+**Carga de Indicadores**
+```{r indicadores}
+indicadores_geo <- sf::st_read(paste0(PATH, indic_arch))
+indicadores <- as.data.frame(indicadores_geo)
+sample_n(select(indicadores,-geometry),10) |>
+  gt(rowname_col = "DPTO_1") |> 
+  tab_header(
+    title = "Lista de Indicadores",
+  ) |>
+  tab_options(table.width = "100%") |>
+  gt_theme_dot_matrix()
+
+```
+En base a los datos, se puede graficar el porcentaje de los hogares que cuentan con computadoras y teléfono celular.
+
+**Computadoras**
+```{r compu_mapa}
+
+ggplot(indicadores_geo, aes(fill = 100*H_COMPUTAD/H_TOTAL, geometry = geometry)) +
+    geom_sf() +
+    scale_fill_viridis_c(option = "B", 
+                       limits = c(0, 100),
+                       direction = -1,
+                       name = "Hogares con Computadora",
+                       labels = scales::percent_format(scale = 1)
+                       ) +
+    labs(title = "Hogares con Computadoras")
+
+```
+
+
+**Celulares**
+```{r celu_mapa}
+
+ggplot(indicadores_geo, aes(fill = 100*H_CELULAR/H_TOTAL, geometry = geometry)) +
+    geom_sf() +
+    scale_fill_viridis_c(option = "B", 
+                       limits = c(0, 100),
+                       direction = -1,
+                       name = "Hogares con Celular",
+                       labels = scales::percent_format(scale = 1)
+                       ) +
+    labs(title = "Hogares con Teléfono Celular")
+
+```
+
+#### 1.3.2 ENTIC
+
+Encuesta Nacional sobre Acceso y Uso de Tecnologías de la Información y la Comunicación (ENTIC) 
+
+
+**Carga de bases ENTIC**
+```{r carga_entic_hogar}
+lista <- list()
+archivos <- list.files(path = "datos/entic/", pattern = "^EPH_usu_hog.*\\.txt")
+
+for (archivo in archivos) {
+  df <- read.csv(file.path("datos/entic/", archivo), sep = ";")
+  lista <- c(lista, list(df))
 }
 
-aglomerado_env <- sf::st_read("datos/aglos_envolventes.geojson")
+entic_hogar <- bind_rows(lista) |>
+  subset(REALIZADA == "1") |>
+  group_by(AGLOMERADO, ANO4) |>
+  summarise(
+    total = n(),
+    comp_si = sum(IH_II_01 == 1),
+    comp_no = sum(IH_II_01 == 2),
+    comp_nc = sum(IH_II_01 == 9),
+    inet_si = sum(IH_II_02 == 1),
+    inet_no = sum(IH_II_02 == 2),
+    inet_nc = sum(IH_II_02 == 9)
+  )
 
-aglomerados3 <- as.data.frame(aglomerado_env)
-sample_n(select(aglomerados3,-geometry),10) |>
-  gt() |> 
+entic_hogar |>
+  left_join(select(aglo_muestra, eph_aglome, eph_codagl), by = c("AGLOMERADO" = "eph_codagl")) |> 
+  gt(groupname_col = c("AGLOMERADO", "eph_aglome")) |> 
   tab_header(
-    title = "Aglomerados - Envolventes*",
-    subtitle = "* muestra"
+    title = "Indicadores por Hogares",
   ) |>
   tab_options(table.width = "100%") |>
-  opt_stylize(style = 5, color = 'cyan')
+  gt_theme_dot_matrix()
 
+```
+```{r carga_entic_persona}
+lista <- list()
+archivos <- list.files(path = "datos/entic/", pattern = "^EPH_usu_Ind.*\\.txt")
 
-ggplot() +
-    # geom_sf(data = subset(prov_geo, IN1=="06")) + 
-    geom_sf(data = subset(aglomerado_env, eph_codagl=="02")) + 
-    geom_sf() + # 92028 antartida
-    labs(title = "Aglomerados - Envolventes*",
-         subtitle = "*gran la plata")
+for (archivo in archivos) {
+  df <- read.csv(file.path("datos/entic/", archivo), sep = ";")
+  lista <- c(lista, list(df))
+}
+
+entic_ind <- bind_rows(lista) |>
+  group_by(AGLOMERADO, ANO4) |>
+  summarise(
+    total = n(),
+    comp_si = sum(IP_III_05 == 1),
+    comp_no = sum(IP_III_05 == 2),
+    comp_nc = sum(IP_III_05 == 9),
+    inet_si = sum(IP_III_04 == 1),
+    inet_no = sum(IP_III_04 == 2),
+    inet_nc = sum(IP_III_04 == 9),
+    celu_si = sum(IP_III_06 == 1),
+    celu_no = sum(IP_III_06 == 2),
+    celu_nc = sum(IP_III_06 == 9)
+  )
+
+entic_ind |>
+  left_join(select(aglo_muestra, eph_aglome, eph_codagl), by = c("AGLOMERADO" = "eph_codagl")) |> 
+  gt(groupname_col = c("AGLOMERADO", "eph_aglome")) |> 
+  tab_header(
+    title = "Indicadores por Persona",
+  ) |>
+  tab_options(table.width = "100%") |>
+  gt_theme_dot_matrix()
+
 ```
 
 
-## 2. Otras
+
+## 2. Otros análisis (pendiente)
 
 **Matriz de Correlación**
 ```{r natriz, eval=FALSE, include=FALSE}
@@ -684,7 +752,7 @@ corrplot(
 
 ```{r tiempo_ejecucion}
 t_fin <- Sys.time()  # Registra el tiempo de finalización
-tiempo_ejecucion <- t_fin - t_inicio
+tiempo_ejecucion <- round(t_fin - t_inicio, 2)
 cat("Tiempo de ejecución de la notebook:", tiempo_ejecucion, "segundos")
 ```
 
