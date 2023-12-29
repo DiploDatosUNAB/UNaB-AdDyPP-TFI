@@ -174,9 +174,11 @@ instalar("sf")
 instalar("leaflet")
 instalar("archive")
 instalar("ggplot2")
-instalar("geoAr")
 instalar("httr")
-install.packages('geoAr', repos = c('https://politicaargentina.r-universe.dev'))
+# instalar("geoAr")
+if (!requireNamespace("geoar", quietly = TRUE)) {
+  install.packages("geoAr", repos = c("https://politicaargentina.r-universe.dev"))
+}
 
 
 # instalar("Hmisc")
@@ -674,6 +676,7 @@ entic_hogar |>
   gt_theme_dot_matrix()
 
 ```
+
 ```{r carga_entic_persona}
 lista <- list()
 archivos <- list.files(path = "datos/entic/", pattern = "^EPH_usu_Ind.*\\.txt")
