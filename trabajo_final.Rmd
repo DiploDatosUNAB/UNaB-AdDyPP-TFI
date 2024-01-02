@@ -174,9 +174,10 @@ instalar("sf")
 instalar("leaflet")
 instalar("archive")
 instalar("ggplot2")
-instalar("geoAr")
 instalar("httr")
-install.packages('geoAr', repos = c('https://politicaargentina.r-universe.dev'))
+if (!requireNamespace("geoAr", quietly = TRUE)) {
+  install.packages("geoAr", repos = c('https://politicaargentina.r-universe.dev'))
+}
 
 
 # instalar("Hmisc")
